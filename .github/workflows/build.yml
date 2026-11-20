@@ -61,3 +61,11 @@ jobs:
           name: smr-english-debug-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
+
+      - name: Publicar APK para descargar desde el movil
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: apk-latest
+          name: SMR English (APK)
+          body: Descarga app-debug.apk e instalalo en el movil.
+          files: android/app/build/outputs/apk/debug/app-debug.apk
