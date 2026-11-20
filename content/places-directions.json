@@ -1,0 +1,402 @@
+[
+ {
+  "id": "pl-0001",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "reception",
+  "es": "recepción",
+  "pos": "noun",
+  "def_en": "The place where visitors arrive and give their details.",
+  "example_en": "Go to the reception on the Ground Floor.",
+  "example_es": "Ve a la recepción de la planta baja.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0002",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "front desk",
+  "es": "mostrador de recepción",
+  "pos": "noun",
+  "def_en": "The desk where a receptionist helps visitors.",
+  "example_en": "Laura greets the client at the front desk.",
+  "example_es": "Laura saluda al cliente en el mostrador.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0003",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "lobby",
+  "es": "vestíbulo",
+  "pos": "noun",
+  "def_en": "The entrance hall of a building.",
+  "example_en": "Please wait in the lobby.",
+  "example_es": "Por favor, espere en el vestíbulo.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0004",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "main entrance",
+  "es": "entrada principal",
+  "pos": "noun",
+  "def_en": "The main door of a building.",
+  "example_en": "Visitors enter through the main entrance.",
+  "example_es": "Los visitantes entran por la entrada principal.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0005",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "ground floor",
+  "es": "planta baja",
+  "pos": "noun",
+  "def_en": "The floor of a building at street level.",
+  "example_en": "The reception is on the ground floor.",
+  "example_es": "La recepción está en la planta baja.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0006",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "first floor",
+  "es": "primera planta",
+  "pos": "noun",
+  "def_en": "The floor above the ground floor.",
+  "example_en": "The IT office is on the first floor.",
+  "example_es": "La oficina de informática está en la primera planta.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0007",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "main corridor",
+  "es": "pasillo principal",
+  "pos": "noun",
+  "def_en": "The long passage that connects the rooms of a floor.",
+  "example_en": "Walk down the main corridor.",
+  "example_es": "Camine por el pasillo principal.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0008",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "lift / elevator",
+  "es": "ascensor",
+  "pos": "noun",
+  "def_en": "A machine that takes people up and down in a building.",
+  "example_en": "Take the lift to the first floor.",
+  "example_es": "Coja el ascensor hasta la primera planta.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0009",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "stairs",
+  "es": "escaleras",
+  "pos": "noun",
+  "def_en": "Steps that connect one floor to another.",
+  "example_en": "Take the stairs on your left.",
+  "example_es": "Suba por las escaleras de su izquierda.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0010",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "break area / lounge",
+  "es": "zona de descanso",
+  "pos": "noun",
+  "def_en": "A room where employees relax and have coffee.",
+  "example_en": "Turn right into the break area.",
+  "example_es": "Gire a la derecha hacia la zona de descanso.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0011",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "kitchenette",
+  "es": "office / cocina pequeña",
+  "pos": "noun",
+  "def_en": "A small kitchen in an office.",
+  "example_en": "Employees heat up their lunch in the kitchenette.",
+  "example_es": "Los empleados calientan su comida en la cocina.",
+  "difficulty": 3,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0012",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "boardroom",
+  "es": "sala de juntas",
+  "pos": "noun",
+  "def_en": "A large room for important meetings of the directors.",
+  "example_en": "The meeting is in the boardroom.",
+  "example_es": "La reunión es en la sala de juntas.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0013",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "meeting room",
+  "es": "sala de reuniones",
+  "pos": "noun",
+  "def_en": "A room where people have meetings.",
+  "example_en": "The meeting room is on your left.",
+  "example_es": "La sala de reuniones está a su izquierda.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0014",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "open-plan office",
+  "es": "oficina diáfana",
+  "pos": "noun",
+  "def_en": "A large office without walls where many people work together.",
+  "example_en": "Most staff work in the open-plan office.",
+  "example_es": "La mayoría del personal trabaja en la oficina diáfana.",
+  "difficulty": 3,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0015",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "archive room",
+  "es": "sala de archivo",
+  "pos": "noun",
+  "def_en": "A room where old documents are kept.",
+  "example_en": "The old contracts are in the archive room.",
+  "example_es": "Los contratos antiguos están en la sala de archivo.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0016",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "IT office",
+  "es": "oficina de informática",
+  "pos": "noun",
+  "def_en": "The office of the technicians who look after the computers.",
+  "example_en": "Call the IT office if your computer crashes.",
+  "example_es": "Llama a la oficina de informática si tu ordenador se bloquea.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0017",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "toilets / restrooms",
+  "es": "aseos",
+  "pos": "noun",
+  "def_en": "The rooms with toilets.",
+  "example_en": "The restrooms are next to the lift.",
+  "example_es": "Los aseos están junto al ascensor.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0018",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "car park / parking lot",
+  "es": "aparcamiento",
+  "pos": "noun",
+  "def_en": "A place where you leave your car.",
+  "example_en": "The car park is next to the main entrance.",
+  "example_es": "El aparcamiento está junto a la entrada principal.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0019",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "warehouse",
+  "es": "almacén",
+  "pos": "noun",
+  "def_en": "A large building where goods are stored.",
+  "example_en": "The delivery arrives at the warehouse.",
+  "example_es": "El pedido llega al almacén.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0020",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "server room",
+  "es": "sala de servidores",
+  "pos": "noun",
+  "def_en": "A cool room where the servers are kept.",
+  "example_en": "Only technicians can enter the server room.",
+  "example_es": "Solo los técnicos pueden entrar en la sala de servidores.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0021",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "opposite",
+  "es": "enfrente de",
+  "pos": "preposition",
+  "def_en": "In front of and facing something.",
+  "example_en": "The boardroom is opposite the open-plan office.",
+  "example_es": "La sala de juntas está enfrente de la oficina diáfana.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0022",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "next to",
+  "es": "al lado de",
+  "pos": "preposition",
+  "def_en": "Very near, at the side of something.",
+  "example_en": "The restrooms are next to the IT office.",
+  "example_es": "Los aseos están al lado de la oficina de informática.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0023",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "between",
+  "es": "entre",
+  "pos": "preposition",
+  "def_en": "In the space that separates two things.",
+  "example_en": "The meeting room is between the director's office and the conference room.",
+  "example_es": "La sala de reuniones está entre el despacho del director y la sala de conferencias.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0024",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "turn left / turn right",
+  "es": "gire a la izquierda / a la derecha",
+  "pos": "phrase",
+  "def_en": "To change direction to the left or to the right.",
+  "example_en": "Turn left at the end of the corridor.",
+  "example_es": "Gire a la izquierda al final del pasillo.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "pl-0025",
+  "ra": [
+   "RA3",
+   "RA2"
+  ],
+  "topic": "places-directions",
+  "en": "walk straight ahead",
+  "es": "siga recto",
+  "pos": "phrase",
+  "def_en": "To continue in the same direction.",
+  "example_en": "Walk straight ahead and you will see the door.",
+  "example_es": "Siga recto y verá la puerta.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ }
+]

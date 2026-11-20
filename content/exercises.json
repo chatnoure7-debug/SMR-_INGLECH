@@ -1,0 +1,460 @@
+[
+ {
+  "id": "ex-0001",
+  "kind": "match",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Puestos y funciones – Modelo A",
+  "pairs": [
+   {
+    "term": "Procurement Manager",
+    "def": "Negotiates with suppliers and manages company purchasing."
+   },
+   {
+    "term": "Accounting Clerk / Accountant",
+    "def": "Records financial transactions, taxes, and daily bookkeeping."
+   },
+   {
+    "term": "HR Director",
+    "def": "Manages staff recruitment, training, and payroll."
+   },
+   {
+    "term": "Technician in Management of Collections",
+    "def": "Contacts clients to ensure unpaid invoices and debts are settled on time."
+   },
+   {
+    "term": "Logistics Administrative",
+    "def": "Supervises the warehouse, stock, and supply chain operations."
+   },
+   {
+    "term": "Executive Assistant",
+    "def": "Organizes the CEO's schedule, correspondence, and confidential meetings."
+   }
+  ],
+  "source": "profesora-modelo-A"
+ },
+ {
+  "id": "ex-0002",
+  "kind": "match",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Puestos y funciones – Modelo B",
+  "pairs": [
+   {
+    "term": "Facilities Manager",
+    "def": "Supervises building maintenance, cleaning, and general office services."
+   },
+   {
+    "term": "Commercial Administrative",
+    "def": "Handles sales orders, customer quotes, and commercial invoices."
+   },
+   {
+    "term": "Payroll & Benefits Specialist",
+    "def": "Calculates employee salaries, bonuses, and social security deductions."
+   },
+   {
+    "term": "Chairman of the Board",
+    "def": "Presides over the board of directors and defines corporate strategy."
+   },
+   {
+    "term": "Administrative in Public Administration",
+    "def": "Works in local, regional, or national government offices processing citizen files."
+   },
+   {
+    "term": "Security Staff",
+    "def": "Controls building access, visitor badges, and workplace safety."
+   }
+  ],
+  "source": "profesora-modelo-B"
+ },
+ {
+  "id": "ex-0003",
+  "kind": "match",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Puestos y funciones – Modelo C",
+  "pairs": [
+   {
+    "term": "Chief Executive Officer (CEO)",
+    "def": "Leads the entire company and makes top-level executive decisions."
+   },
+   {
+    "term": "Banking and Insurance Administrative",
+    "def": "Manages financial products, loans, and insurance policies for clients."
+   },
+   {
+    "term": "Supplier Relations Specialist",
+    "def": "Evaluates external vendors and negotiates delivery conditions."
+   },
+   {
+    "term": "Chief Financial Officer (CFO)",
+    "def": "Manages company budgets, financial risks, and accounting reports."
+   },
+   {
+    "term": "Maintenance Technician",
+    "def": "Repairs office equipment, lighting, heating, and building facilities."
+   },
+   {
+    "term": "HR Administrative",
+    "def": "Processes employee contracts, sick leave, and staff records."
+   }
+  ],
+  "source": "profesora-modelo-C"
+ },
+ {
+  "id": "ex-0004",
+  "kind": "match",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "title": "Puestos de TI y sus funciones",
+  "pairs": [
+   {
+    "term": "Helpdesk technician",
+    "def": "Solves the computer problems of users by phone or online."
+   },
+   {
+    "term": "Network administrator",
+    "def": "Manages and protects the local network of a company."
+   },
+   {
+    "term": "System administrator",
+    "def": "Looks after the servers, users and updates of a company."
+   },
+   {
+    "term": "Web developer",
+    "def": "Creates and maintains websites and web applications."
+   },
+   {
+    "term": "Security analyst",
+    "def": "Looks for risks and protects the systems from attacks."
+   },
+   {
+    "term": "Field technician",
+    "def": "Travels to the customer's place to install or repair equipment."
+   },
+   {
+    "term": "Microcomputer sales representative",
+    "def": "Sells computers and explains their prices and features."
+   },
+   {
+    "term": "Teleassistance operator",
+    "def": "Attends customers by phone and gives them technical help."
+   }
+  ],
+  "source": "programacion+original"
+ },
+ {
+  "id": "ex-0005",
+  "kind": "wordbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Definiciones – Bloque 1 (tu examen)",
+  "bank": [
+   "Web Applications",
+   "Network Operating Systems",
+   "Docking Station",
+   "Network Services",
+   "Professional Training and Guidance",
+   "Flat Panel Monitor"
+  ],
+  "items": [
+   {
+    "text": "A display screen that is thin and lightweight, commonly used on modern desktop workstations.",
+    "answer": "Flat Panel Monitor"
+   },
+   {
+    "text": "Software programs hosted on remote servers that users access directly through a web browser.",
+    "answer": "Web Applications"
+   },
+   {
+    "text": "A hardware unit that allows a laptop computer to easily connect to multiple desktop peripherals and power.",
+    "answer": "Docking Station"
+   },
+   {
+    "text": "Specialized operating systems designed to manage network resources, files, and multi-user security.",
+    "answer": "Network Operating Systems"
+   },
+   {
+    "text": "Cloud or server-based services that enable data sharing, remote storage, and communication across devices.",
+    "answer": "Network Services"
+   }
+  ],
+  "source": "tu-examen"
+ },
+ {
+  "id": "ex-0006",
+  "kind": "wordbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Definiciones de hardware",
+  "bank": [
+   "motherboard",
+   "power supply unit",
+   "SSD",
+   "graphics card",
+   "cooling fan",
+   "heat sink",
+   "scanner",
+   "projector"
+  ],
+  "items": [
+   {
+    "text": "The main circuit board that connects all the parts of a computer.",
+    "answer": "motherboard"
+   },
+   {
+    "text": "The part that gives electric power to the computer components.",
+    "answer": "power supply unit"
+   },
+   {
+    "text": "A very fast storage device with no moving parts.",
+    "answer": "SSD"
+   },
+   {
+    "text": "A card that produces the images shown on the screen.",
+    "answer": "graphics card"
+   },
+   {
+    "text": "A machine that copies paper documents into digital files.",
+    "answer": "scanner"
+   },
+   {
+    "text": "A device that shows images on a wall or screen.",
+    "answer": "projector"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "ex-0007",
+  "kind": "wordbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Definiciones de redes y seguridad",
+  "bank": [
+   "router",
+   "switch",
+   "firewall",
+   "backup",
+   "access point",
+   "password",
+   "bandwidth",
+   "phishing"
+  ],
+  "items": [
+   {
+    "text": "A device that connects your network to the Internet and sends data to the right place.",
+    "answer": "router"
+   },
+   {
+    "text": "A device that connects several computers in a local network.",
+    "answer": "switch"
+   },
+   {
+    "text": "A security system that blocks dangerous traffic from the network.",
+    "answer": "firewall"
+   },
+   {
+    "text": "A copy of your files that you keep in case you lose the originals.",
+    "answer": "backup"
+   },
+   {
+    "text": "A fake email that tries to steal your passwords.",
+    "answer": "phishing"
+   },
+   {
+    "text": "The amount of data that a connection can carry at the same time.",
+    "answer": "bandwidth"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "ex-0008",
+  "kind": "gapbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Módulos y lugares – Modelo A",
+  "bank": [
+   "Archive / Filing Room",
+   "Executive Office",
+   "Business Simulation",
+   "Car Park",
+   "Open-Plan Office",
+   "On The Job Training",
+   "Billing / Invoicing",
+   "Communication and Customer Service"
+  ],
+  "items": [
+   {
+    "text": "During the last term of the degree, students do ___ to gain real work experience in a company.",
+    "answer": "On The Job Training"
+   },
+   {
+    "text": "All physical contracts and old tax records are stored safely in the ___ on the First Floor.",
+    "answer": "Archive / Filing Room"
+   },
+   {
+    "text": "If you want to learn how to handle complaints politely on the phone, you must pass the ___ module.",
+    "answer": "Communication and Customer Service"
+   },
+   {
+    "text": "Most of the clerical staff work together in the large ___ on the Ground Floor.",
+    "answer": "Open-Plan Office"
+   },
+   {
+    "text": "Visitors who drive to the headquarters can leave their vehicles in the ___ next to the Main Entrance.",
+    "answer": "Car Park"
+   },
+   {
+    "text": "The General Manager works in the ___ at the end of the First Floor hallway.",
+    "answer": "Executive Office"
+   }
+  ],
+  "source": "profesora-modelo-A"
+ },
+ {
+  "id": "ex-0009",
+  "kind": "gapbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Módulos y lugares – Modelo B",
+  "bank": [
+   "Human Resources",
+   "Project on Administration and Finance",
+   "Kitchenette",
+   "Management of Legal and Business Documents",
+   "IT Office",
+   "Professional Training and Guidance",
+   "Lift / Elevator",
+   "Boardroom"
+  ],
+  "items": [
+   {
+    "text": "In the ___ module, students learn how to draft official contracts, deeds, and administrative certificates.",
+    "answer": "Management of Legal and Business Documents"
+   },
+   {
+    "text": "Employees usually heat up their lunch and have a short break in the ___ on the Ground Floor.",
+    "answer": "Kitchenette"
+   },
+   {
+    "text": "If your computer crashes or you forget your corporate password, you should contact the ___.",
+    "answer": "IT Office"
+   },
+   {
+    "text": "The ___ module helps students prepare their CV, job interviews, and career plans.",
+    "answer": "Professional Training and Guidance"
+   },
+   {
+    "text": "Candidates applying for a vacancy in the company must send their CV to the ___ department.",
+    "answer": "Human Resources"
+   },
+   {
+    "text": "People with reduced mobility can use the ___ next to the stairs to reach the First Floor.",
+    "answer": "Lift / Elevator"
+   }
+  ],
+  "source": "profesora-modelo-B"
+ },
+ {
+  "id": "ex-0010",
+  "kind": "gapbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Módulos y lugares – Modelo C",
+  "bank": [
+   "Toilets / Restrooms",
+   "Financial Management",
+   "Sales Department",
+   "Main Entrance",
+   "Accounting and Taxation",
+   "Archive / Filing Room",
+   "Break Area / Lounge",
+   "Office Automation and Information Processing"
+  ],
+  "items": [
+   {
+    "text": "Students learn how to use spreadsheets, databases, and word processors in ___.",
+    "answer": "Office Automation and Information Processing"
+   },
+   {
+    "text": "Every morning, employees enter the headquarters through the ___ next to the Car Park.",
+    "answer": "Main Entrance"
+   },
+   {
+    "text": "Calculating VAT, corporate income tax, and annual balance sheets is part of ___.",
+    "answer": "Accounting and Taxation"
+   },
+   {
+    "text": "The ___ is located on the First Floor, right next to the HR Department.",
+    "answer": "Sales Department"
+   },
+   {
+    "text": "Visitors on the Ground Floor can find the ___ between the Kitchenette and the Boardroom.",
+    "answer": "Toilets / Restrooms"
+   },
+   {
+    "text": "Staff members can relax and drink coffee in the ___ on the First Floor.",
+    "answer": "Break Area / Lounge"
+   }
+  ],
+  "source": "profesora-modelo-C"
+ },
+ {
+  "id": "ex-0011",
+  "kind": "gapbank",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Módulos del ciclo SMR",
+  "bank": [
+   "Local Networks",
+   "Computer Safety",
+   "Network Services",
+   "Web Applications",
+   "Assembly and Maintenance of Computers",
+   "Office Automation Applications",
+   "server room",
+   "IT office"
+  ],
+  "items": [
+   {
+    "text": "In ___, students learn to install and repair computers.",
+    "answer": "Assembly and Maintenance of Computers"
+   },
+   {
+    "text": "A student who wants to protect data from viruses must pass ___.",
+    "answer": "Computer Safety"
+   },
+   {
+    "text": "In ___ you learn about cables, switches and routers in a building.",
+    "answer": "Local Networks"
+   },
+   {
+    "text": "To learn about email, web and file servers, you study ___.",
+    "answer": "Network Services"
+   },
+   {
+    "text": "Students create websites and online forms in ___.",
+    "answer": "Web Applications"
+   },
+   {
+    "text": "The servers are kept in the cold ___.",
+    "answer": "server room"
+   }
+  ],
+  "source": "original"
+ }
+]

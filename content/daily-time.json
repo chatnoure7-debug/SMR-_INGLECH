@@ -1,0 +1,152 @@
+[
+ {
+  "id": "dt-0001",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "What time is it?",
+  "es": "¿Qué hora es?",
+  "pos": "phrase",
+  "example_en": "Excuse me, what time is it? It is half past five.",
+  "example_es": "Perdone, ¿qué hora es? Son las cinco y media.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0002",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "It is a quarter past eleven. (11:15)",
+  "es": "Son las once y cuarto.",
+  "pos": "phrase",
+  "example_en": "It is a quarter past eleven. The interview starts now.",
+  "example_es": "Son las once y cuarto. La entrevista empieza ahora.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0003",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "It is a quarter to eleven. (10:45)",
+  "es": "Son las once menos cuarto.",
+  "pos": "phrase",
+  "example_en": "It is a quarter to eleven. You have fifteen minutes.",
+  "example_es": "Son las once menos cuarto. Tiene quince minutos.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0004",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "It is half past nine. (9:30)",
+  "es": "Son las nueve y media.",
+  "pos": "phrase",
+  "example_en": "It is half past nine. The meeting is at ten.",
+  "example_es": "Son las nueve y media. La reunión es a las diez.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0005",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "It is twenty past four. (4:20)",
+  "es": "Son las cuatro y veinte.",
+  "pos": "phrase",
+  "example_en": "It is twenty past four. The accountant will see you at a quarter to five.",
+  "example_es": "Son las cuatro y veinte. El contable le recibirá a las cinco menos cuarto.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0006",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "It is twenty-five to ten. (9:35)",
+  "es": "Son las diez menos veinticinco.",
+  "pos": "phrase",
+  "example_en": "It is twenty-five to ten. The session begins at ten o'clock.",
+  "example_es": "Son las diez menos veinticinco. La sesión empieza a las diez en punto.",
+  "difficulty": 3,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0007",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "It is ten o'clock. (10:00)",
+  "es": "Son las diez en punto.",
+  "pos": "phrase",
+  "example_en": "It is ten o'clock. The orientation begins.",
+  "example_es": "Son las diez en punto. Empieza la orientación.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0008",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "The meeting starts at ...",
+  "es": "La reunión empieza a las ...",
+  "pos": "phrase",
+  "example_en": "The meeting starts at nine fifteen.",
+  "example_es": "La reunión empieza a las nueve y cuarto.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0009",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "in the morning / in the afternoon / in the evening",
+  "es": "por la mañana / por la tarde / por la noche",
+  "pos": "phrase",
+  "example_en": "I study in the morning and I work in the afternoon.",
+  "example_es": "Estudio por la mañana y trabajo por la tarde.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dt-0010",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-time",
+  "en": "Excuse me, do you have the time?",
+  "es": "Perdone, ¿tiene hora?",
+  "pos": "phrase",
+  "example_en": "Excuse me, do you have the time? I am late.",
+  "example_es": "Perdone, ¿tiene hora? Llego tarde.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ }
+]

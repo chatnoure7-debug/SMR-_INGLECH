@@ -1,0 +1,735 @@
+[
+ {
+  "id": "ls-0001",
+  "ra": [
+   "RA1"
+  ],
+  "title": "Three people talk about the Internet at work",
+  "level": "B1",
+  "voices": {
+   "Tom": "m",
+   "Rick": "m",
+   "Sue": "f"
+  },
+  "script": [
+   {
+    "who": "Tom",
+    "text": "I use the Internet at work every day. I answer emails and I look for information."
+   },
+   {
+    "who": "Rick",
+    "text": "Me too. I think the Internet is great. It saves a lot of time."
+   },
+   {
+    "who": "Sue",
+    "text": "I don't use it much at work. I think people shouldn't use the Internet for personal things when they are at the office."
+   },
+   {
+    "who": "Tom",
+    "text": "Why not? Sometimes a short break is good. I read the news for ten minutes at lunchtime."
+   },
+   {
+    "who": "Sue",
+    "text": "Maybe, but some people spend hours on social media. That is a waste of time, and it is bad for the company."
+   },
+   {
+    "who": "Rick",
+    "text": "I agree it can be addictive. Some people can't stop using it. But it is very useful for work."
+   },
+   {
+    "who": "Sue",
+    "text": "Also, some people prefer the Internet to sports or going out with friends."
+   },
+   {
+    "who": "Tom",
+    "text": "That is true. But I don't think the Internet is dangerous if you are careful."
+   }
+  ],
+  "tf": [
+   {
+    "q": "The two men both use the Internet at work.",
+    "a": "T",
+    "why": "Tom: \"I use it every day.\" Rick: \"Me too.\""
+   },
+   {
+    "q": "The woman thinks people shouldn't use the Internet for personal things at work.",
+    "a": "T",
+    "why": "Sue says this at the beginning."
+   },
+   {
+    "q": "Both men think the Internet is a waste of time.",
+    "a": "F",
+    "why": "Sue says it is a waste of time; the men think it is useful."
+   },
+   {
+    "q": "The woman says some people prefer the Internet to sports.",
+    "a": "T",
+    "why": "Sue: \"some people prefer the Internet to sports\"."
+   },
+   {
+    "q": "Sue uses the Internet all day at work.",
+    "a": "F",
+    "why": "She says she doesn't use it much."
+   },
+   {
+    "q": "Tom thinks the Internet is very dangerous.",
+    "a": "F",
+    "why": "Tom says it isn't dangerous if you are careful."
+   }
+  ],
+  "ideas_title": "Surfing the Internet is...",
+  "ideas": [
+   {
+    "text": "addictive: some people can't stop using it.",
+    "mentioned": true
+   },
+   {
+    "text": "expensive for companies.",
+    "mentioned": false
+   },
+   {
+    "text": "good when you want a short break from work.",
+    "mentioned": true
+   },
+   {
+    "text": "a waste of time when people spend hours on social media.",
+    "mentioned": true
+   },
+   {
+    "text": "dangerous for children.",
+    "mentioned": false
+   },
+   {
+    "text": "very useful for work.",
+    "mentioned": true
+   }
+  ],
+  "mc": [
+   {
+    "q": "What does Tom do at lunchtime?",
+    "options": [
+     "He reads the news",
+     "He plays sports",
+     "He answers emails"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What does Sue think about social media?",
+    "options": [
+     "It is useful",
+     "It can waste a lot of time",
+     "It is expensive"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "ls-0002",
+  "ra": [
+   "RA1"
+  ],
+  "title": "A call to technical support",
+  "level": "A2-B1",
+  "voices": {
+   "Paul": "m",
+   "Helen": "f"
+  },
+  "script": [
+   {
+    "who": "Paul",
+    "text": "Thank you for calling technical support. My name is Paul. How can I help you?"
+   },
+   {
+    "who": "Helen",
+    "text": "Hello. I can't log in to my computer. I think I forgot my password."
+   },
+   {
+    "who": "Paul",
+    "text": "No problem. Could you tell me your full name and your employee number?"
+   },
+   {
+    "who": "Helen",
+    "text": "My name is Helen Ward. That is W, A, R, D. My employee number is four, seven, two, nine."
+   },
+   {
+    "who": "Paul",
+    "text": "Thank you, Ms Ward. I am going to send a code to your mobile phone. Please type it on the screen."
+   },
+   {
+    "who": "Helen",
+    "text": "OK. I have the code. It is six, one, three, nine, zero, eight."
+   },
+   {
+    "who": "Paul",
+    "text": "Perfect. Now choose a new password. It must have at least ten characters and one number."
+   },
+   {
+    "who": "Helen",
+    "text": "Done. It works! Thank you very much."
+   },
+   {
+    "who": "Paul",
+    "text": "You're welcome. Remember, you should never share your password. Is there anything else I can help you with?"
+   },
+   {
+    "who": "Helen",
+    "text": "No, that is all. Goodbye."
+   }
+  ],
+  "tf": [
+   {
+    "q": "Helen can't log in to her computer.",
+    "a": "T",
+    "why": "She says: \"I can't log in\"."
+   },
+   {
+    "q": "Her employee number is 4729.",
+    "a": "T",
+    "why": "\"four, seven, two, nine\""
+   },
+   {
+    "q": "The code arrives by email.",
+    "a": "F",
+    "why": "Paul sends the code to her mobile phone."
+   },
+   {
+    "q": "The new password needs at least eight characters.",
+    "a": "F",
+    "why": "It needs at least ten characters."
+   },
+   {
+    "q": "Paul says Helen should share her password with her colleagues.",
+    "a": "F",
+    "why": "He says she should never share it."
+   }
+  ],
+  "ideas_title": "What is mentioned in the call?",
+  "ideas": [
+   {
+    "text": "Helen forgot her password.",
+    "mentioned": true
+   },
+   {
+    "text": "Paul asks Helen to spell her surname.",
+    "mentioned": false
+   },
+   {
+    "text": "A code is sent to a mobile phone.",
+    "mentioned": true
+   },
+   {
+    "text": "The password must have one number.",
+    "mentioned": true
+   },
+   {
+    "text": "Helen needs a new computer.",
+    "mentioned": false
+   },
+   {
+    "text": "Paul will visit Helen's office.",
+    "mentioned": false
+   }
+  ],
+  "mc": [
+   {
+    "q": "What is Helen's problem?",
+    "options": [
+     "She can't log in",
+     "The printer is broken",
+     "The Internet is slow"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How many characters must the password have, at least?",
+    "options": [
+     "six",
+     "ten",
+     "twelve"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Where does Paul send the code?",
+    "options": [
+     "to her mobile phone",
+     "to her email",
+     "to her office"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "ls-0003",
+  "ra": [
+   "RA1"
+  ],
+  "title": "How to replace the RAM in a laptop",
+  "level": "B1",
+  "voices": {
+   "Technician": "m"
+  },
+  "script": [
+   {
+    "who": "Technician",
+    "text": "Today I am going to show you how to replace the RAM in a laptop. First, shut down the laptop and unplug the charger. Then turn it over and unscrew the back panel. You need a small screwdriver. Next, find the memory module. Pull out the clips on the sides, and the old module pops up. Pull it out gently. Now take the new module, align the notch with the slot, and push it down until it snaps into place. Then close the panel, screw it again, and power on the laptop. Finally, check that the system shows sixteen gigabytes of memory. The whole job takes about ten minutes."
+   }
+  ],
+  "tf": [
+   {
+    "q": "First, you shut down the laptop.",
+    "a": "T",
+    "why": "\"First, shut down the laptop and unplug the charger.\""
+   },
+   {
+    "q": "You need a big hammer to open the back panel.",
+    "a": "F",
+    "why": "You need a small screwdriver."
+   },
+   {
+    "q": "The new module snaps into place.",
+    "a": "T",
+    "why": "\"...push it down until it snaps into place.\""
+   },
+   {
+    "q": "The whole job takes about an hour.",
+    "a": "F",
+    "why": "It takes about ten minutes."
+   },
+   {
+    "q": "You power on the laptop before you close the panel.",
+    "a": "F",
+    "why": "First you close the panel, then you power on."
+   }
+  ],
+  "ideas_title": "What does the technician mention?",
+  "ideas": [
+   {
+    "text": "Unplug the charger.",
+    "mentioned": true
+   },
+   {
+    "text": "Use a small screwdriver.",
+    "mentioned": true
+   },
+   {
+    "text": "Wear an antistatic wrist strap.",
+    "mentioned": false
+   },
+   {
+    "text": "Align the notch with the slot.",
+    "mentioned": true
+   },
+   {
+    "text": "Buy a new laptop.",
+    "mentioned": false
+   },
+   {
+    "text": "Check that the system shows 16 GB.",
+    "mentioned": true
+   }
+  ],
+  "mc": [
+   {
+    "q": "What do you need to open the back panel?",
+    "options": [
+     "a small screwdriver",
+     "a hammer",
+     "a cable"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What do you do with the clips?",
+    "options": [
+     "You pull them out",
+     "You cut them",
+     "You paint them"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How much memory should the system show at the end?",
+    "options": [
+     "8 GB",
+     "16 GB",
+     "32 GB"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "ls-0004",
+  "ra": [
+   "RA1",
+   "RA3"
+  ],
+  "title": "A job interview",
+  "level": "B1",
+  "voices": {
+   "Mr Evans": "m",
+   "Lucía": "f"
+  },
+  "script": [
+   {
+    "who": "Mr Evans",
+    "text": "Good morning, Lucía. Please sit down. Tell me about yourself."
+   },
+   {
+    "who": "Lucía",
+    "text": "Good morning. I am twenty-two years old and I study Microcomputer Systems and Networks. I live in Getafe."
+   },
+   {
+    "who": "Mr Evans",
+    "text": "Why do you want this job?"
+   },
+   {
+    "who": "Lucía",
+    "text": "Because I like solving problems, and I want to learn more about servers."
+   },
+   {
+    "who": "Mr Evans",
+    "text": "What are your strengths?"
+   },
+   {
+    "who": "Lucía",
+    "text": "I learn quickly and I can work in a team. My weakness is that I am a little shy."
+   },
+   {
+    "who": "Mr Evans",
+    "text": "Do you have any work experience?"
+   },
+   {
+    "who": "Lucía",
+    "text": "I did a three-month internship in a small company. I installed computers and changed network cables."
+   },
+   {
+    "who": "Mr Evans",
+    "text": "Great. When can you start?"
+   },
+   {
+    "who": "Lucía",
+    "text": "I can start next Monday."
+   }
+  ],
+  "tf": [
+   {
+    "q": "Lucía is twenty-two years old.",
+    "a": "T",
+    "why": "\"I am twenty-two years old.\""
+   },
+   {
+    "q": "Lucía lives in Madrid.",
+    "a": "F",
+    "why": "She lives in Getafe."
+   },
+   {
+    "q": "She wants the job because she wants to learn more about servers.",
+    "a": "T",
+    "why": "She says it in her second answer."
+   },
+   {
+    "q": "Her weakness is that she is often late.",
+    "a": "F",
+    "why": "She says she is a little shy."
+   },
+   {
+    "q": "She did a six-month internship.",
+    "a": "F",
+    "why": "It was a three-month internship."
+   },
+   {
+    "q": "She can start next Monday.",
+    "a": "T",
+    "why": "\"I can start next Monday.\""
+   }
+  ],
+  "ideas_title": "What does Lucía say?",
+  "ideas": [
+   {
+    "text": "She studies Microcomputer Systems and Networks.",
+    "mentioned": true
+   },
+   {
+    "text": "She speaks French.",
+    "mentioned": false
+   },
+   {
+    "text": "She likes solving problems.",
+    "mentioned": true
+   },
+   {
+    "text": "She can work in a team.",
+    "mentioned": true
+   },
+   {
+    "text": "She wants a very high salary.",
+    "mentioned": false
+   },
+   {
+    "text": "She installed computers during her internship.",
+    "mentioned": true
+   }
+  ],
+  "mc": [
+   {
+    "q": "Where does Lucía live?",
+    "options": [
+     "Getafe",
+     "Madrid",
+     "Toledo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is her weakness?",
+    "options": [
+     "She is shy",
+     "She is late",
+     "She is slow"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How long was her internship?",
+    "options": [
+     "one month",
+     "three months",
+     "six months"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "ls-0005",
+  "ra": [
+   "RA1"
+  ],
+  "title": "A message about network maintenance",
+  "level": "B1",
+  "voices": {
+   "Announcer": "f"
+  },
+  "script": [
+   {
+    "who": "Announcer",
+    "text": "Attention, please. This is a message from the IT department. On Saturday, from eight in the morning until two in the afternoon, we are going to update the servers. During this time, the email and the shared folders will not work. The Wi-Fi will work, but the printers will be off. Please save your files on Friday and log out before you leave the office. If you have any problem on Monday, call the help desk on extension two, one, five. Thank you for your cooperation."
+   }
+  ],
+  "tf": [
+   {
+    "q": "The maintenance is on Sunday.",
+    "a": "F",
+    "why": "It is on Saturday."
+   },
+   {
+    "q": "The maintenance lasts six hours.",
+    "a": "T",
+    "why": "From 8:00 to 14:00 are six hours."
+   },
+   {
+    "q": "The email will not work during the maintenance.",
+    "a": "T",
+    "why": "\"the email and the shared folders will not work\""
+   },
+   {
+    "q": "The Wi-Fi will not work.",
+    "a": "F",
+    "why": "The Wi-Fi will work; the printers will be off."
+   },
+   {
+    "q": "Employees must save their files on Friday.",
+    "a": "T",
+    "why": "\"Please save your files on Friday.\""
+   }
+  ],
+  "ideas_title": "What is mentioned?",
+  "ideas": [
+   {
+    "text": "The servers will be updated.",
+    "mentioned": true
+   },
+   {
+    "text": "Everyone will receive a new computer.",
+    "mentioned": false
+   },
+   {
+    "text": "The printers will be off.",
+    "mentioned": true
+   },
+   {
+    "text": "Employees must log out before they leave.",
+    "mentioned": true
+   },
+   {
+    "text": "Everybody must change their password.",
+    "mentioned": false
+   },
+   {
+    "text": "The help desk extension is 215.",
+    "mentioned": true
+   }
+  ],
+  "mc": [
+   {
+    "q": "What time does the maintenance start?",
+    "options": [
+     "8:00 in the morning",
+     "2:00 in the afternoon",
+     "Friday evening"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which extension should you call on Monday?",
+    "options": [
+     "125",
+     "215",
+     "512"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What must you do on Friday?",
+    "options": [
+     "Save your files",
+     "Turn off the Wi-Fi",
+     "Buy new cables"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "ls-0006",
+  "ra": [
+   "RA1",
+   "RA3"
+  ],
+  "title": "Giving directions at reception",
+  "level": "B1",
+  "voices": {
+   "Visitor": "m",
+   "Receptionist": "f"
+  },
+  "script": [
+   {
+    "who": "Visitor",
+    "text": "Good morning. I have an appointment with Ms Clark at half past ten."
+   },
+   {
+    "who": "Receptionist",
+    "text": "Good morning. Could you tell me your full name, please?"
+   },
+   {
+    "who": "Visitor",
+    "text": "Daniel Ruiz. That is R, U, I, Z."
+   },
+   {
+    "who": "Receptionist",
+    "text": "Thank you, Mr Ruiz. It is a quarter past ten now, so you are early. Ms Clark's office is on the first floor. Take the lift on your left. When you get out, turn right and walk straight ahead. Pass the break area, and you will see the IT office next to the restrooms. Her office is opposite the IT office."
+   },
+   {
+    "who": "Visitor",
+    "text": "Thank you. Is there a coffee machine?"
+   },
+   {
+    "who": "Receptionist",
+    "text": "Yes, in the kitchenette, next to the lift."
+   }
+  ],
+  "tf": [
+   {
+    "q": "The appointment is at half past ten.",
+    "a": "T",
+    "why": "\"an appointment with Ms Clark at half past ten\""
+   },
+   {
+    "q": "It is a quarter to eleven now.",
+    "a": "F",
+    "why": "It is a quarter past ten."
+   },
+   {
+    "q": "Ms Clark's office is on the ground floor.",
+    "a": "F",
+    "why": "It is on the first floor."
+   },
+   {
+    "q": "The visitor must take the lift on his left.",
+    "a": "T",
+    "why": "\"Take the lift on your left.\""
+   },
+   {
+    "q": "Ms Clark's office is opposite the IT office.",
+    "a": "T",
+    "why": "\"Her office is opposite the IT office.\""
+   },
+   {
+    "q": "The coffee machine is in the lobby.",
+    "a": "F",
+    "why": "It is in the kitchenette, next to the lift."
+   }
+  ],
+  "ideas_title": "What is mentioned?",
+  "ideas": [
+   {
+    "text": "The visitor spells his surname.",
+    "mentioned": true
+   },
+   {
+    "text": "The visitor must show his ID card.",
+    "mentioned": false
+   },
+   {
+    "text": "Turn right after leaving the lift.",
+    "mentioned": true
+   },
+   {
+    "text": "Walk past the break area.",
+    "mentioned": true
+   },
+   {
+    "text": "There is a car park next to the entrance.",
+    "mentioned": false
+   },
+   {
+    "text": "The kitchenette is next to the lift.",
+    "mentioned": true
+   }
+  ],
+  "mc": [
+   {
+    "q": "What time is it?",
+    "options": [
+     "10:15",
+     "10:30",
+     "10:45"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Where is the lift?",
+    "options": [
+     "on his left",
+     "on his right",
+     "behind him"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is next to the restrooms?",
+    "options": [
+     "the IT office",
+     "the boardroom",
+     "the car park"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

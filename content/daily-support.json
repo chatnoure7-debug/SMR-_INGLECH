@@ -1,0 +1,347 @@
+[
+ {
+  "id": "ds-0001",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "What is the problem?",
+  "es": "¿Cuál es el problema?",
+  "pos": "phrase",
+  "example_en": "Hello. What is the problem with your laptop?",
+  "example_es": "Hola. ¿Cuál es el problema con su portátil?",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0002",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Can you restart the computer, please?",
+  "es": "¿Puede reiniciar el ordenador, por favor?",
+  "pos": "phrase",
+  "example_en": "Can you restart the computer, please? Then try again.",
+  "example_es": "¿Puede reiniciar el ordenador, por favor? Luego inténtelo otra vez.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0003",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Is the computer plugged in?",
+  "es": "¿Está enchufado el ordenador?",
+  "pos": "phrase",
+  "example_en": "Is the computer plugged in? Check the power cable.",
+  "example_es": "¿Está enchufado el ordenador? Revise el cable de alimentación.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0004",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Does it turn on?",
+  "es": "¿Se enciende?",
+  "pos": "phrase",
+  "example_en": "Does it turn on? Do you see any light?",
+  "example_es": "¿Se enciende? ¿Ve alguna luz?",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0005",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "It doesn't work.",
+  "es": "No funciona.",
+  "pos": "phrase",
+  "example_en": "My printer doesn't work. It doesn't print.",
+  "example_es": "Mi impresora no funciona. No imprime.",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0006",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "The screen is black.",
+  "es": "La pantalla está en negro.",
+  "pos": "phrase",
+  "example_en": "The screen is black and I can't see anything.",
+  "example_es": "La pantalla está en negro y no veo nada.",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0007",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "I forgot my password.",
+  "es": "He olvidado mi contraseña.",
+  "pos": "phrase",
+  "example_en": "I forgot my password. Can you reset it?",
+  "example_es": "He olvidado mi contraseña. ¿Puede restablecerla?",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0008",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "I can't connect to the Internet.",
+  "es": "No puedo conectarme a Internet.",
+  "pos": "phrase",
+  "example_en": "I can't connect to the Internet. The Wi-Fi doesn't work.",
+  "example_es": "No puedo conectarme a Internet. El wifi no funciona.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0009",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "The computer is very slow.",
+  "es": "El ordenador va muy lento.",
+  "pos": "phrase",
+  "example_en": "The computer is very slow when I open many programs.",
+  "example_es": "El ordenador va muy lento cuando abro muchos programas.",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0010",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "It makes a strange noise.",
+  "es": "Hace un ruido extraño.",
+  "pos": "phrase",
+  "example_en": "The fan makes a strange noise.",
+  "example_es": "El ventilador hace un ruido extraño.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0011",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "I will check it for you.",
+  "es": "Se lo reviso ahora mismo.",
+  "pos": "phrase",
+  "example_en": "Don't worry. I will check it for you.",
+  "example_es": "No se preocupe. Se lo reviso ahora mismo.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0012",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "I'm going to replace the cable.",
+  "es": "Voy a sustituir el cable.",
+  "pos": "phrase",
+  "example_en": "I'm going to replace the cable. It will take ten minutes.",
+  "example_es": "Voy a sustituir el cable. Tardaré diez minutos.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0013",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "It should work now.",
+  "es": "Ya debería funcionar.",
+  "pos": "phrase",
+  "example_en": "It should work now. Please try again.",
+  "example_es": "Ya debería funcionar. Inténtelo otra vez.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0014",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Is there anything else I can help you with?",
+  "es": "¿Puedo ayudarle en algo más?",
+  "pos": "phrase",
+  "example_en": "Is there anything else I can help you with?",
+  "example_es": "¿Puedo ayudarle en algo más?",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0015",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Thank you for calling technical support.",
+  "es": "Gracias por llamar al servicio técnico.",
+  "pos": "phrase",
+  "example_en": "Thank you for calling technical support. How can I help you?",
+  "example_es": "Gracias por llamar al servicio técnico. ¿En qué puedo ayudarle?",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0016",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Please hold the line.",
+  "es": "No cuelgue, por favor.",
+  "pos": "phrase",
+  "example_en": "Please hold the line. I will transfer your call.",
+  "example_es": "No cuelgue, por favor. Le paso la llamada.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0017",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Could you repeat that, please?",
+  "es": "¿Podría repetirlo, por favor?",
+  "pos": "phrase",
+  "example_en": "Sorry, could you repeat that, please?",
+  "example_es": "Perdone, ¿podría repetirlo, por favor?",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0018",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "Could you speak more slowly, please?",
+  "es": "¿Podría hablar más despacio, por favor?",
+  "pos": "phrase",
+  "example_en": "Could you speak more slowly, please? My English is not very good.",
+  "example_es": "¿Podría hablar más despacio, por favor? Mi inglés no es muy bueno.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0019",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "I'm sorry, I don't understand.",
+  "es": "Lo siento, no entiendo.",
+  "pos": "phrase",
+  "example_en": "I'm sorry, I don't understand. What does 'driver' mean?",
+  "example_es": "Lo siento, no entiendo. ¿Qué significa 'driver'?",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0020",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "How do you spell that?",
+  "es": "¿Cómo se escribe eso?",
+  "pos": "phrase",
+  "example_en": "How do you spell that, please?",
+  "example_es": "¿Cómo se escribe eso, por favor?",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0021",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "You must save your files before you restart.",
+  "es": "Debe guardar sus archivos antes de reiniciar.",
+  "pos": "phrase",
+  "example_en": "You must save your files before you restart.",
+  "example_es": "Debe guardar sus archivos antes de reiniciar.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0022",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "You should back up your data.",
+  "es": "Debería hacer una copia de sus datos.",
+  "pos": "phrase",
+  "example_en": "You should back up your data every week.",
+  "example_es": "Debería hacer una copia de sus datos cada semana.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ds-0023",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-support",
+  "en": "You can't open this file without permission.",
+  "es": "No puede abrir este archivo sin permiso.",
+  "pos": "phrase",
+  "example_en": "You can't open this file without permission.",
+  "example_es": "No puede abrir este archivo sin permiso.",
+  "difficulty": 2,
+  "source": "programacion"
+ }
+]

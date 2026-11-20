@@ -1,0 +1,122 @@
+[
+ {
+  "id": "dr-0001",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "Excuse me, could you tell me how to get to ...?",
+  "es": "Perdone, ¿podría decirme cómo llegar a ...?",
+  "pos": "phrase",
+  "example_en": "Excuse me, could you tell me how to get to the Sales Department?",
+  "example_es": "Perdone, ¿podría decirme cómo llegar al Departamento de Ventas?",
+  "difficulty": 3,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0002",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "Would you mind telling me where ... is?",
+  "es": "¿Le importaría decirme dónde está ...?",
+  "pos": "phrase",
+  "example_en": "Would you mind telling me where the IT office is?",
+  "example_es": "¿Le importaría decirme dónde está la oficina de informática?",
+  "difficulty": 3,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0003",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "Could you direct me to ...?",
+  "es": "¿Podría indicarme cómo ir a ...?",
+  "pos": "phrase",
+  "example_en": "Could you direct me to the open-plan office?",
+  "example_es": "¿Podría indicarme cómo ir a la oficina diáfana?",
+  "difficulty": 3,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0004",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "First, ... Then, ...",
+  "es": "Primero, ... Después, ...",
+  "pos": "phrase",
+  "example_en": "First, go down the corridor. Then, turn right.",
+  "example_es": "Primero, vaya por el pasillo. Después, gire a la derecha.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0005",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "Go down the corridor.",
+  "es": "Vaya por el pasillo.",
+  "pos": "phrase",
+  "example_en": "Go down the corridor and turn left.",
+  "example_es": "Vaya por el pasillo y gire a la izquierda.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0006",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "Take the lift to the first floor.",
+  "es": "Suba en el ascensor a la primera planta.",
+  "pos": "phrase",
+  "example_en": "Take the lift to the first floor and turn right.",
+  "example_es": "Suba en el ascensor a la primera planta y gire a la derecha.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0007",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "It is on your left / on your right.",
+  "es": "Está a su izquierda / a su derecha.",
+  "pos": "phrase",
+  "example_en": "The IT office is on your right.",
+  "example_es": "La oficina de informática está a su derecha.",
+  "difficulty": 1,
+  "source": "examenes-B1"
+ },
+ {
+  "id": "dr-0008",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "topic": "daily-directions",
+  "en": "You can't miss it.",
+  "es": "No tiene pérdida.",
+  "pos": "phrase",
+  "example_en": "It is the big grey door. You can't miss it.",
+  "example_es": "Es la puerta gris grande. No tiene pérdida.",
+  "difficulty": 2,
+  "source": "examenes-B1"
+ }
+]

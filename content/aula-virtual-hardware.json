@@ -1,0 +1,197 @@
+[
+ {
+  "id": "av-0001",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "side panel",
+  "es": "panel lateral (tapa de la caja)",
+  "pos": "noun",
+  "def_en": "The removable cover on the side of the computer case.",
+  "example_en": "First, slide the side panel off the case.",
+  "example_es": "Primero, desliza el panel lateral para sacarlo de la caja.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0002",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "screws",
+  "es": "tornillos",
+  "pos": "noun",
+  "def_en": "Small metal pieces that you turn with a screwdriver to fix parts together.",
+  "example_en": "Use four screws to secure the power supply.",
+  "example_es": "Usa cuatro tornillos para fijar la fuente de alimentación.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0003",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "clip",
+  "es": "pestaña / clip de sujeción",
+  "pos": "noun",
+  "def_en": "A small plastic or metal fastener that holds a component, like RAM, in place.",
+  "example_en": "The clips lock the RAM when it snaps into place.",
+  "example_es": "Los clips bloquean la RAM cuando encaja en su sitio.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0004",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "notch",
+  "es": "muesca",
+  "pos": "noun",
+  "def_en": "A small cut in a component that helps you align it with its slot.",
+  "example_en": "Align the notch on the RAM with the slot.",
+  "example_es": "Alinea la muesca de la RAM con la ranura.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0005",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "storage device",
+  "es": "dispositivo de almacenamiento",
+  "pos": "noun",
+  "def_en": "Any hardware that holds data, such as a hard drive or an SSD.",
+  "example_en": "A hard drive is a storage device.",
+  "example_es": "Un disco duro es un dispositivo de almacenamiento.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0006",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "BIOS",
+  "es": "BIOS (software básico de arranque)",
+  "pos": "noun",
+  "def_en": "The built-in software that controls the basic functions of the computer.",
+  "example_en": "Press a key to enter the BIOS menu.",
+  "example_es": "Pulsa una tecla para entrar en el menú de la BIOS.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0007",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "wireless card",
+  "es": "tarjeta inalámbrica (wifi)",
+  "pos": "noun",
+  "def_en": "A component that gives the computer internet access by Wi-Fi.",
+  "example_en": "The laptop has a wireless card, so it can connect to Wi-Fi.",
+  "example_es": "El portátil tiene una tarjeta inalámbrica, así que puede conectarse al wifi.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0008",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "system unit",
+  "es": "unidad central (la caja con los componentes)",
+  "pos": "noun",
+  "def_en": "The main part of the computer that contains the internal components.",
+  "example_en": "The system unit contains the motherboard and the power supply.",
+  "example_es": "La unidad central contiene la placa base y la fuente de alimentación.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0009",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "power cable",
+  "es": "cable de alimentación",
+  "pos": "noun",
+  "def_en": "The main cord that connects the computer to an electrical source.",
+  "example_en": "Unplug the power cable before you start.",
+  "example_es": "Desenchufa el cable de alimentación antes de empezar.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0010",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "liquid cooling",
+  "es": "refrigeración líquida",
+  "pos": "noun",
+  "def_en": "A cooling system that uses liquid to remove the heat from the CPU.",
+  "example_en": "Liquid cooling is quieter than a fan.",
+  "example_es": "La refrigeración líquida es más silenciosa que un ventilador.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0011",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "air cooling",
+  "es": "refrigeración por aire",
+  "pos": "noun",
+  "def_en": "A cooling system that uses fans to move the heat away from the components.",
+  "example_en": "Air cooling is cheaper than liquid cooling.",
+  "example_es": "La refrigeración por aire es más barata que la líquida.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0012",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "mini tower / mid tower / full tower",
+  "es": "torre pequeña / media / grande",
+  "pos": "noun",
+  "def_en": "The common sizes of a computer case: small, medium and large.",
+  "example_en": "A full tower is bigger than a mini tower.",
+  "example_es": "Una torre grande es más grande que una torre pequeña.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "av-0013",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "standoff",
+  "es": "separador (poste para atornillar la placa base)",
+  "pos": "noun",
+  "def_en": "A small metal post that raises the motherboard above the case.",
+  "example_en": "Align the motherboard with the standoffs before you screw it.",
+  "example_es": "Alinea la placa base con los separadores antes de atornillarla.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ }
+]

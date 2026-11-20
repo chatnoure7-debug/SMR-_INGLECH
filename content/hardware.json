@@ -1,0 +1,638 @@
+[
+ {
+  "id": "hw-0001",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "flat panel monitor",
+  "es": "monitor de pantalla plana",
+  "pos": "noun",
+  "def_en": "A display screen that is thin and lightweight, commonly used on modern desktop workstations.",
+  "example_en": "A flat panel monitor is thinner and lighter than an old CRT monitor.",
+  "example_es": "Un monitor de pantalla plana es más fino y ligero que un monitor CRT antiguo.",
+  "difficulty": 2,
+  "source": "examenes+aula",
+  "image": "img/flat-panel-monitor.svg"
+ },
+ {
+  "id": "hw-0002",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "CRT monitor",
+  "es": "monitor de tubo (CRT)",
+  "pos": "noun",
+  "def_en": "An old, heavy monitor with a large tube inside.",
+  "example_en": "The company still uses an outdated CRT monitor in the storage room.",
+  "example_es": "La empresa todavía usa un monitor CRT obsoleto en el almacén.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0003",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "docking station",
+  "es": "base de conexión (dock)",
+  "pos": "noun",
+  "def_en": "A hardware unit that allows a laptop computer to easily connect to multiple desktop peripherals and power.",
+  "example_en": "The docking station connects the laptop to several peripherals.",
+  "example_es": "La base de conexión conecta el portátil a varios periféricos.",
+  "difficulty": 3,
+  "source": "examenes+aula",
+  "image": "img/docking-station.svg"
+ },
+ {
+  "id": "hw-0004",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "ergonomic keyboard",
+  "es": "teclado ergonómico",
+  "pos": "noun",
+  "def_en": "A keyboard designed to be comfortable during long working hours.",
+  "example_en": "Staff use ergonomic keyboards to work comfortably during long hours.",
+  "example_es": "El personal usa teclados ergonómicos para trabajar cómodo durante muchas horas.",
+  "difficulty": 3,
+  "source": "examenes+aula",
+  "image": "img/keyboard.svg"
+ },
+ {
+  "id": "hw-0005",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "optical mouse",
+  "es": "ratón óptico",
+  "pos": "noun",
+  "def_en": "A mouse that uses a light sensor instead of a rubber ball.",
+  "example_en": "An optical mouse does not need a rubber ball inside.",
+  "example_es": "Un ratón óptico no necesita una bola de goma en su interior.",
+  "difficulty": 2,
+  "source": "examenes+aula",
+  "image": "img/mouse.svg"
+ },
+ {
+  "id": "hw-0006",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "power socket",
+  "es": "toma de corriente",
+  "pos": "noun",
+  "def_en": "The place on the wall where you plug in a power cable.",
+  "example_en": "He checks every power socket to prevent system failure.",
+  "example_es": "Revisa cada toma de corriente para prevenir fallos del sistema.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0007",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "network cable",
+  "es": "cable de red",
+  "pos": "noun",
+  "def_en": "A cable that connects a device to a network.",
+  "example_en": "He replaces the faulty network cable.",
+  "example_es": "Sustituye el cable de red defectuoso.",
+  "difficulty": 1,
+  "source": "examenes+aula",
+  "image": "img/network-cable.svg"
+ },
+ {
+  "id": "hw-0008",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "wireless signal",
+  "es": "señal inalámbrica",
+  "pos": "noun",
+  "def_en": "Radio waves that carry data without cables.",
+  "example_en": "Wireless signals are weaker behind thick walls.",
+  "example_es": "Las señales inalámbricas son más débiles detrás de paredes gruesas.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0009",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "diagnostic tool",
+  "es": "herramienta de diagnóstico",
+  "pos": "noun",
+  "def_en": "A program or device used to find out what is wrong with a computer.",
+  "example_en": "He uses a diagnostic tool to test the hard drive.",
+  "example_es": "Usa una herramienta de diagnóstico para probar el disco duro.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0010",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "workstation",
+  "es": "puesto de trabajo / estación de trabajo",
+  "pos": "noun",
+  "def_en": "A desk with a computer where an employee works.",
+  "example_en": "Every workstation in the office has a desktop computer.",
+  "example_es": "Cada puesto de trabajo de la oficina tiene un ordenador de sobremesa.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0011",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "scanner",
+  "es": "escáner",
+  "pos": "noun",
+  "def_en": "A machine that copies paper documents into digital files.",
+  "example_en": "The scanner converts paper documents into digital files.",
+  "example_es": "El escáner convierte documentos en papel en archivos digitales.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0012",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "projector",
+  "es": "proyector",
+  "pos": "noun",
+  "def_en": "A device that shows images on a wall or screen.",
+  "example_en": "The projector shows the presentation on the wall.",
+  "example_es": "El proyector muestra la presentación en la pared.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0013",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "server",
+  "es": "servidor",
+  "pos": "noun",
+  "def_en": "A powerful computer that stores files and offers services to other computers.",
+  "example_en": "The server stores files for all the employees.",
+  "example_es": "El servidor guarda los archivos de todos los empleados.",
+  "difficulty": 1,
+  "source": "examenes+aula",
+  "image": "img/server.svg"
+ },
+ {
+  "id": "hw-0014",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "hardware failure",
+  "es": "fallo de hardware",
+  "pos": "noun",
+  "def_en": "A problem caused by a broken physical part of the computer.",
+  "example_en": "A hardware failure can stop the whole network.",
+  "example_es": "Un fallo de hardware puede detener toda la red.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0015",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "processor (CPU)",
+  "es": "procesador (CPU)",
+  "pos": "noun",
+  "def_en": "The main chip that carries out the instructions of a computer.",
+  "example_en": "The processor is the brain of the computer.",
+  "example_es": "El procesador es el cerebro del ordenador.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0016",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "motherboard",
+  "es": "placa base",
+  "pos": "noun",
+  "def_en": "The main circuit board that connects all the parts of a computer.",
+  "example_en": "Align the motherboard with the screw holes before you fix it.",
+  "example_es": "Alinea la placa base con los agujeros de los tornillos antes de fijarla.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0017",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "RAM (memory module)",
+  "es": "memoria RAM (módulo de memoria)",
+  "pos": "noun",
+  "def_en": "Temporary memory that the computer uses while it is working.",
+  "example_en": "This laptop has 16 GB of RAM.",
+  "example_es": "Este portátil tiene 16 GB de RAM.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0018",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "hard disk drive (HDD)",
+  "es": "disco duro (HDD)",
+  "pos": "noun",
+  "def_en": "A storage device with spinning disks that keeps your files.",
+  "example_en": "A hard disk drive is slower than an SSD.",
+  "example_es": "Un disco duro es más lento que un SSD.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0019",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "solid-state drive (SSD)",
+  "es": "unidad de estado sólido (SSD)",
+  "pos": "noun",
+  "def_en": "A very fast storage device with no moving parts.",
+  "example_en": "An SSD is faster and quieter than a hard disk drive.",
+  "example_es": "Un SSD es más rápido y silencioso que un disco duro.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0020",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "power supply unit",
+  "es": "fuente de alimentación",
+  "pos": "noun",
+  "def_en": "The part that gives electric power to the computer components.",
+  "example_en": "Slide the power supply unit into its slot.",
+  "example_es": "Desliza la fuente de alimentación en su ranura.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0021",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "graphics card",
+  "es": "tarjeta gráfica",
+  "pos": "noun",
+  "def_en": "A card that produces the images shown on the screen.",
+  "example_en": "The graphics card is the most expensive part of this PC.",
+  "example_es": "La tarjeta gráfica es la pieza más cara de este PC.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0022",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "case (tower)",
+  "es": "caja (torre) del ordenador",
+  "pos": "noun",
+  "def_en": "The metal or plastic box that holds the computer parts.",
+  "example_en": "Remove the side panel of the case.",
+  "example_es": "Quita el panel lateral de la caja.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0023",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "cooling fan",
+  "es": "ventilador",
+  "pos": "noun",
+  "def_en": "A device that blows air to keep the components cool.",
+  "example_en": "The cooling fan is making a loud noise.",
+  "example_es": "El ventilador hace mucho ruido.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0024",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "heat sink",
+  "es": "disipador de calor",
+  "pos": "noun",
+  "def_en": "A metal part that takes heat away from the processor.",
+  "example_en": "Fix the heat sink on top of the processor.",
+  "example_es": "Fija el disipador de calor encima del procesador.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0025",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "expansion slot",
+  "es": "ranura de expansión",
+  "pos": "noun",
+  "def_en": "A place on the motherboard where you add a card.",
+  "example_en": "Insert the card into the expansion slot.",
+  "example_es": "Inserta la tarjeta en la ranura de expansión.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0026",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "port",
+  "es": "puerto",
+  "pos": "noun",
+  "def_en": "A socket on a computer where you connect a cable or device.",
+  "example_en": "This laptop has two USB ports.",
+  "example_es": "Este portátil tiene dos puertos USB.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0027",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "laptop",
+  "es": "portátil",
+  "pos": "noun",
+  "def_en": "A small computer that you can carry with you.",
+  "example_en": "She works on a laptop on the train.",
+  "example_es": "Ella trabaja con un portátil en el tren.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0028",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "desktop computer",
+  "es": "ordenador de sobremesa",
+  "pos": "noun",
+  "def_en": "A computer that stays on a desk and uses a separate monitor.",
+  "example_en": "Most offices use desktop computers.",
+  "example_es": "La mayoría de las oficinas usan ordenadores de sobremesa.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0029",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "printer",
+  "es": "impresora",
+  "pos": "noun",
+  "def_en": "A machine that prints documents on paper.",
+  "example_en": "The printer is out of paper.",
+  "example_es": "La impresora se ha quedado sin papel.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0030",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "webcam",
+  "es": "cámara web",
+  "pos": "noun",
+  "def_en": "A small camera used for video calls.",
+  "example_en": "Check your webcam before the meeting.",
+  "example_es": "Comprueba tu cámara web antes de la reunión.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0031",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "headset",
+  "es": "auriculares con micrófono",
+  "pos": "noun",
+  "def_en": "Headphones with a microphone, used to talk on the phone or online.",
+  "example_en": "The technician wears a headset all day.",
+  "example_es": "El técnico lleva auriculares con micrófono todo el día.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0032",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "external hard drive",
+  "es": "disco duro externo",
+  "pos": "noun",
+  "def_en": "A storage device outside the computer that you connect with a cable.",
+  "example_en": "Save a copy of your files on an external hard drive.",
+  "example_es": "Guarda una copia de tus archivos en un disco duro externo.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0033",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "flash drive",
+  "es": "memoria USB (pendrive)",
+  "pos": "noun",
+  "def_en": "A small device for carrying files that you plug into a USB port.",
+  "example_en": "I keep my CV on a flash drive.",
+  "example_es": "Guardo mi CV en una memoria USB.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0034",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "battery",
+  "es": "batería",
+  "pos": "noun",
+  "def_en": "The part that stores power so a laptop works without a socket.",
+  "example_en": "The battery lasts about eight hours.",
+  "example_es": "La batería dura unas ocho horas.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0035",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "charger",
+  "es": "cargador",
+  "pos": "noun",
+  "def_en": "A device that gives power to a battery.",
+  "example_en": "I forgot my charger at home.",
+  "example_es": "Me he dejado el cargador en casa.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0036",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "screwdriver",
+  "es": "destornillador",
+  "pos": "noun",
+  "def_en": "A tool used to turn screws.",
+  "example_en": "You need a small screwdriver to open the case.",
+  "example_es": "Necesitas un destornillador pequeño para abrir la caja.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0037",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "thermal paste",
+  "es": "pasta térmica",
+  "pos": "noun",
+  "def_en": "A gray paste that helps move heat from the processor to the heat sink.",
+  "example_en": "Put a little thermal paste on the processor.",
+  "example_es": "Pon un poco de pasta térmica en el procesador.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0038",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "antistatic wrist strap",
+  "es": "pulsera antiestática",
+  "pos": "noun",
+  "def_en": "A band you wear to avoid damaging parts with static electricity.",
+  "example_en": "Wear an antistatic wrist strap when you touch the motherboard.",
+  "example_es": "Ponte una pulsera antiestática cuando toques la placa base.",
+  "difficulty": 3,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0039",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "peripheral",
+  "es": "periférico",
+  "pos": "noun",
+  "def_en": "A device connected to a computer, such as a mouse or a printer.",
+  "example_en": "A printer is a common peripheral.",
+  "example_es": "Una impresora es un periférico habitual.",
+  "difficulty": 2,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0040",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "touchscreen",
+  "es": "pantalla táctil",
+  "pos": "noun",
+  "def_en": "A screen that you control by touching it.",
+  "example_en": "Many tablets have a touchscreen.",
+  "example_es": "Muchas tabletas tienen pantalla táctil.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0041",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "microphone",
+  "es": "micrófono",
+  "pos": "noun",
+  "def_en": "A device that records your voice.",
+  "example_en": "The microphone does not work in the video call.",
+  "example_es": "El micrófono no funciona en la videollamada.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ },
+ {
+  "id": "hw-0042",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "hardware",
+  "en": "memory card",
+  "es": "tarjeta de memoria",
+  "pos": "noun",
+  "def_en": "A small card used to store photos and files.",
+  "example_en": "The camera uses a memory card.",
+  "example_es": "La cámara usa una tarjeta de memoria.",
+  "difficulty": 1,
+  "source": "examenes+aula"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "dl-0001",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "Presentarse en el centro",
+  "situation": "Conoces a un compañero nuevo y os presentáis.",
+  "lines": [
+   {
+    "who": "A",
+    "en": "Hi! My name is Nour. What is your name?",
+    "es": "¡Hola! Me llamo Nour. ¿Cómo te llamas?"
+   },
+   {
+    "who": "B",
+    "en": "I am Sara. Nice to meet you.",
+    "es": "Soy Sara. Encantada de conocerte."
+   },
+   {
+    "who": "A",
+    "en": "Nice to meet you, too. How old are you?",
+    "es": "Igualmente. ¿Cuántos años tienes?"
+   },
+   {
+    "who": "B",
+    "en": "I am 19 years old. And you?",
+    "es": "Tengo 19 años. ¿Y tú?"
+   },
+   {
+    "who": "A",
+    "en": "I am 20. I study Microcomputer Systems and Networks.",
+    "es": "Tengo 20. Estudio Sistemas Microinformáticos y Redes."
+   },
+   {
+    "who": "B",
+    "en": "Me too! Which module do you like?",
+    "es": "¡Yo también! ¿Qué módulo te gusta?"
+   },
+   {
+    "who": "A",
+    "en": "I like Network Operating Systems because I learn a lot.",
+    "es": "Me gustan los Sistemas operativos en red porque aprendo mucho."
+   },
+   {
+    "who": "B",
+    "en": "I prefer Computer Safety. It is more interesting than Web Applications.",
+    "es": "Yo prefiero Seguridad informática. Es más interesante que Aplicaciones web."
+   }
+  ]
+ },
+ {
+  "id": "dl-0002",
+  "ra": [
+   "RA3"
+  ],
+  "title": "En recepción: datos personales y la hora (Part 3, Situation 1)",
+  "situation": "Eres recepcionista. Llega un candidato a una entrevista.",
+  "lines": [
+   {
+    "who": "Receptionist",
+    "en": "Good morning. Welcome to TechFix. How can I help you?",
+    "es": "Buenos días. Bienvenido a TechFix. ¿En qué puedo ayudarle?"
+   },
+   {
+    "who": "Candidate",
+    "en": "Good morning. I have an interview at a quarter past eleven.",
+    "es": "Buenos días. Tengo una entrevista a las once y cuarto."
+   },
+   {
+    "who": "Receptionist",
+    "en": "Could you tell me your full name, please?",
+    "es": "¿Podría decirme su nombre completo, por favor?"
+   },
+   {
+    "who": "Candidate",
+    "en": "Yes, my name is Carlos Mora.",
+    "es": "Sí, me llamo Carlos Mora."
+   },
+   {
+    "who": "Receptionist",
+    "en": "What is your contact number?",
+    "es": "¿Cuál es su número de contacto?"
+   },
+   {
+    "who": "Candidate",
+    "en": "It is 612 345 678.",
+    "es": "Es el 612 345 678."
+   },
+   {
+    "who": "Receptionist",
+    "en": "Which modules did you study?",
+    "es": "¿Qué módulos estudió?"
+   },
+   {
+    "who": "Candidate",
+    "en": "I studied Local Networks and Computer Safety. Excuse me, what time is it?",
+    "es": "Estudié Redes locales y Seguridad informática. Perdone, ¿qué hora es?"
+   },
+   {
+    "who": "Receptionist",
+    "en": "It is a quarter to eleven. The interview starts at a quarter past eleven.",
+    "es": "Son las once menos cuarto. La entrevista empieza a las once y cuarto."
+   },
+   {
+    "who": "Candidate",
+    "en": "Thank you very much.",
+    "es": "Muchas gracias."
+   }
+  ]
+ },
+ {
+  "id": "dl-0003",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "title": "Pedir y dar direcciones (Part 3, Situation 2)",
+  "situation": "Un visitante está en la cocina de la planta baja y quiere ir al Departamento de Ventas (primera planta).",
+  "lines": [
+   {
+    "who": "Visitor",
+    "en": "Excuse me, could you tell me how to get to the Sales Department?",
+    "es": "Perdone, ¿podría decirme cómo llegar al Departamento de Ventas?"
+   },
+   {
+    "who": "Employee",
+    "en": "Of course. First, leave the kitchenette and go into the main corridor.",
+    "es": "Por supuesto. Primero, salga de la cocina y vaya al pasillo principal."
+   },
+   {
+    "who": "Employee",
+    "en": "Then turn right and take the stairs or the lift up to the first floor.",
+    "es": "Después gire a la derecha y suba por las escaleras o en el ascensor a la primera planta."
+   },
+   {
+    "who": "Visitor",
+    "en": "And then?",
+    "es": "¿Y después?"
+   },
+   {
+    "who": "Employee",
+    "en": "When you get out, turn right into the break area.",
+    "es": "Al salir, gire a la derecha hacia la zona de descanso."
+   },
+   {
+    "who": "Employee",
+    "en": "The Sales Department is on your right, between the archive room and the HR Department.",
+    "es": "El Departamento de Ventas está a su derecha, entre la sala de archivo y el Departamento de RR. HH."
+   },
+   {
+    "who": "Visitor",
+    "en": "Thank you very much for your help.",
+    "es": "Muchas gracias por su ayuda."
+   }
+  ]
+ },
+ {
+  "id": "dl-0004",
+  "ra": [
+   "RA3",
+   "RA1"
+  ],
+  "title": "Llamada al soporte técnico",
+  "situation": "Un cliente llama porque su ordenador no enciende.",
+  "lines": [
+   {
+    "who": "Technician",
+    "en": "Thank you for calling technical support. How can I help you?",
+    "es": "Gracias por llamar al soporte técnico. ¿En qué puedo ayudarle?"
+   },
+   {
+    "who": "Customer",
+    "en": "My computer doesn't turn on.",
+    "es": "Mi ordenador no se enciende."
+   },
+   {
+    "who": "Technician",
+    "en": "Is the computer plugged in?",
+    "es": "¿Está enchufado el ordenador?"
+   },
+   {
+    "who": "Customer",
+    "en": "Yes, it is.",
+    "es": "Sí, lo está."
+   },
+   {
+    "who": "Technician",
+    "en": "Can you check the power cable and the power socket, please?",
+    "es": "¿Puede revisar el cable de alimentación y la toma de corriente, por favor?"
+   },
+   {
+    "who": "Customer",
+    "en": "The cable is loose! Now it works.",
+    "es": "¡El cable estaba suelto! Ahora funciona."
+   },
+   {
+    "who": "Technician",
+    "en": "Great. Is there anything else I can help you with?",
+    "es": "Estupendo. ¿Puedo ayudarle en algo más?"
+   },
+   {
+    "who": "Customer",
+    "en": "No, thank you. Goodbye.",
+    "es": "No, gracias. Adiós."
+   }
+  ]
+ },
+ {
+  "id": "dl-0005",
+  "ra": [
+   "RA3",
+   "RA5"
+  ],
+  "title": "Entrevista de trabajo",
+  "situation": "Una entrevista corta para un puesto de técnico.",
+  "lines": [
+   {
+    "who": "Interviewer",
+    "en": "Tell me about yourself.",
+    "es": "Hábleme de usted."
+   },
+   {
+    "who": "Candidate",
+    "en": "I am 20 years old and I study Microcomputer Systems and Networks.",
+    "es": "Tengo 20 años y estudio Sistemas Microinformáticos y Redes."
+   },
+   {
+    "who": "Interviewer",
+    "en": "Why do you want this job?",
+    "es": "¿Por qué quiere este trabajo?"
+   },
+   {
+    "who": "Candidate",
+    "en": "Because I like solving problems and I want to learn more.",
+    "es": "Porque me gusta resolver problemas y quiero aprender más."
+   },
+   {
+    "who": "Interviewer",
+    "en": "What are your strengths?",
+    "es": "¿Cuáles son sus puntos fuertes?"
+   },
+   {
+    "who": "Candidate",
+    "en": "I learn fast and I can work in a team.",
+    "es": "Aprendo rápido y sé trabajar en equipo."
+   },
+   {
+    "who": "Interviewer",
+    "en": "When can you start?",
+    "es": "¿Cuándo puede empezar?"
+   },
+   {
+    "who": "Candidate",
+    "en": "I can start next Monday.",
+    "es": "Puedo empezar el próximo lunes."
+   }
+  ]
+ },
+ {
+  "id": "dl-0006",
+  "ra": [
+   "RA3"
+  ],
+  "title": "Vender un portátil",
+  "situation": "Eres comercial de microinformática.",
+  "lines": [
+   {
+    "who": "Seller",
+    "en": "Good afternoon. Can I help you?",
+    "es": "Buenas tardes. ¿Puedo ayudarle?"
+   },
+   {
+    "who": "Customer",
+    "en": "Yes, I need a laptop for work.",
+    "es": "Sí, necesito un portátil para trabajar."
+   },
+   {
+    "who": "Seller",
+    "en": "This one is lighter and faster than that one.",
+    "es": "Este es más ligero y más rápido que aquel."
+   },
+   {
+    "who": "Customer",
+    "en": "How much is it?",
+    "es": "¿Cuánto cuesta?"
+   },
+   {
+    "who": "Seller",
+    "en": "It is 700 euros. It is the best laptop in our shop.",
+    "es": "Cuesta 700 euros. Es el mejor portátil de nuestra tienda."
+   },
+   {
+    "who": "Customer",
+    "en": "Does it have an SSD?",
+    "es": "¿Tiene SSD?"
+   },
+   {
+    "who": "Seller",
+    "en": "Yes, it has a 512 GB SSD and 16 GB of RAM.",
+    "es": "Sí, tiene un SSD de 512 GB y 16 GB de RAM."
+   },
+   {
+    "who": "Customer",
+    "en": "OK, I will take it.",
+    "es": "De acuerdo, me lo llevo."
+   }
+  ]
+ },
+ {
+  "id": "dl-0007",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "Teléfono: pasar una llamada y tomar un mensaje",
+  "situation": "Atiendes el teléfono de la oficina.",
+  "lines": [
+   {
+    "who": "You",
+    "en": "Good morning, TechFix. How can I help you?",
+    "es": "Buenos días, TechFix. ¿En qué puedo ayudarle?"
+   },
+   {
+    "who": "Caller",
+    "en": "Could I speak to Ms Clark, please?",
+    "es": "¿Podría hablar con la señora Clark, por favor?"
+   },
+   {
+    "who": "You",
+    "en": "I'm sorry, she is in a meeting. Can I take a message?",
+    "es": "Lo siento, está en una reunión. ¿Puedo tomar un mensaje?"
+   },
+   {
+    "who": "Caller",
+    "en": "Yes. Please tell her that Mr Ruiz called.",
+    "es": "Sí. Por favor, dígale que ha llamado el señor Ruiz."
+   },
+   {
+    "who": "You",
+    "en": "Could you spell your surname, please?",
+    "es": "¿Podría deletrear su apellido, por favor?"
+   },
+   {
+    "who": "Caller",
+    "en": "R-U-I-Z. My number is 600 111 222.",
+    "es": "R-U-I-Z. Mi número es el 600 111 222."
+   },
+   {
+    "who": "You",
+    "en": "Thank you. I will give her the message.",
+    "es": "Gracias. Le daré el mensaje."
+   }
+  ]
+ },
+ {
+  "id": "dl-0008",
+  "ra": [
+   "RA3"
+  ],
+  "title": "Avisar a tu responsable de un fallo",
+  "situation": "Un servidor ha dejado de funcionar.",
+  "lines": [
+   {
+    "who": "Technician",
+    "en": "Excuse me, we have a problem with the server.",
+    "es": "Perdone, tenemos un problema con el servidor."
+   },
+   {
+    "who": "Manager",
+    "en": "What is the problem?",
+    "es": "¿Cuál es el problema?"
+   },
+   {
+    "who": "Technician",
+    "en": "The server is down. Nobody can open the shared folders.",
+    "es": "El servidor está caído. Nadie puede abrir las carpetas compartidas."
+   },
+   {
+    "who": "Manager",
+    "en": "Is it a hardware failure?",
+    "es": "¿Es un fallo de hardware?"
+   },
+   {
+    "who": "Technician",
+    "en": "I think so. The power supply is faulty.",
+    "es": "Creo que sí. La fuente de alimentación está defectuosa."
+   },
+   {
+    "who": "Manager",
+    "en": "How long will it take to fix it?",
+    "es": "¿Cuánto tardará en arreglarlo?"
+   },
+   {
+    "who": "Technician",
+    "en": "About an hour. I am going to replace it now.",
+    "es": "Aproximadamente una hora. Voy a sustituirla ahora mismo."
+   }
+  ]
+ }
+]

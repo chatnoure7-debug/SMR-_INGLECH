@@ -1,0 +1,589 @@
+[
+ {
+  "id": "wr-0001",
+  "ra": [
+   "RA4",
+   "RA5"
+  ],
+  "kind": "composition",
+  "title": "Redacción: un técnico (he)",
+  "prompt": "Write a short composition (60–80 words) in English about an IT technician or network administrator you know or study with (use 3rd person: he / she).",
+  "bullets": [
+   "Personal information and their studies or job role (mention at least one official IT module, e.g., Network Operating Systems, Computer Safety).",
+   "The hardware devices or network tools they prefer using daily.",
+   "At least ONE comparative (e.g., more secure than) and ONE superlative (e.g., the fastest)."
+  ],
+  "min": 60,
+  "max": 80,
+  "must": [
+   {
+    "id": "third",
+    "label": "Está en 3.ª persona (he / she)",
+    "pattern": "\\b(he|she)\\b",
+    "min": 2
+   },
+   {
+    "id": "module",
+    "label": "Menciona un módulo oficial",
+    "pattern": "(assembly and maintenance|operating systems|office automation|local networks|computer safety|network services|web applications|professional training)"
+   },
+   {
+    "id": "devices",
+    "label": "Cita dispositivos o herramientas",
+    "pattern": "(laptop|computer|monitor|keyboard|mouse|server|router|switch|cable|printer|scanner|tablet|phone|ssd|ram|docking)",
+    "min": 2
+   },
+   {
+    "id": "comp",
+    "label": "Incluye 1 comparativo (… than)",
+    "pattern": "\\b(\\w+er than|more \\w+ than|better than|worse than|less \\w+ than)\\b"
+   },
+   {
+    "id": "sup",
+    "label": "Incluye 1 superlativo (the …est / the most …)",
+    "pattern": "\\b(the \\w+est|the most \\w+|the best|the worst|the least \\w+)\\b"
+   }
+  ],
+  "forbid": [
+   {
+    "pattern": "\\bI (am|have|like|study|work|use)\\b",
+    "msg": "Escribe sobre otra persona: he / she, no 'I'."
+   }
+  ],
+  "model": "Karim is 20 years old and he is from Madrid. He studies Microcomputer Systems and Networks. His favourite module is Network Operating Systems because he learns a lot. Every day he uses his laptop, which is faster than his old desktop computer. He also uses a network cable because it is more reliable than Wi-Fi. For Karim, the most interesting part of the job is fixing network problems. He wants to work as a network technician in the future.",
+  "source": "tu-examen"
+ },
+ {
+  "id": "wr-0002",
+  "ra": [
+   "RA4",
+   "RA5"
+  ],
+  "kind": "composition",
+  "title": "Redacción: un técnico (she)",
+  "prompt": "Write a short composition (60–80 words) in English about an IT technician or network administrator you know or study with (use 3rd person: he / she).",
+  "bullets": [
+   "Personal information and their studies or job role (mention at least one official IT module, e.g., Network Operating Systems, Computer Safety).",
+   "The hardware devices or network tools they prefer using daily.",
+   "At least ONE comparative (e.g., more secure than) and ONE superlative (e.g., the fastest)."
+  ],
+  "min": 60,
+  "max": 80,
+  "must": [
+   {
+    "id": "third",
+    "label": "Está en 3.ª persona (he / she)",
+    "pattern": "\\b(he|she)\\b",
+    "min": 2
+   },
+   {
+    "id": "module",
+    "label": "Menciona un módulo oficial",
+    "pattern": "(assembly and maintenance|operating systems|office automation|local networks|computer safety|network services|web applications|professional training)"
+   },
+   {
+    "id": "devices",
+    "label": "Cita dispositivos o herramientas",
+    "pattern": "(laptop|computer|monitor|keyboard|mouse|server|router|switch|cable|printer|scanner|tablet|phone|ssd|ram|docking)",
+    "min": 2
+   },
+   {
+    "id": "comp",
+    "label": "Incluye 1 comparativo (… than)",
+    "pattern": "\\b(\\w+er than|more \\w+ than|better than|worse than|less \\w+ than)\\b"
+   },
+   {
+    "id": "sup",
+    "label": "Incluye 1 superlativo (the …est / the most …)",
+    "pattern": "\\b(the \\w+est|the most \\w+|the best|the worst|the least \\w+)\\b"
+   }
+  ],
+  "forbid": [
+   {
+    "pattern": "\\bI (am|have|like|study|work|use)\\b",
+    "msg": "Escribe sobre otra persona: he / she, no 'I'."
+   }
+  ],
+  "model": "Laura is 22 years old and she works as a helpdesk technician in Madrid. She studied Local Networks and Computer Safety. Every morning she checks the server and answers calls with her headset. She thinks her new monitor is brighter than the old one. Laura says the most difficult part of her job is talking to angry customers, but she enjoys solving problems. She is very patient and she works well in a team.",
+  "source": "tu-examen"
+ },
+ {
+  "id": "wr-0003",
+  "ra": [
+   "RA4",
+   "RA5"
+  ],
+  "kind": "composition",
+  "title": "Redacción: un técnico (he)",
+  "prompt": "Write a short composition (60–80 words) in English about an IT technician or network administrator you know or study with (use 3rd person: he / she).",
+  "bullets": [
+   "Personal information and their studies or job role (mention at least one official IT module, e.g., Network Operating Systems, Computer Safety).",
+   "The hardware devices or network tools they prefer using daily.",
+   "At least ONE comparative (e.g., more secure than) and ONE superlative (e.g., the fastest)."
+  ],
+  "min": 60,
+  "max": 80,
+  "must": [
+   {
+    "id": "third",
+    "label": "Está en 3.ª persona (he / she)",
+    "pattern": "\\b(he|she)\\b",
+    "min": 2
+   },
+   {
+    "id": "module",
+    "label": "Menciona un módulo oficial",
+    "pattern": "(assembly and maintenance|operating systems|office automation|local networks|computer safety|network services|web applications|professional training)"
+   },
+   {
+    "id": "devices",
+    "label": "Cita dispositivos o herramientas",
+    "pattern": "(laptop|computer|monitor|keyboard|mouse|server|router|switch|cable|printer|scanner|tablet|phone|ssd|ram|docking)",
+    "min": 2
+   },
+   {
+    "id": "comp",
+    "label": "Incluye 1 comparativo (… than)",
+    "pattern": "\\b(\\w+er than|more \\w+ than|better than|worse than|less \\w+ than)\\b"
+   },
+   {
+    "id": "sup",
+    "label": "Incluye 1 superlativo (the …est / the most …)",
+    "pattern": "\\b(the \\w+est|the most \\w+|the best|the worst|the least \\w+)\\b"
+   }
+  ],
+  "forbid": [
+   {
+    "pattern": "\\bI (am|have|like|study|work|use)\\b",
+    "msg": "Escribe sobre otra persona: he / she, no 'I'."
+   }
+  ],
+  "model": "Omar is 19 years old and he studies Assembly and Maintenance of Computers. He has a docking station, an ergonomic keyboard and an optical mouse at his desk. He thinks an SSD is faster than a hard disk drive, and he says the best way to learn is to build a computer. His brother works as a network administrator. Omar wants to be a technician because he likes repairing hardware and helping people.",
+  "source": "tu-examen"
+ },
+ {
+  "id": "wr-0004",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "kind": "dialogue",
+  "title": "Diálogo: recepción y hora (Modelo A)",
+  "prompt": "You are working at the Reception / Front Desk. A candidate arrives for a job interview with the Talent Acquisition team. Time to say: 10:45 (now) and 11:15 (interview).",
+  "bullets": [
+   "Write a short dialogue (8–10 lines) between You and the other person.",
+   "Include polite greetings and 3 formal questions asking for personal information.",
+   "Include the other person's answers.",
+   "Include the person asking for the current time, and you telling the exact time (in words) and the time of the appointment (in words)."
+  ],
+  "minLines": 8,
+  "maxLines": 10,
+  "must": [
+   {
+    "id": "greet",
+    "label": "Saludo educado (Good morning / Hello…)",
+    "pattern": "(good morning|good afternoon|good evening|hello|welcome)"
+   },
+   {
+    "id": "questions",
+    "label": "Al menos 3 preguntas (con ?)",
+    "count": "?",
+    "min": 3
+   },
+   {
+    "id": "polite",
+    "label": "Fórmulas formales (could you / may I / would you / please)",
+    "pattern": "(could you|may i|would you|please)"
+   },
+   {
+    "id": "time1",
+    "label": "Dice la hora «a quarter to eleven» en palabras",
+    "pattern": "(a )?quarter to eleven|ten forty-five"
+   },
+   {
+    "id": "time2",
+    "label": "Dice la hora «a quarter past eleven» en palabras",
+    "pattern": "(a )?quarter past eleven|eleven fifteen"
+   },
+   {
+    "id": "nodigits",
+    "label": "La hora va en palabras, no en cifras (10:45)",
+    "pattern": "^(?![\\s\\S]*\\b\\d{1,2}[:.]\\d{2}\\b)"
+   }
+  ],
+  "model": "Receptionist: Good morning. Welcome to our company.\nCandidate: Good morning. I have an interview today.\nReceptionist: Could you tell me your full name, please?\nCandidate: Yes, my name is Carlos Mora.\nReceptionist: What is your contact number?\nCandidate: It is 612 345 678.\nReceptionist: Which modules did you study?\nCandidate: I studied Local Networks and Computer Safety. Excuse me, what time is it?\nReceptionist: It is a quarter to eleven. The interview starts at a quarter past eleven.\nCandidate: Thank you very much.",
+  "source": "profesora"
+ },
+ {
+  "id": "wr-0005",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "kind": "dialogue",
+  "title": "Diálogo: prácticas y hora (Modelo B)",
+  "prompt": "You are in the Human Resources Department. A new intern arrives to sign the On The Job Training agreement. Time to say: 9:35 (now) and 10:00 (orientation).",
+  "bullets": [
+   "Write a short dialogue (8–10 lines) between You and the other person.",
+   "Include polite greetings and 3 formal questions asking for personal information.",
+   "Include the other person's answers.",
+   "Include the person asking for the current time, and you telling the exact time (in words) and the time of the appointment (in words)."
+  ],
+  "minLines": 8,
+  "maxLines": 10,
+  "must": [
+   {
+    "id": "greet",
+    "label": "Saludo educado (Good morning / Hello…)",
+    "pattern": "(good morning|good afternoon|good evening|hello|welcome)"
+   },
+   {
+    "id": "questions",
+    "label": "Al menos 3 preguntas (con ?)",
+    "count": "?",
+    "min": 3
+   },
+   {
+    "id": "polite",
+    "label": "Fórmulas formales (could you / may I / would you / please)",
+    "pattern": "(could you|may i|would you|please)"
+   },
+   {
+    "id": "time1",
+    "label": "Dice la hora «twenty-five to ten» en palabras",
+    "pattern": "twenty-five to ten|nine thirty-five"
+   },
+   {
+    "id": "time2",
+    "label": "Dice la hora «ten o'clock» en palabras",
+    "pattern": "ten o'clock|ten oclock"
+   },
+   {
+    "id": "nodigits",
+    "label": "La hora va en palabras, no en cifras (10:45)",
+    "pattern": "^(?![\\s\\S]*\\b\\d{1,2}[:.]\\d{2}\\b)"
+   }
+  ],
+  "model": "HR: Good morning. Are you the new intern?\nIntern: Good morning. Yes, I am.\nHR: May I have your full name, please?\nIntern: My name is Lucía Ortega.\nHR: What is your current address?\nIntern: I live at 12 Green Street, Madrid.\nHR: Could you give me your phone number?\nIntern: Yes, it is 600 123 456. Sorry, what time is it?\nHR: It is twenty-five to ten. The orientation session begins at ten o'clock.\nIntern: Great, thank you.",
+  "source": "profesora"
+ },
+ {
+  "id": "wr-0006",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "kind": "dialogue",
+  "title": "Diálogo: cliente y contable (Modelo C)",
+  "prompt": "You are a Receptionist at an administrative consultancy. A client arrives for an appointment with the Accounting Department. Time to say: 4:20 (now) and 4:45 (appointment).",
+  "bullets": [
+   "Write a short dialogue (8–10 lines) between You and the other person.",
+   "Include polite greetings and 3 formal questions asking for personal information.",
+   "Include the other person's answers.",
+   "Include the person asking for the current time, and you telling the exact time (in words) and the time of the appointment (in words)."
+  ],
+  "minLines": 8,
+  "maxLines": 10,
+  "must": [
+   {
+    "id": "greet",
+    "label": "Saludo educado (Good morning / Hello…)",
+    "pattern": "(good morning|good afternoon|good evening|hello|welcome)"
+   },
+   {
+    "id": "questions",
+    "label": "Al menos 3 preguntas (con ?)",
+    "count": "?",
+    "min": 3
+   },
+   {
+    "id": "polite",
+    "label": "Fórmulas formales (could you / may I / would you / please)",
+    "pattern": "(could you|may i|would you|please)"
+   },
+   {
+    "id": "time1",
+    "label": "Dice la hora «twenty past four» en palabras",
+    "pattern": "twenty past four|four twenty"
+   },
+   {
+    "id": "time2",
+    "label": "Dice la hora «a quarter to five» en palabras",
+    "pattern": "(a )?quarter to five|four forty-five"
+   },
+   {
+    "id": "nodigits",
+    "label": "La hora va en palabras, no en cifras (10:45)",
+    "pattern": "^(?![\\s\\S]*\\b\\d{1,2}[:.]\\d{2}\\b)"
+   }
+  ],
+  "model": "Receptionist: Good afternoon. How can I help you?\nClient: Good afternoon. I have an appointment with the Accountant.\nReceptionist: Could you tell me your full name, please?\nClient: Yes, it is Daniel Ruiz.\nReceptionist: What is your email address?\nClient: It is daniel.ruiz@mail.com.\nReceptionist: Which company do you represent?\nClient: I represent Ruiz Logistics. Excuse me, what time is it?\nReceptionist: It is twenty past four. The Accountant will see you at a quarter to five.\nClient: Thank you.",
+  "source": "profesora"
+ },
+ {
+  "id": "wr-0007",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "kind": "directions",
+  "title": "Direcciones: de la cocina a Ventas (Modelo A)",
+  "prompt": "A client is in the Kitchenette / Break Room on the Ground Floor and needs to go to the Sales Department on the First Floor.",
+  "plan": "Plano (según los textos de la profesora): PLANTA BAJA: Main Entrance, Reception/Lobby, Main Corridor (el ascensor/lift está a la izquierda), Kitchenette, Toilets, Boardroom (por el pasillo, a la derecha, enfrente de la Open-Plan Office). PRIMERA PLANTA: al salir del ascensor, a la derecha está la Break Area; después HR Department, IT Office (a la derecha, junto a los restrooms), Archive/Filing Room, Sales Department (entre Archive y HR, enfrente de la Meeting Room), Executive Office al fondo.",
+  "bullets": [
+   "Part A: Write 2 different formal questions asking for directions.",
+   "Part B: Write the step-by-step instructions. Use connectors: First, then, turn left/right, go down/up, walk straight, on your left/right, next to, opposite."
+  ],
+  "parts": [
+   {
+    "id": "A",
+    "label": "Part A – 2 formal questions",
+    "must": [
+     {
+      "id": "q2",
+      "label": "Escribe 2 preguntas (con ?)",
+      "count": "?",
+      "min": 2
+     },
+     {
+      "id": "formal",
+      "label": "Fórmula formal (could you / would you mind / excuse me)",
+      "pattern": "(could you|would you mind|excuse me)"
+     }
+    ],
+    "model": "Excuse me, could you tell me how to get to the Sales Department?\nWould you mind telling me where the Sales Department is?"
+   },
+   {
+    "id": "B",
+    "label": "Part B – step-by-step directions",
+    "must": [
+     {
+      "id": "first",
+      "label": "Empieza con First…",
+      "pattern": "\\bfirst\\b"
+     },
+     {
+      "id": "then",
+      "label": "Usa then / next / after that",
+      "pattern": "\\b(then|next|after that)\\b"
+     },
+     {
+      "id": "turn",
+      "label": "Usa turn left / turn right",
+      "pattern": "turn (left|right)"
+     },
+     {
+      "id": "side",
+      "label": "Usa on your left / on your right",
+      "pattern": "(on|to) your (left|right)"
+     },
+     {
+      "id": "place",
+      "label": "Usa next to / opposite / between",
+      "pattern": "(next to|opposite|between)"
+     },
+     {
+      "id": "floor",
+      "label": "Menciona la planta (ground / first floor, up / down)",
+      "pattern": "(ground floor|first floor|go (up|down)|take the (stairs|lift|elevator))"
+     }
+    ],
+    "model": "First, exit the kitchenette into the main corridor and turn right. Then take the stairs or the lift up to the first floor. When you exit, turn right into the break area. Walk straight ahead past the HR Department. The Sales Department is on your right, between the archive room and the HR Department, opposite the meeting room."
+   }
+  ],
+  "source": "profesora"
+ },
+ {
+  "id": "wr-0008",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "kind": "directions",
+  "title": "Direcciones: de Informática a la oficina diáfana (Modelo B)",
+  "prompt": "A visitor is in the IT Office on the First Floor and needs to go to the Open-Plan Office on the Ground Floor.",
+  "plan": "Plano (según los textos de la profesora): PLANTA BAJA: Main Entrance, Reception/Lobby, Main Corridor (el ascensor/lift está a la izquierda), Kitchenette, Toilets, Boardroom (por el pasillo, a la derecha, enfrente de la Open-Plan Office). PRIMERA PLANTA: al salir del ascensor, a la derecha está la Break Area; después HR Department, IT Office (a la derecha, junto a los restrooms), Archive/Filing Room, Sales Department (entre Archive y HR, enfrente de la Meeting Room), Executive Office al fondo.",
+  "bullets": [
+   "Part A: Write 2 different formal questions asking for directions.",
+   "Part B: Write the step-by-step instructions. Use connectors: First, then, turn left/right, go down/up, walk straight, on your left/right, next to, opposite."
+  ],
+  "parts": [
+   {
+    "id": "A",
+    "label": "Part A – 2 formal questions",
+    "must": [
+     {
+      "id": "q2",
+      "label": "Escribe 2 preguntas (con ?)",
+      "count": "?",
+      "min": 2
+     },
+     {
+      "id": "formal",
+      "label": "Fórmula formal (could you / would you mind / excuse me)",
+      "pattern": "(could you|would you mind|excuse me)"
+     }
+    ],
+    "model": "Excuse me, could you direct me to the Open-Plan Office?\nCould you please tell me how to get to the Open-Plan Office?"
+   },
+   {
+    "id": "B",
+    "label": "Part B – step-by-step directions",
+    "must": [
+     {
+      "id": "first",
+      "label": "Empieza con First…",
+      "pattern": "\\bfirst\\b"
+     },
+     {
+      "id": "then",
+      "label": "Usa then / next / after that",
+      "pattern": "\\b(then|next|after that)\\b"
+     },
+     {
+      "id": "turn",
+      "label": "Usa turn left / turn right",
+      "pattern": "turn (left|right)"
+     },
+     {
+      "id": "side",
+      "label": "Usa on your left / on your right",
+      "pattern": "(on|to) your (left|right)"
+     },
+     {
+      "id": "place",
+      "label": "Usa next to / opposite / between",
+      "pattern": "(next to|opposite|between)"
+     },
+     {
+      "id": "floor",
+      "label": "Menciona la planta (ground / first floor, up / down)",
+      "pattern": "(ground floor|first floor|go (up|down)|take the (stairs|lift|elevator))"
+     }
+    ],
+    "model": "First, exit the IT office and turn left into the break area. Then walk straight ahead past the Sales and HR departments. Take the stairs or the lift down to the ground floor. Next, turn left into the main corridor and walk straight. The open-plan office is on your right, opposite the boardroom."
+   }
+  ],
+  "source": "profesora"
+ },
+ {
+  "id": "wr-0009",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "kind": "directions",
+  "title": "Direcciones: del despacho a la cocina (Modelo C)",
+  "prompt": "A new employee is in the Executive Office on the First Floor and needs to go to the Kitchenette on the Ground Floor.",
+  "plan": "Plano (según los textos de la profesora): PLANTA BAJA: Main Entrance, Reception/Lobby, Main Corridor (el ascensor/lift está a la izquierda), Kitchenette, Toilets, Boardroom (por el pasillo, a la derecha, enfrente de la Open-Plan Office). PRIMERA PLANTA: al salir del ascensor, a la derecha está la Break Area; después HR Department, IT Office (a la derecha, junto a los restrooms), Archive/Filing Room, Sales Department (entre Archive y HR, enfrente de la Meeting Room), Executive Office al fondo.",
+  "bullets": [
+   "Part A: Write 2 different formal questions asking for directions.",
+   "Part B: Write the step-by-step instructions. Use connectors: First, then, turn left/right, go down/up, walk straight, on your left/right, next to, opposite."
+  ],
+  "parts": [
+   {
+    "id": "A",
+    "label": "Part A – 2 formal questions",
+    "must": [
+     {
+      "id": "q2",
+      "label": "Escribe 2 preguntas (con ?)",
+      "count": "?",
+      "min": 2
+     },
+     {
+      "id": "formal",
+      "label": "Fórmula formal (could you / would you mind / excuse me)",
+      "pattern": "(could you|would you mind|excuse me)"
+     }
+    ],
+    "model": "Excuse me, could you tell me where the Kitchenette is?\nDo you know how to get to the Break Room on the Ground Floor?"
+   },
+   {
+    "id": "B",
+    "label": "Part B – step-by-step directions",
+    "must": [
+     {
+      "id": "first",
+      "label": "Empieza con First…",
+      "pattern": "\\bfirst\\b"
+     },
+     {
+      "id": "then",
+      "label": "Usa then / next / after that",
+      "pattern": "\\b(then|next|after that)\\b"
+     },
+     {
+      "id": "turn",
+      "label": "Usa turn left / turn right",
+      "pattern": "turn (left|right)"
+     },
+     {
+      "id": "side",
+      "label": "Usa on your left / on your right",
+      "pattern": "(on|to) your (left|right)"
+     },
+     {
+      "id": "place",
+      "label": "Usa next to / opposite / between",
+      "pattern": "(next to|opposite|between)"
+     },
+     {
+      "id": "floor",
+      "label": "Menciona la planta (ground / first floor, up / down)",
+      "pattern": "(ground floor|first floor|go (up|down)|take the (stairs|lift|elevator))"
+     }
+    ],
+    "model": "First, exit the executive office and turn right. Then take the stairs or the lift down to the ground floor. Next, turn left into the main corridor and walk straight ahead past the toilets. The kitchenette is next to the toilets, at the end of the corridor on your left."
+   }
+  ],
+  "source": "profesora"
+ },
+ {
+  "id": "wr-0010",
+  "ra": [
+   "RA4"
+  ],
+  "kind": "email",
+  "title": "Email: solicitar un puesto de técnico",
+  "prompt": "Write a formal email (50–90 words) to apply for the position of IT technician. Use formal language.",
+  "bullets": [
+   "Start with Dear + name and say why you are writing.",
+   "Give personal information and your studies.",
+   "Mention your experience or skills.",
+   "Say that your CV is attached and close the email politely."
+  ],
+  "min": 50,
+  "max": 90,
+  "must": [
+   {
+    "id": "dear",
+    "label": "Empieza con Dear …",
+    "pattern": "^\\s*dear\\b"
+   },
+   {
+    "id": "writing",
+    "label": "Dice por qué escribe (I am writing to…)",
+    "pattern": "i am writing to|i would like to apply"
+   },
+   {
+    "id": "cv",
+    "label": "Menciona el CV adjunto (Please find attached…)",
+    "pattern": "(find attached|attached my cv|i attach)"
+   },
+   {
+    "id": "close",
+    "label": "Cierre formal (Yours sincerely / faithfully / I look forward…)",
+    "pattern": "(yours sincerely|yours faithfully|i look forward|best regards)"
+   },
+   {
+    "id": "mod",
+    "label": "Menciona tus estudios o un módulo",
+    "pattern": "(study|studied|module|networks|computer)"
+   }
+  ],
+  "forbid": [],
+  "model": "Dear Mrs Brown,\n\nI am writing to apply for the position of IT technician. I am 20 years old and I study Microcomputer Systems and Networks. I have experience in installing computers and changing network cables. I can work in a team and I learn fast. Please find attached my CV. I look forward to hearing from you.\n\nYours sincerely,\nNour Eddin",
+  "source": "programacion"
+ }
+]

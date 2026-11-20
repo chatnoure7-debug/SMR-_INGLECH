@@ -1,0 +1,587 @@
+[
+ {
+  "id": "sw-0001",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "operating system",
+  "es": "sistema operativo",
+  "pos": "noun",
+  "def_en": "The main software that controls a computer.",
+  "example_en": "Windows is an operating system.",
+  "example_es": "Windows es un sistema operativo.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0002",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "network operating system",
+  "es": "sistema operativo en red",
+  "pos": "noun",
+  "def_en": "Specialized operating systems designed to manage network resources, files, and multi-user security.",
+  "example_en": "A network operating system manages many users at the same time.",
+  "example_es": "Un sistema operativo en red gestiona muchos usuarios a la vez.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0003",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "software",
+  "es": "software (programas)",
+  "pos": "noun",
+  "def_en": "The programs that run on a computer.",
+  "example_en": "The software needs an update.",
+  "example_es": "El software necesita una actualización.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0004",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "application (app)",
+  "es": "aplicación (app)",
+  "pos": "noun",
+  "def_en": "A program that does a specific task.",
+  "example_en": "This application opens PDF files.",
+  "example_es": "Esta aplicación abre archivos PDF.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0005",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "update",
+  "es": "actualización / actualizar",
+  "pos": "noun",
+  "def_en": "A new version of a program that fixes problems.",
+  "example_en": "Install the latest update today.",
+  "example_es": "Instala hoy la última actualización.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0006",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "backup",
+  "es": "copia de seguridad",
+  "pos": "noun",
+  "def_en": "A copy of your files that you keep in case you lose the originals.",
+  "example_en": "Make a backup before you format the disk.",
+  "example_es": "Haz una copia de seguridad antes de formatear el disco.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0007",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "virus",
+  "es": "virus",
+  "pos": "noun",
+  "def_en": "A harmful program that damages files or steals data.",
+  "example_en": "The antivirus found a virus on the laptop.",
+  "example_es": "El antivirus encontró un virus en el portátil.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0008",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "antivirus",
+  "es": "antivirus",
+  "pos": "noun",
+  "def_en": "A program that finds and removes viruses.",
+  "example_en": "Keep your antivirus updated.",
+  "example_es": "Mantén tu antivirus actualizado.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0009",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "malware",
+  "es": "software malicioso (malware)",
+  "pos": "noun",
+  "def_en": "Any harmful software, such as viruses or spyware.",
+  "example_en": "Malware can slow down the whole network.",
+  "example_es": "El malware puede ralentizar toda la red.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0010",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "phishing",
+  "es": "suplantación (phishing)",
+  "pos": "noun",
+  "def_en": "A fake email that tries to steal your passwords.",
+  "example_en": "Never click a link in a phishing email.",
+  "example_es": "Nunca pinches en un enlace de un correo de phishing.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0011",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "spam",
+  "es": "correo basura (spam)",
+  "pos": "noun",
+  "def_en": "Unwanted emails sent to many people.",
+  "example_en": "Most spam goes to the junk folder.",
+  "example_es": "La mayoría del spam va a la carpeta de correo no deseado.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0012",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "password",
+  "es": "contraseña",
+  "pos": "noun",
+  "def_en": "A secret word that lets you enter your account.",
+  "example_en": "Choose a strong password with numbers and symbols.",
+  "example_es": "Elige una contraseña segura con números y símbolos.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0013",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "username",
+  "es": "nombre de usuario",
+  "pos": "noun",
+  "def_en": "The name that identifies you when you log in.",
+  "example_en": "Type your username and password.",
+  "example_es": "Escribe tu nombre de usuario y contraseña.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0014",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "login",
+  "es": "inicio de sesión",
+  "pos": "noun",
+  "def_en": "The action of entering your account with a username and password.",
+  "example_en": "The login page does not load.",
+  "example_es": "La página de inicio de sesión no carga.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0015",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "file",
+  "es": "archivo",
+  "pos": "noun",
+  "def_en": "A set of information with a name, saved on a computer.",
+  "example_en": "I cannot open this file.",
+  "example_es": "No puedo abrir este archivo.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0016",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "folder",
+  "es": "carpeta",
+  "pos": "noun",
+  "def_en": "A place on the computer where you keep files.",
+  "example_en": "Create a new folder on the desktop.",
+  "example_es": "Crea una carpeta nueva en el escritorio.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0017",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "database",
+  "es": "base de datos",
+  "pos": "noun",
+  "def_en": "An organized collection of information stored on a computer.",
+  "example_en": "The database stores all the customer details.",
+  "example_es": "La base de datos guarda todos los datos de los clientes.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0018",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "cloud storage",
+  "es": "almacenamiento en la nube",
+  "pos": "noun",
+  "def_en": "Online space where you save files on remote servers.",
+  "example_en": "I keep my photos in cloud storage.",
+  "example_es": "Guardo mis fotos en almacenamiento en la nube.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0019",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "spreadsheet",
+  "es": "hoja de cálculo",
+  "pos": "noun",
+  "def_en": "A program or file with rows and columns for numbers.",
+  "example_en": "Use a spreadsheet to calculate the budget.",
+  "example_es": "Usa una hoja de cálculo para calcular el presupuesto.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0020",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "word processor",
+  "es": "procesador de textos",
+  "pos": "noun",
+  "def_en": "A program for writing and formatting documents.",
+  "example_en": "Write the letter in a word processor.",
+  "example_es": "Escribe la carta en un procesador de textos.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0021",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "attachment",
+  "es": "archivo adjunto",
+  "pos": "noun",
+  "def_en": "A file that you send together with an email.",
+  "example_en": "Please find the invoice attached.",
+  "example_es": "Adjunto encontrará la factura.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0022",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "security policy",
+  "es": "política de seguridad",
+  "pos": "noun",
+  "def_en": "A set of rules to keep company information safe.",
+  "example_en": "The security policy says you must change your password every month.",
+  "example_es": "La política de seguridad dice que debes cambiar la contraseña cada mes.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0023",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "permission",
+  "es": "permiso",
+  "pos": "noun",
+  "def_en": "Official approval to open, change, or share a file.",
+  "example_en": "You do not have permission to open this folder.",
+  "example_es": "No tienes permiso para abrir esta carpeta.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0024",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "encryption",
+  "es": "cifrado",
+  "pos": "noun",
+  "def_en": "A way of changing data into a secret code.",
+  "example_en": "Encryption protects your personal data.",
+  "example_es": "El cifrado protege tus datos personales.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0025",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "two-factor authentication",
+  "es": "autenticación en dos pasos",
+  "pos": "noun",
+  "def_en": "A login method that needs a password and a second code.",
+  "example_en": "Turn on two-factor authentication for your email.",
+  "example_es": "Activa la autenticación en dos pasos para tu correo.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0026",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "data loss",
+  "es": "pérdida de datos",
+  "pos": "noun",
+  "def_en": "When information disappears by mistake or because of a failure.",
+  "example_en": "Backups prevent data loss.",
+  "example_es": "Las copias de seguridad evitan la pérdida de datos.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0027",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "risk",
+  "es": "riesgo",
+  "pos": "noun",
+  "def_en": "The chance that something bad happens.",
+  "example_en": "Public Wi-Fi is a security risk.",
+  "example_es": "El wifi público es un riesgo para la seguridad.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0028",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "web application",
+  "es": "aplicación web",
+  "pos": "noun",
+  "def_en": "Software programs hosted on remote servers that users access directly through a web browser.",
+  "example_en": "Web applications run in a web browser.",
+  "example_es": "Las aplicaciones web funcionan en un navegador web.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0029",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "web browser",
+  "es": "navegador web",
+  "pos": "noun",
+  "def_en": "A program used to visit websites.",
+  "example_en": "Chrome is a popular web browser.",
+  "example_es": "Chrome es un navegador web muy popular.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0030",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "website",
+  "es": "sitio web",
+  "pos": "noun",
+  "def_en": "A group of web pages with one address.",
+  "example_en": "The company website has a new design.",
+  "example_es": "El sitio web de la empresa tiene un diseño nuevo.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0031",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "search engine",
+  "es": "buscador",
+  "pos": "noun",
+  "def_en": "A website that finds information on the Internet.",
+  "example_en": "Google is the most popular search engine.",
+  "example_es": "Google es el buscador más popular.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0032",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "link",
+  "es": "enlace",
+  "pos": "noun",
+  "def_en": "A word or button that takes you to another page.",
+  "example_en": "Click the link to download the file.",
+  "example_es": "Pincha en el enlace para descargar el archivo.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0033",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "domain name",
+  "es": "nombre de dominio",
+  "pos": "noun",
+  "def_en": "The address of a website, such as example.com.",
+  "example_en": "We bought a new domain name for the shop.",
+  "example_es": "Compramos un nombre de dominio nuevo para la tienda.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0034",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "web hosting",
+  "es": "alojamiento web",
+  "pos": "noun",
+  "def_en": "A service that keeps your website on a server.",
+  "example_en": "The web hosting is cheap and reliable.",
+  "example_es": "El alojamiento web es barato y fiable.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0035",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "online form",
+  "es": "formulario en línea",
+  "pos": "noun",
+  "def_en": "A web page where you type information and send it.",
+  "example_en": "Fill in the online form to apply for the job.",
+  "example_es": "Rellena el formulario en línea para solicitar el empleo.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0036",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "cookie",
+  "es": "cookie",
+  "pos": "noun",
+  "def_en": "A small file that a website saves on your computer.",
+  "example_en": "This website uses cookies.",
+  "example_es": "Este sitio web usa cookies.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0037",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "client",
+  "es": "cliente (informática) / cliente",
+  "pos": "noun",
+  "def_en": "A computer or program that asks a server for a service.",
+  "example_en": "The client sends a request to the server.",
+  "example_es": "El cliente envía una petición al servidor.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0038",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "download",
+  "es": "descargar",
+  "pos": "verb",
+  "def_en": "To copy a file from the Internet to your computer.",
+  "example_en": "Download the driver from the official website.",
+  "example_es": "Descarga el controlador desde la web oficial.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "sw-0039",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "software-web",
+  "en": "upload",
+  "es": "subir (archivos)",
+  "pos": "verb",
+  "def_en": "To send a file from your computer to the Internet.",
+  "example_en": "Upload the report to the shared folder.",
+  "example_es": "Sube el informe a la carpeta compartida.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ }
+]

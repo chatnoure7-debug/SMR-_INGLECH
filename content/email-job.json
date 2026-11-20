@@ -1,0 +1,400 @@
+[
+ {
+  "id": "ej-0001",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Dear Mr / Mrs ...,",
+  "es": "Estimado/a señor/a ...,",
+  "pos": "phrase",
+  "example_en": "Dear Mrs Brown, I am writing about the job advert.",
+  "example_es": "Estimada señora Brown: le escribo por el anuncio de empleo.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0002",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Dear Sir or Madam,",
+  "es": "Muy señor/a mío/a,",
+  "pos": "phrase",
+  "example_en": "Dear Sir or Madam, I would like to apply for the job.",
+  "example_es": "Muy señores míos: me gustaría solicitar el puesto.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0003",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "I am writing to ...",
+  "es": "Le escribo para ...",
+  "pos": "phrase",
+  "example_en": "I am writing to ask for information about the course.",
+  "example_es": "Le escribo para pedir información sobre el curso.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0004",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "I would like to apply for the position of ...",
+  "es": "Me gustaría solicitar el puesto de ...",
+  "pos": "phrase",
+  "example_en": "I would like to apply for the position of IT technician.",
+  "example_es": "Me gustaría solicitar el puesto de técnico informático.",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0005",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Please find attached my CV.",
+  "es": "Adjunto mi currículum.",
+  "pos": "phrase",
+  "example_en": "Please find attached my CV and a cover letter.",
+  "example_es": "Adjunto mi currículum y una carta de presentación.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0006",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "I look forward to hearing from you.",
+  "es": "Espero su respuesta.",
+  "pos": "phrase",
+  "example_en": "I look forward to hearing from you soon.",
+  "example_es": "Espero su respuesta pronto.",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0007",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Yours sincerely, / Yours faithfully,",
+  "es": "Atentamente, (con nombre / sin nombre)",
+  "pos": "phrase",
+  "example_en": "Yours sincerely, Nour Eddin.",
+  "example_es": "Atentamente, Nour Eddin.",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0008",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Best regards,",
+  "es": "Saludos cordiales,",
+  "pos": "phrase",
+  "example_en": "Thank you for your help. Best regards, Sara.",
+  "example_es": "Gracias por su ayuda. Saludos cordiales, Sara.",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0009",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Thank you for your email.",
+  "es": "Gracias por su correo.",
+  "pos": "phrase",
+  "example_en": "Thank you for your email. I will reply tomorrow.",
+  "example_es": "Gracias por su correo. Responderé mañana.",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0010",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "I am sorry for the delay.",
+  "es": "Lamento el retraso.",
+  "pos": "phrase",
+  "example_en": "I am sorry for the delay in replying.",
+  "example_es": "Lamento el retraso en responder.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0011",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Could you send me ... as soon as possible?",
+  "es": "¿Podría enviarme ... lo antes posible?",
+  "pos": "phrase",
+  "example_en": "Could you send me the invoice as soon as possible?",
+  "example_es": "¿Podría enviarme la factura lo antes posible?",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0012",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "I have experience in ...",
+  "es": "Tengo experiencia en ...",
+  "pos": "phrase",
+  "example_en": "I have experience in installing networks.",
+  "example_es": "Tengo experiencia en instalar redes.",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0013",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "curriculum vitae (CV)",
+  "es": "currículum",
+  "pos": "phrase",
+  "def_en": "A document that lists your studies, work experience and skills.",
+  "example_en": "Update your CV before the interview.",
+  "example_es": "Actualiza tu currículum antes de la entrevista.",
+  "difficulty": 1,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0014",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "cover letter",
+  "es": "carta de presentación",
+  "pos": "phrase",
+  "def_en": "A letter you send with your CV to explain why you want the job.",
+  "example_en": "Write a short cover letter for the job.",
+  "example_es": "Escribe una carta de presentación corta para el empleo.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0015",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "job interview",
+  "es": "entrevista de trabajo",
+  "pos": "phrase",
+  "def_en": "A formal meeting where a company asks you questions about a job.",
+  "example_en": "I have a job interview on Monday.",
+  "example_es": "Tengo una entrevista de trabajo el lunes.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0016",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "job advert",
+  "es": "anuncio de empleo",
+  "pos": "phrase",
+  "def_en": "A short text that offers a job.",
+  "example_en": "I saw a job advert for a network technician.",
+  "example_es": "Vi un anuncio de empleo de técnico de redes.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0017",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "skills",
+  "es": "habilidades / competencias",
+  "pos": "phrase",
+  "def_en": "The things you can do well.",
+  "example_en": "My skills are teamwork and problem solving.",
+  "example_es": "Mis competencias son el trabajo en equipo y la resolución de problemas.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0018",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "strengths / weaknesses",
+  "es": "puntos fuertes / puntos débiles",
+  "pos": "phrase",
+  "example_en": "My strength is that I learn fast. My weakness is that I am shy.",
+  "example_es": "Mi punto fuerte es que aprendo rápido. Mi punto débil es que soy tímido.",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0019",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "work experience",
+  "es": "experiencia laboral",
+  "pos": "phrase",
+  "def_en": "Jobs and tasks you did before.",
+  "example_en": "I have no work experience, but I did an internship.",
+  "example_es": "No tengo experiencia laboral, pero hice unas prácticas.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0020",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "internship / On The Job Training",
+  "es": "prácticas en empresa (FCT)",
+  "pos": "phrase",
+  "def_en": "A period when a student works in a company to learn.",
+  "example_en": "I do my internship in a small IT company.",
+  "example_es": "Hago mis prácticas en una pequeña empresa informática.",
+  "difficulty": 3,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0021",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Europass",
+  "es": "Europass (currículum y certificado europeo)",
+  "pos": "phrase",
+  "def_en": "A European format for CVs and certificates.",
+  "example_en": "The Europass Certificate Supplement explains your qualifications.",
+  "example_es": "El Suplemento al Certificado Europass explica tus titulaciones.",
+  "difficulty": 4,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0022",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Why do you want this job?",
+  "es": "¿Por qué quiere este trabajo?",
+  "pos": "phrase",
+  "example_en": "Why do you want this job? Because I like solving problems.",
+  "example_es": "¿Por qué quiere este trabajo? Porque me gusta resolver problemas.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0023",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "Tell me about yourself.",
+  "es": "Hábleme de usted.",
+  "pos": "phrase",
+  "example_en": "Tell me about yourself. I am 20 and I study IT.",
+  "example_es": "Hábleme de usted. Tengo 20 años y estudio informática.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0024",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "I can work in a team.",
+  "es": "Sé trabajar en equipo.",
+  "pos": "phrase",
+  "example_en": "I can work in a team and I learn fast.",
+  "example_es": "Sé trabajar en equipo y aprendo rápido.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0025",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "ASAP (as soon as possible)",
+  "es": "lo antes posible",
+  "pos": "phrase",
+  "example_en": "Please reply ASAP.",
+  "example_es": "Por favor, responda lo antes posible.",
+  "difficulty": 2,
+  "source": "programacion"
+ },
+ {
+  "id": "ej-0026",
+  "ra": [
+   "RA4",
+   "RA2"
+  ],
+  "topic": "email-job",
+  "en": "FAQ (frequently asked questions)",
+  "es": "preguntas frecuentes",
+  "pos": "phrase",
+  "example_en": "Read the FAQ before you call support.",
+  "example_es": "Lea las preguntas frecuentes antes de llamar a soporte.",
+  "difficulty": 2,
+  "source": "programacion"
+ }
+]

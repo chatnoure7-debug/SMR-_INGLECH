@@ -1,0 +1,2129 @@
+[
+ {
+  "id": "gr-0001",
+  "ra": [
+   "RA4"
+  ],
+  "title": "To be: I am 20 (¡no 'I have 20'!)",
+  "rule": [
+   "En inglés la edad se dice con el verbo TO BE: I am 20 (years old). Nunca con 'have'.",
+   "I am · you are · he / she / it is · we are · they are.",
+   "Negativo: I am not · he is not (isn't) · they are not (aren't). Pregunta: Are you...? Is he...?"
+  ],
+  "examples": [
+   {
+    "en": "I am 20 years old.",
+    "es": "Tengo 20 años."
+   },
+   {
+    "en": "She is a technician.",
+    "es": "Ella es técnica."
+   },
+   {
+    "en": "We are students.",
+    "es": "Somos estudiantes."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "I ___ 20 years old.",
+    "options": [
+     "am",
+     "have",
+     "is"
+    ],
+    "a": 0,
+    "why": "La edad se dice con 'am': I am 20."
+   },
+   {
+    "t": "gap",
+    "q": "She ___ a network administrator. (be)",
+    "a": [
+     "is",
+     "'s"
+    ],
+    "why": "he / she / it → is"
+   },
+   {
+    "t": "gap",
+    "q": "We ___ students. (be)",
+    "a": [
+     "are"
+    ],
+    "why": "we → are"
+   },
+   {
+    "t": "choice",
+    "q": "How old ___ you?",
+    "options": [
+     "is",
+     "are",
+     "do"
+    ],
+    "a": 1,
+    "why": "How old are you?"
+   },
+   {
+    "t": "choice",
+    "q": "¿Cuál es correcta?",
+    "options": [
+     "I have 20 years",
+     "I am 20 years old",
+     "I am 20 years"
+    ],
+    "a": 1,
+    "why": "I am 20 years old."
+   },
+   {
+    "t": "gap",
+    "q": "He ___ 21 years old. (be)",
+    "a": [
+     "is"
+    ],
+    "why": "he → is"
+   },
+   {
+    "t": "order",
+    "words": [
+     "I",
+     "am",
+     "from",
+     "Morocco"
+    ],
+    "a": "I am from Morocco",
+    "why": "Sujeto + am + from + lugar."
+   },
+   {
+    "t": "gap",
+    "q": "They ___ not at work today. (be)",
+    "a": [
+     "are"
+    ],
+    "why": "they → are"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0002",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Have / has",
+  "rule": [
+   "Usamos HAVE con I, you, we, they. Usamos HAS con he, she, it.",
+   "I have a laptop. She has a laptop. The company has a server.",
+   "Pregunta: Do you have...? Does she have...? Negativo: I don't have... She doesn't have..."
+  ],
+  "examples": [
+   {
+    "en": "She has a laptop with 16 GB of RAM.",
+    "es": "Ella tiene un portátil con 16 GB de RAM."
+   },
+   {
+    "en": "We have two servers.",
+    "es": "Tenemos dos servidores."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "She ___ a laptop with 16 GB of RAM. (have)",
+    "a": [
+     "has"
+    ],
+    "why": "she → has"
+   },
+   {
+    "t": "gap",
+    "q": "We ___ two servers. (have)",
+    "a": [
+     "have"
+    ],
+    "why": "we → have"
+   },
+   {
+    "t": "choice",
+    "q": "The company ___ a new network.",
+    "options": [
+     "have",
+     "has",
+     "haves"
+    ],
+    "a": 1,
+    "why": "the company = it → has"
+   },
+   {
+    "t": "choice",
+    "q": "My computer ___ an SSD.",
+    "options": [
+     "has",
+     "have",
+     "is"
+    ],
+    "a": 0,
+    "why": "my computer = it → has"
+   },
+   {
+    "t": "gap",
+    "q": "They ___ a lot of cables. (have)",
+    "a": [
+     "have"
+    ],
+    "why": "they → have"
+   },
+   {
+    "t": "choice",
+    "q": "___ you have a password?",
+    "options": [
+     "Do",
+     "Does",
+     "Are"
+    ],
+    "a": 0,
+    "why": "you → Do"
+   },
+   {
+    "t": "choice",
+    "q": "___ he have a laptop?",
+    "options": [
+     "Do",
+     "Does",
+     "Is"
+    ],
+    "a": 1,
+    "why": "he → Does"
+   },
+   {
+    "t": "gap",
+    "q": "My brother ___ an optical mouse. (have)",
+    "a": [
+     "has"
+    ],
+    "why": "he → has"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0003",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Present simple: he / she / it + -s",
+  "rule": [
+   "Con he, she, it el verbo añade -s: work → works.",
+   "Si acaba en s, sh, ch, x, o añade -es: fix → fixes, watch → watches, go → goes.",
+   "Si acaba en consonante + y cambia a -ies: study → studies. Have → has."
+  ],
+  "examples": [
+   {
+    "en": "He works in a big company.",
+    "es": "Él trabaja en una empresa grande."
+   },
+   {
+    "en": "She studies Network Services.",
+    "es": "Ella estudia Servicios en red."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "He ___ in a big company. (work)",
+    "a": [
+     "works"
+    ],
+    "why": "he → works"
+   },
+   {
+    "t": "gap",
+    "q": "She ___ Network Services. (study)",
+    "a": [
+     "studies"
+    ],
+    "why": "consonante + y → -ies"
+   },
+   {
+    "t": "gap",
+    "q": "The technician ___ computers. (fix)",
+    "a": [
+     "fixes"
+    ],
+    "why": "fix → fixes"
+   },
+   {
+    "t": "gap",
+    "q": "My brother ___ to school by bus. (go)",
+    "a": [
+     "goes"
+    ],
+    "why": "go → goes"
+   },
+   {
+    "t": "choice",
+    "q": "She ___ network cables every morning.",
+    "options": [
+     "check",
+     "checks",
+     "checking"
+    ],
+    "a": 1,
+    "why": "she → checks"
+   },
+   {
+    "t": "choice",
+    "q": "He ___ ergonomic keyboards.",
+    "options": [
+     "use",
+     "uses",
+     "using"
+    ],
+    "a": 1,
+    "why": "he → uses"
+   },
+   {
+    "t": "gap",
+    "q": "The server ___ all the files. (store)",
+    "a": [
+     "stores"
+    ],
+    "why": "it → stores"
+   },
+   {
+    "t": "gap",
+    "q": "She ___ videos at lunchtime. (watch)",
+    "a": [
+     "watches"
+    ],
+    "why": "watch → watches"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0004",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Present simple: negativo y preguntas",
+  "rule": [
+   "Negativo: do not (don't) / does not (doesn't) + verbo base. He doesn't work (no 'works').",
+   "Pregunta: Do / Does + sujeto + verbo base? Does she use a mouse?",
+   "Con does/doesn't el verbo NO lleva -s."
+  ],
+  "examples": [
+   {
+    "en": "She doesn't like Web Applications.",
+    "es": "No le gustan las Aplicaciones web."
+   },
+   {
+    "en": "Does he work in Madrid?",
+    "es": "¿Trabaja él en Madrid?"
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "She ___ like Web Applications.",
+    "options": [
+     "don't",
+     "doesn't",
+     "isn't"
+    ],
+    "a": 1,
+    "why": "she → doesn't"
+   },
+   {
+    "t": "choice",
+    "q": "I ___ use Windows at home.",
+    "options": [
+     "don't",
+     "doesn't",
+     "am not"
+    ],
+    "a": 0,
+    "why": "I → don't"
+   },
+   {
+    "t": "choice",
+    "q": "___ he work in Madrid?",
+    "options": [
+     "Do",
+     "Does",
+     "Is"
+    ],
+    "a": 1,
+    "why": "he → Does"
+   },
+   {
+    "t": "gap",
+    "q": "He doesn't ___ CRT monitors. (like)",
+    "a": [
+     "like"
+    ],
+    "why": "Tras doesn't, verbo base sin -s."
+   },
+   {
+    "t": "order",
+    "words": [
+     "Does",
+     "she",
+     "use",
+     "an",
+     "optical",
+     "mouse",
+     "?"
+    ],
+    "a": "Does she use an optical mouse?",
+    "why": "Does + sujeto + verbo base."
+   },
+   {
+    "t": "choice",
+    "q": "Where ___ you study?",
+    "options": [
+     "do",
+     "does",
+     "are"
+    ],
+    "a": 0,
+    "why": "you → do"
+   },
+   {
+    "t": "gap",
+    "q": "What ___ he do? He is a technician. (do/does)",
+    "a": [
+     "does"
+    ],
+    "why": "he → does"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0005",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Artículos: a / an / the",
+  "rule": [
+   "A se usa delante de un sonido de consonante: a laptop, a server.",
+   "AN delante de un sonido de vocal: an optical mouse, an IT technician (IT = /ai-ti/), an hour (la h es muda).",
+   "THE para algo concreto o ya conocido: Close the door."
+  ],
+  "examples": [
+   {
+    "en": "She is an IT technician.",
+    "es": "Ella es técnica informática."
+   },
+   {
+    "en": "He has an optical mouse.",
+    "es": "Él tiene un ratón óptico."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "I have ___ laptop.",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 0,
+    "why": "laptop empieza por consonante."
+   },
+   {
+    "t": "choice",
+    "q": "She is ___ IT technician.",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 1,
+    "why": "IT empieza con sonido vocal."
+   },
+   {
+    "t": "choice",
+    "q": "He has ___ optical mouse.",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 1,
+    "why": "optical empieza con vocal."
+   },
+   {
+    "t": "choice",
+    "q": "Please close ___ door.",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 2,
+    "why": "una puerta concreta → the."
+   },
+   {
+    "t": "choice",
+    "q": "This is ___ useful tool.",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 0,
+    "why": "useful empieza con sonido /yu/ → a."
+   },
+   {
+    "t": "choice",
+    "q": "It takes ___ hour.",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "a": 1,
+    "why": "hour: la h es muda → an."
+   },
+   {
+    "t": "gap",
+    "q": "I need ___ new keyboard. (a / an)",
+    "a": [
+     "a"
+    ],
+    "why": "new → consonante → a."
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0006",
+  "ra": [
+   "RA4"
+  ],
+  "title": "There is / There are",
+  "rule": [
+   "There is + singular: There is a server in the room.",
+   "There are + plural: There are two printers.",
+   "Negativo: There isn't a... / There aren't any... Pregunta: Is there a...? Are there any...?"
+  ],
+  "examples": [
+   {
+    "en": "There is a switch in the server room.",
+    "es": "Hay un conmutador en la sala de servidores."
+   },
+   {
+    "en": "There are two printers in the office.",
+    "es": "Hay dos impresoras en la oficina."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "___ a server in the room.",
+    "options": [
+     "There is",
+     "There are",
+     "It have"
+    ],
+    "a": 0,
+    "why": "singular → There is."
+   },
+   {
+    "t": "choice",
+    "q": "___ two printers in the office.",
+    "options": [
+     "There is",
+     "There are",
+     "They are"
+    ],
+    "a": 1,
+    "why": "plural → There are."
+   },
+   {
+    "t": "gap",
+    "q": "There ___ three computers on the desk. (is/are)",
+    "a": [
+     "are"
+    ],
+    "why": "plural → are"
+   },
+   {
+    "t": "gap",
+    "q": "There ___ a problem with the cable. (is/are)",
+    "a": [
+     "is"
+    ],
+    "why": "singular → is"
+   },
+   {
+    "t": "choice",
+    "q": "There ___ any viruses on this laptop.",
+    "options": [
+     "isn't",
+     "aren't",
+     "don't"
+    ],
+    "a": 1,
+    "why": "viruses es plural → aren't."
+   },
+   {
+    "t": "choice",
+    "q": "___ there a printer? Yes, there is.",
+    "options": [
+     "Is",
+     "Are",
+     "Does"
+    ],
+    "a": 0,
+    "why": "singular → Is there...?"
+   },
+   {
+    "t": "order",
+    "words": [
+     "There",
+     "is",
+     "a",
+     "switch",
+     "in",
+     "the",
+     "server",
+     "room"
+    ],
+    "a": "There is a switch in the server room",
+    "why": "There is + a + noun + lugar."
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0007",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Can / must / should",
+  "rule": [
+   "CAN = poder / saber. CAN'T = no poder.",
+   "MUST = obligación (hay que). MUSTN'T = prohibido.",
+   "SHOULD = consejo (deberías). Siempre + verbo base, sin 'to' ni -s."
+  ],
+  "examples": [
+   {
+    "en": "You must save your files.",
+    "es": "Debes guardar tus archivos."
+   },
+   {
+    "en": "You should back up your data.",
+    "es": "Deberías hacer copia de tus datos."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "You ___ back up your files. It is a good idea.",
+    "options": [
+     "should",
+     "must not",
+     "can"
+    ],
+    "a": 0,
+    "why": "Un consejo → should."
+   },
+   {
+    "t": "choice",
+    "q": "Employees ___ share their passwords. It is forbidden.",
+    "options": [
+     "must",
+     "mustn't",
+     "should"
+    ],
+    "a": 1,
+    "why": "Prohibido → mustn't."
+   },
+   {
+    "t": "choice",
+    "q": "I ___ speak French and Spanish.",
+    "options": [
+     "can",
+     "must",
+     "should"
+    ],
+    "a": 0,
+    "why": "Habilidad → can."
+   },
+   {
+    "t": "choice",
+    "q": "She can ___ the network.",
+    "options": [
+     "configure",
+     "configures",
+     "to configure"
+    ],
+    "a": 0,
+    "why": "Tras can, verbo base."
+   },
+   {
+    "t": "choice",
+    "q": "You ___ wear an antistatic strap. It is a safety rule.",
+    "options": [
+     "should",
+     "must",
+     "can't"
+    ],
+    "a": 1,
+    "why": "Regla obligatoria → must."
+   },
+   {
+    "t": "choice",
+    "q": "___ you help me with this computer?",
+    "options": [
+     "Can",
+     "Must",
+     "Does"
+    ],
+    "a": 0,
+    "why": "Pedir ayuda → Can you...?"
+   },
+   {
+    "t": "gap",
+    "q": "You ___ unplug the cable before you open the case. (must / mustn't)",
+    "a": [
+     "must"
+    ],
+    "why": "Es obligatorio."
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0008",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Comparativos (más ... que)",
+  "rule": [
+   "Adjetivo corto: +er than → fast → faster than; cheap → cheaper.",
+   "Acaba en -e: +r → large → larger. Consonante+y → -ier → heavy → heavier. Una vocal + una consonante: se dobla → big → bigger.",
+   "Adjetivo largo (2+ sílabas): more + adjetivo + than → more convenient, more secure, more compact, more reliable.",
+   "Irregulares: good → better, bad → worse. Nunca 'more faster'."
+  ],
+  "examples": [
+   {
+    "en": "Flat panel monitors are brighter than CRT monitors.",
+    "es": "Los monitores planos son más brillantes que los CRT."
+   },
+   {
+    "en": "Wi-Fi is more convenient than a cable.",
+    "es": "El wifi es más cómodo que un cable."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "Modern flat panel monitors are (bright) ___ than old CRT monitors.",
+    "a": [
+     "brighter"
+    ],
+    "why": "bright es corto → brighter."
+   },
+   {
+    "t": "gap",
+    "q": "Modern flat panel monitors are (compact) ___ than old CRT monitors.",
+    "a": [
+     "more compact"
+    ],
+    "why": "compact es largo para el examen → more compact."
+   },
+   {
+    "t": "gap",
+    "q": "An SSD is (fast) ___ than a hard disk drive.",
+    "a": [
+     "faster"
+    ],
+    "why": "fast → faster"
+   },
+   {
+    "t": "gap",
+    "q": "Ethernet is (reliable) ___ than Wi-Fi.",
+    "a": [
+     "more reliable"
+    ],
+    "why": "reliable es largo → more reliable."
+   },
+   {
+    "t": "gap",
+    "q": "This laptop is (heavy) ___ than that one.",
+    "a": [
+     "heavier"
+    ],
+    "why": "consonante + y → -ier"
+   },
+   {
+    "t": "gap",
+    "q": "This server is (good) ___ than the old one.",
+    "a": [
+     "better"
+    ],
+    "why": "good → better (irregular)"
+   },
+   {
+    "t": "gap",
+    "q": "Wi-Fi is (convenient) ___ than a cable for mobile devices.",
+    "a": [
+     "more convenient"
+    ],
+    "why": "convenient es largo → more convenient."
+   },
+   {
+    "t": "gap",
+    "q": "A desktop is (big) ___ than a laptop.",
+    "a": [
+     "bigger"
+    ],
+    "why": "big → bigger (se dobla la g)"
+   },
+   {
+    "t": "choice",
+    "q": "This network is ___ than that one.",
+    "options": [
+     "more secure",
+     "securer",
+     "most secure"
+    ],
+    "a": 0,
+    "why": "secure → more secure."
+   },
+   {
+    "t": "gap",
+    "q": "The old monitor is (bad) ___ than the new one.",
+    "a": [
+     "worse"
+    ],
+    "why": "bad → worse"
+   },
+   {
+    "t": "gap",
+    "q": "A tablet is (light) ___ than a laptop.",
+    "a": [
+     "lighter"
+    ],
+    "why": "light → lighter"
+   },
+   {
+    "t": "gap",
+    "q": "Cloud storage is (cheap) ___ than a new server.",
+    "a": [
+     "cheaper"
+    ],
+    "why": "cheap → cheaper"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0009",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Superlativos (el más ...)",
+  "rule": [
+   "Adjetivo corto: the + adj + est → the fastest, the cheapest.",
+   "Adjetivo largo: the most + adj → the most convenient, the most important.",
+   "Irregulares: the best, the worst. Se usa 'the' siempre."
+  ],
+  "examples": [
+   {
+    "en": "This is the fastest computer in the office.",
+    "es": "Este es el ordenador más rápido de la oficina."
+   },
+   {
+    "en": "Wireless is the most convenient method.",
+    "es": "Lo inalámbrico es el método más cómodo."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "Using a wireless network is the (convenient) ___ method for mobile devices.",
+    "a": [
+     "most convenient"
+    ],
+    "why": "convenient → the most convenient."
+   },
+   {
+    "t": "gap",
+    "q": "This is the (fast) ___ computer in the office.",
+    "a": [
+     "fastest"
+    ],
+    "why": "fast → the fastest"
+   },
+   {
+    "t": "gap",
+    "q": "A firewall is one of the (important) ___ security tools.",
+    "a": [
+     "most important"
+    ],
+    "why": "important → the most important"
+   },
+   {
+    "t": "gap",
+    "q": "This is the (good) ___ laptop in the shop.",
+    "a": [
+     "best"
+    ],
+    "why": "good → the best"
+   },
+   {
+    "t": "gap",
+    "q": "He is the (young) ___ technician in the team.",
+    "a": [
+     "youngest"
+    ],
+    "why": "young → youngest"
+   },
+   {
+    "t": "gap",
+    "q": "It is the (bad) ___ virus I have ever seen.",
+    "a": [
+     "worst"
+    ],
+    "why": "bad → the worst"
+   },
+   {
+    "t": "gap",
+    "q": "Fiber is the (fast) ___ type of connection.",
+    "a": [
+     "fastest"
+    ],
+    "why": "fast → fastest"
+   },
+   {
+    "t": "choice",
+    "q": "This is ___ printer in the office.",
+    "options": [
+     "the cheapest",
+     "cheaper",
+     "the most cheap"
+    ],
+    "a": 0,
+    "why": "cheap → the cheapest"
+   },
+   {
+    "t": "gap",
+    "q": "It is the (big) ___ server room in the building.",
+    "a": [
+     "biggest"
+    ],
+    "why": "big → biggest"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0010",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "La hora en inglés",
+  "rule": [
+   "o'clock = en punto (ten o'clock). Past = y (half past ten, a quarter past eleven, twenty past four).",
+   "To = menos (a quarter to eleven = 10:45, twenty-five to ten = 9:35).",
+   "Half past = y media. a quarter = un cuarto (15 minutos)."
+  ],
+  "examples": [
+   {
+    "en": "It is a quarter to eleven. (10:45)",
+    "es": "Son las once menos cuarto."
+   },
+   {
+    "en": "It is twenty-five to ten. (9:35)",
+    "es": "Son las diez menos veinticinco."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "10:45 =",
+    "options": [
+     "a quarter to eleven",
+     "a quarter past ten",
+     "half past ten"
+    ],
+    "a": 0,
+    "why": "Faltan 15 para las 11."
+   },
+   {
+    "t": "choice",
+    "q": "11:15 =",
+    "options": [
+     "a quarter past eleven",
+     "a quarter to eleven",
+     "half past eleven"
+    ],
+    "a": 0,
+    "why": "Pasan 15 de las 11."
+   },
+   {
+    "t": "choice",
+    "q": "9:35 =",
+    "options": [
+     "twenty-five to ten",
+     "twenty-five past nine",
+     "thirty-five to nine"
+    ],
+    "a": 0,
+    "why": "Faltan 25 para las 10."
+   },
+   {
+    "t": "choice",
+    "q": "4:20 =",
+    "options": [
+     "twenty past four",
+     "twenty to four",
+     "twenty past five"
+    ],
+    "a": 0,
+    "why": "Pasan 20 de las 4."
+   },
+   {
+    "t": "choice",
+    "q": "8:30 =",
+    "options": [
+     "half past eight",
+     "half to nine",
+     "eight and half"
+    ],
+    "a": 0,
+    "why": "y media = half past."
+   },
+   {
+    "t": "gap",
+    "q": "7:00 = seven ___",
+    "a": [
+     "o'clock",
+     "oclock"
+    ],
+    "why": "en punto"
+   },
+   {
+    "t": "gap",
+    "q": "It is a quarter ___ five. (4:45)",
+    "a": [
+     "to"
+    ],
+    "why": "menos cuarto = a quarter to"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0011",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "Direcciones y preposiciones de lugar",
+  "rule": [
+   "Opposite = enfrente de. Next to = al lado de. Between = entre. Behind = detrás. In front of = delante.",
+   "Turn left / turn right = gire a la izquierda / derecha. Walk straight ahead = siga recto. Go down / go up = baje / suba.",
+   "Pedir educadamente: Excuse me, could you tell me how to get to...? / Would you mind telling me where... is?"
+  ],
+  "examples": [
+   {
+    "en": "The boardroom is opposite the open-plan office.",
+    "es": "La sala de juntas está enfrente de la oficina diáfana."
+   },
+   {
+    "en": "Turn right and walk straight ahead.",
+    "es": "Gire a la derecha y siga recto."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "The boardroom is ___ the open-plan office. (enfrente)",
+    "options": [
+     "opposite",
+     "between",
+     "behind"
+    ],
+    "a": 0,
+    "why": "opposite = enfrente"
+   },
+   {
+    "t": "choice",
+    "q": "The meeting room is ___ the director's office and the conference room. (entre)",
+    "options": [
+     "between",
+     "next",
+     "on"
+    ],
+    "a": 0,
+    "why": "between = entre"
+   },
+   {
+    "t": "choice",
+    "q": "Turn ___ at the end of the corridor. (a la izquierda)",
+    "options": [
+     "left",
+     "straight",
+     "up"
+    ],
+    "a": 0,
+    "why": "left = izquierda"
+   },
+   {
+    "t": "gap",
+    "q": "Walk ___ ahead. (siga recto)",
+    "a": [
+     "straight"
+    ],
+    "why": "walk straight ahead"
+   },
+   {
+    "t": "choice",
+    "q": "Take the lift ___ to the first floor.",
+    "options": [
+     "up",
+     "on",
+     "at"
+    ],
+    "a": 0,
+    "why": "take the lift up"
+   },
+   {
+    "t": "gap",
+    "q": "The IT office is ___ to the restrooms. (al lado)",
+    "a": [
+     "next"
+    ],
+    "why": "next to"
+   },
+   {
+    "t": "choice",
+    "q": "Go ___ the corridor.",
+    "options": [
+     "down",
+     "in",
+     "under"
+    ],
+    "a": 0,
+    "why": "go down the corridor"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0012",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "Palabras interrogativas",
+  "rule": [
+   "What = qué. Where = dónde. When = cuándo. Who = quién. Why = por qué (Because = porque). How = cómo. Which = cuál.",
+   "How old = qué edad. How much = cuánto (incontable / precio). How many = cuántos (contable).",
+   "Orden: palabra interrogativa + do/does/is/are + sujeto: Where do you live?"
+  ],
+  "examples": [
+   {
+    "en": "How many ports does it have?",
+    "es": "¿Cuántos puertos tiene?"
+   },
+   {
+    "en": "Why do you want this job?",
+    "es": "¿Por qué quiere este trabajo?"
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "___ is your name?",
+    "options": [
+     "What",
+     "Where",
+     "Who"
+    ],
+    "a": 0,
+    "why": "What is your name?"
+   },
+   {
+    "t": "choice",
+    "q": "___ do you live?",
+    "options": [
+     "Where",
+     "When",
+     "Why"
+    ],
+    "a": 0,
+    "why": "Where = dónde"
+   },
+   {
+    "t": "choice",
+    "q": "___ old are you?",
+    "options": [
+     "How",
+     "What",
+     "Which"
+    ],
+    "a": 0,
+    "why": "How old...?"
+   },
+   {
+    "t": "choice",
+    "q": "___ do you study English? Because I need it for work.",
+    "options": [
+     "Why",
+     "How",
+     "When"
+    ],
+    "a": 0,
+    "why": "Because → pregunta Why"
+   },
+   {
+    "t": "choice",
+    "q": "___ many ports does it have?",
+    "options": [
+     "How",
+     "What",
+     "Which"
+    ],
+    "a": 0,
+    "why": "How many + plural"
+   },
+   {
+    "t": "choice",
+    "q": "___ is the meeting? At ten o'clock.",
+    "options": [
+     "When",
+     "Where",
+     "Who"
+    ],
+    "a": 0,
+    "why": "Hora → When"
+   },
+   {
+    "t": "choice",
+    "q": "___ module do you prefer?",
+    "options": [
+     "Which",
+     "Where",
+     "How"
+    ],
+    "a": 0,
+    "why": "Elegir entre varios → Which"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0013",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Pasado simple",
+  "rule": [
+   "Regulares: verbo + -ed → install → installed, replace → replaced.",
+   "Irregulares: go → went, have → had, buy → bought, break → broke, send → sent, forget → forgot, write → wrote.",
+   "Negativo y pregunta: did / didn't + verbo base: I didn't replace it. Did you finish?"
+  ],
+  "examples": [
+   {
+    "en": "Yesterday I installed the update.",
+    "es": "Ayer instalé la actualización."
+   },
+   {
+    "en": "She went to the office by bus.",
+    "es": "Fue a la oficina en autobús."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "Yesterday I ___ the update. (install)",
+    "a": [
+     "installed"
+    ],
+    "why": "regular → -ed"
+   },
+   {
+    "t": "gap",
+    "q": "She ___ to the office by bus. (go)",
+    "a": [
+     "went"
+    ],
+    "why": "go → went"
+   },
+   {
+    "t": "gap",
+    "q": "He ___ the screen. (break)",
+    "a": [
+     "broke"
+    ],
+    "why": "break → broke"
+   },
+   {
+    "t": "gap",
+    "q": "We ___ a meeting last Monday. (have)",
+    "a": [
+     "had"
+    ],
+    "why": "have → had"
+   },
+   {
+    "t": "choice",
+    "q": "I ___ my password last week.",
+    "options": [
+     "forgot",
+     "forget",
+     "forgotten"
+    ],
+    "a": 0,
+    "why": "forget → forgot"
+   },
+   {
+    "t": "choice",
+    "q": "He didn't ___ the cable.",
+    "options": [
+     "replace",
+     "replaced",
+     "replaces"
+    ],
+    "a": 0,
+    "why": "Tras didn't, verbo base."
+   },
+   {
+    "t": "choice",
+    "q": "___ you finish the report?",
+    "options": [
+     "Did",
+     "Do",
+     "Does"
+    ],
+    "a": 0,
+    "why": "Pasado → Did you...?"
+   },
+   {
+    "t": "gap",
+    "q": "I ___ the email at ten. (send)",
+    "a": [
+     "sent"
+    ],
+    "why": "send → sent"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0014",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Voz pasiva",
+  "rule": [
+   "Presente: is / are + participio → The server is updated every night.",
+   "Pasado: was / were + participio → The PC was assembled yesterday.",
+   "Se usa cuando importa más la acción que quién la hace. Con 'by' se dice quién: assembled by technicians."
+  ],
+  "examples": [
+   {
+    "en": "Passwords are changed every three months.",
+    "es": "Las contraseñas se cambian cada tres meses."
+   },
+   {
+    "en": "The new PC was assembled yesterday.",
+    "es": "El PC nuevo se montó ayer."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "The server ___ every night. (update, pasiva)",
+    "a": [
+     "is updated"
+    ],
+    "why": "is + participio"
+   },
+   {
+    "t": "gap",
+    "q": "Passwords ___ every three months. (change, pasiva)",
+    "a": [
+     "are changed"
+    ],
+    "why": "are + participio"
+   },
+   {
+    "t": "choice",
+    "q": "The new PC ___ yesterday.",
+    "options": [
+     "was assembled",
+     "is assemble",
+     "assembled by"
+    ],
+    "a": 0,
+    "why": "pasado → was + participio"
+   },
+   {
+    "t": "gap",
+    "q": "The files ___ on the server. (store, pasiva)",
+    "a": [
+     "are stored"
+    ],
+    "why": "plural → are stored"
+   },
+   {
+    "t": "choice",
+    "q": "Emails ___ by the mail server.",
+    "options": [
+     "are sent",
+     "send",
+     "are send"
+    ],
+    "a": 0,
+    "why": "are + sent"
+   },
+   {
+    "t": "choice",
+    "q": "The router ___ in the lobby.",
+    "options": [
+     "is installed",
+     "are installed",
+     "installs"
+    ],
+    "a": 0,
+    "why": "singular → is installed"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0015",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "Futuro: will y going to",
+  "rule": [
+   "WILL: decisiones en el momento y promesas → I will restart it.",
+   "GOING TO: planes ya decididos → I am going to replace the cable. We are going to update the servers on Saturday.",
+   "Siempre + verbo base."
+  ],
+  "examples": [
+   {
+    "en": "I'm going to replace the cable.",
+    "es": "Voy a sustituir el cable."
+   },
+   {
+    "en": "I will help you.",
+    "es": "Yo te ayudaré."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "I think it ___ work now.",
+    "options": [
+     "will",
+     "is going",
+     "does"
+    ],
+    "a": 0,
+    "why": "predicción / decisión → will"
+   },
+   {
+    "t": "choice",
+    "q": "I ___ buy a new laptop next month. (plan)",
+    "options": [
+     "am going to",
+     "will to",
+     "go"
+    ],
+    "a": 0,
+    "why": "plan → am going to"
+   },
+   {
+    "t": "gap",
+    "q": "I ___ call you tomorrow. (promesa)",
+    "a": [
+     "will"
+    ],
+    "why": "promesa → will"
+   },
+   {
+    "t": "choice",
+    "q": "We ___ update the servers on Saturday.",
+    "options": [
+     "are going to",
+     "is going",
+     "are go"
+    ],
+    "a": 0,
+    "why": "plan → are going to"
+   },
+   {
+    "t": "gap",
+    "q": "I'm going to ___ the cable. (replace)",
+    "a": [
+     "replace"
+    ],
+    "why": "going to + verbo base"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0016",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Condicional 1 y oraciones de relativo",
+  "rule": [
+   "If + presente, will + verbo base: If you restart the computer, it will work.",
+   "Who = personas. Which / that = cosas. Where = lugares.",
+   "A technician is a person who fixes computers. A router is a device which connects networks."
+  ],
+  "examples": [
+   {
+    "en": "If the server fails, the network will stop.",
+    "es": "Si el servidor falla, la red se parará."
+   },
+   {
+    "en": "A technician is a person who fixes computers.",
+    "es": "Un técnico es una persona que arregla ordenadores."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "If the server fails, the network ___ stop.",
+    "options": [
+     "will",
+     "would",
+     "is"
+    ],
+    "a": 0,
+    "why": "If + presente, will"
+   },
+   {
+    "t": "gap",
+    "q": "If you ___ your files, you will lose them. (not back up)",
+    "a": [
+     "don't back up"
+    ],
+    "why": "If + presente negativo"
+   },
+   {
+    "t": "choice",
+    "q": "A technician is a person ___ fixes computers.",
+    "options": [
+     "who",
+     "which",
+     "where"
+    ],
+    "a": 0,
+    "why": "persona → who"
+   },
+   {
+    "t": "choice",
+    "q": "A router is a device ___ connects networks.",
+    "options": [
+     "which",
+     "who",
+     "whose"
+    ],
+    "a": 0,
+    "why": "cosa → which"
+   },
+   {
+    "t": "choice",
+    "q": "The office ___ I work is big.",
+    "options": [
+     "where",
+     "who",
+     "which"
+    ],
+    "a": 0,
+    "why": "lugar → where"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0017",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Orden de la frase",
+  "rule": [
+   "Orden básico: Sujeto + verbo + complemento + lugar + tiempo → I study English every day.",
+   "El adjetivo va ANTES del sustantivo: a new laptop (no 'a laptop new').",
+   "En preguntas: auxiliar + sujeto + verbo: Can you restart the computer?"
+  ],
+  "examples": [
+   {
+    "en": "She works in a small company.",
+    "es": "Trabaja en una empresa pequeña."
+   },
+   {
+    "en": "He has a new laptop.",
+    "es": "Tiene un portátil nuevo."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "order",
+    "words": [
+     "He",
+     "has",
+     "a",
+     "new",
+     "laptop"
+    ],
+    "a": "He has a new laptop",
+    "why": "Adjetivo antes del sustantivo."
+   },
+   {
+    "t": "order",
+    "words": [
+     "She",
+     "works",
+     "in",
+     "a",
+     "small",
+     "company"
+    ],
+    "a": "She works in a small company",
+    "why": "Sujeto + verbo + lugar."
+   },
+   {
+    "t": "order",
+    "words": [
+     "I",
+     "study",
+     "English",
+     "every",
+     "day"
+    ],
+    "a": "I study English every day",
+    "why": "El tiempo va al final."
+   },
+   {
+    "t": "order",
+    "words": [
+     "The",
+     "network",
+     "is",
+     "very",
+     "slow"
+    ],
+    "a": "The network is very slow",
+    "why": "Sujeto + be + adverbio + adjetivo."
+   },
+   {
+    "t": "order",
+    "words": [
+     "Can",
+     "you",
+     "restart",
+     "the",
+     "computer",
+     "?"
+    ],
+    "a": "Can you restart the computer?",
+    "why": "Auxiliar + sujeto + verbo."
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0018",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Presente simple o presente continuo",
+  "rule": [
+   "PRESENTE SIMPLE = hábitos y hechos: always, every day, usually, never, in summer. I check the backups every day.",
+   "PRESENTE CONTINUO = ahora mismo: am / is / are + verbo-ing. I am updating the server now.",
+   "Palabras clave del continuo: now, right now, at the moment, today, this week. Pregunta: Are you watching TV now? / Do you always eat bread?",
+   "Verbos de estado (know, want, like, need, have = tener) casi nunca van en continuo: I know the answer (no 'I am knowing')."
+  ],
+  "examples": [
+   {
+    "en": "I check the backups every day.",
+    "es": "Reviso las copias de seguridad todos los días."
+   },
+   {
+    "en": "She is installing a program right now.",
+    "es": "Ella está instalando un programa ahora mismo."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "She ___ a program right now. (install)",
+    "a": [
+     "is installing",
+     "'s installing"
+    ],
+    "why": "right now → is + -ing"
+   },
+   {
+    "t": "gap",
+    "q": "He always ___ coffee in the morning. (drink)",
+    "a": [
+     "drinks"
+    ],
+    "why": "always → presente simple + -s"
+   },
+   {
+    "t": "choice",
+    "q": "Look! The technician ___ the cable.",
+    "options": [
+     "is replacing",
+     "replaces",
+     "replace"
+    ],
+    "a": 0,
+    "why": "Look! = ahora mismo → continuo"
+   },
+   {
+    "t": "choice",
+    "q": "We usually ___ at 8 o'clock.",
+    "options": [
+     "start",
+     "are starting",
+     "starts"
+    ],
+    "a": 0,
+    "why": "usually → presente simple"
+   },
+   {
+    "t": "choice",
+    "q": "___ you using the printer at the moment?",
+    "options": [
+     "Are",
+     "Do",
+     "Does"
+    ],
+    "a": 0,
+    "why": "at the moment → Are you ...ing?"
+   },
+   {
+    "t": "gap",
+    "q": "I ___ the answer. (know)",
+    "a": [
+     "know"
+    ],
+    "why": "know es verbo de estado: no se usa en continuo."
+   },
+   {
+    "t": "order",
+    "words": [
+     "They",
+     "are",
+     "not",
+     "working",
+     "today"
+    ],
+    "a": "They are not working today",
+    "why": "Sujeto + are not + verbo-ing + today."
+   },
+   {
+    "t": "choice",
+    "q": "My brother ___ in a big company every summer.",
+    "options": [
+     "works",
+     "is working",
+     "work"
+    ],
+    "a": 0,
+    "why": "every summer → hábito → works"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0019",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Pasado continuo: when y while",
+  "rule": [
+   "PASADO CONTINUO: was / were + verbo-ing → acción en progreso en el pasado. I was reading in bed.",
+   "Negativo: wasn't / weren't + -ing. Pregunta: What were you doing at this time yesterday?",
+   "WHILE = mientras, dos acciones al mismo tiempo (las dos en continuo). We were watching the match while they were cooking.",
+   "WHEN = cuando, una acción corta interrumpe la larga: I was reading in bed when he arrived (arrived = pasado simple)."
+  ],
+  "examples": [
+   {
+    "en": "I was reading in bed when you arrived.",
+    "es": "Estaba leyendo en la cama cuando llegaste."
+   },
+   {
+    "en": "What were you doing at this time yesterday?",
+    "es": "¿Qué estabas haciendo a esta hora ayer?"
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "I ___ a cable when the lights went out.",
+    "options": [
+     "was fixing",
+     "fixed",
+     "am fixing"
+    ],
+    "a": 0,
+    "why": "Acción larga interrumpida → was fixing"
+   },
+   {
+    "t": "gap",
+    "q": "We were watching the match ___ they were cooking. (when / while)",
+    "a": [
+     "while"
+    ],
+    "why": "Dos acciones a la vez → while"
+   },
+   {
+    "t": "choice",
+    "q": "She was reading ___ I arrived.",
+    "options": [
+     "when",
+     "while",
+     "during"
+    ],
+    "a": 0,
+    "why": "Una acción corta interrumpe → when"
+   },
+   {
+    "t": "gap",
+    "q": "What ___ you doing at this time yesterday? (be)",
+    "a": [
+     "were"
+    ],
+    "why": "you → were"
+   },
+   {
+    "t": "choice",
+    "q": "He ___ working when the server crashed.",
+    "options": [
+     "wasn't",
+     "weren't",
+     "didn't"
+    ],
+    "a": 0,
+    "why": "he → wasn't"
+   },
+   {
+    "t": "gap",
+    "q": "They ___ updating the PCs when the boss came in. (be)",
+    "a": [
+     "were"
+    ],
+    "why": "they → were"
+   },
+   {
+    "t": "order",
+    "words": [
+     "I",
+     "was",
+     "installing",
+     "Windows",
+     "when",
+     "you",
+     "called"
+    ],
+    "a": "I was installing Windows when you called",
+    "why": "Acción larga + when + acción corta."
+   },
+   {
+    "t": "choice",
+    "q": "While I ___ the laptop, she was answering emails.",
+    "options": [
+     "was repairing",
+     "repaired",
+     "repair"
+    ],
+    "a": 0,
+    "why": "while + pasado continuo"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0020",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Presente perfecto: have / has + participio",
+  "rule": [
+   "Forma: have / has + participio. Regular: visited, finished. Irregular: eaten, done, been, written, gone.",
+   "Se usa para acciones que empezaron en el pasado y siguen, o cuyo efecto vemos ahora. NO se traduce siempre como en español.",
+   "Palabras clave: for (durante), since (desde), already (ya), yet (todavía, en negativas y preguntas), ever, never, just.",
+   "Sarah has lived in Madrid since 2006. = Sarah vive en Madrid desde 2006. I haven't finished yet."
+  ],
+  "examples": [
+   {
+    "en": "She has lived in Madrid since 2006.",
+    "es": "Vive en Madrid desde 2006."
+   },
+   {
+    "en": "You haven't finished your homework.",
+    "es": "No has terminado los deberes."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "She ___ in Madrid since 2006. (live)",
+    "a": [
+     "has lived"
+    ],
+    "why": "has + participio"
+   },
+   {
+    "t": "gap",
+    "q": "We ___ the server twice this week. (restart)",
+    "a": [
+     "have restarted"
+    ],
+    "why": "we → have + participio"
+   },
+   {
+    "t": "choice",
+    "q": "I have worked here ___ three years.",
+    "options": [
+     "for",
+     "since",
+     "ago"
+    ],
+    "a": 0,
+    "why": "for + periodo de tiempo"
+   },
+   {
+    "t": "choice",
+    "q": "He has been a technician ___ 2024.",
+    "options": [
+     "for",
+     "since",
+     "yet"
+    ],
+    "a": 1,
+    "why": "since + momento concreto"
+   },
+   {
+    "t": "choice",
+    "q": "They ___ the report yet.",
+    "options": [
+     "haven't finished",
+     "didn't finished",
+     "aren't finish"
+    ],
+    "a": 0,
+    "why": "yet → negativa con haven't + participio"
+   },
+   {
+    "t": "gap",
+    "q": "What ___ we done? (have)",
+    "a": [
+     "have"
+    ],
+    "why": "What have we done?"
+   },
+   {
+    "t": "choice",
+    "q": "I have ___ installed the update.",
+    "options": [
+     "already",
+     "yet",
+     "ago"
+    ],
+    "a": 0,
+    "why": "already = ya, en afirmativas"
+   },
+   {
+    "t": "gap",
+    "q": "He ___ his homework. (do, ya lo ha hecho)",
+    "a": [
+     "has done"
+    ],
+    "why": "do → done"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0021",
+  "ra": [
+   "RA4"
+  ],
+  "title": "Pasado perfecto: had + participio",
+  "rule": [
+   "Forma: had + participio (igual para todas las personas). I had finished.",
+   "Sitúa una acción en el pasado ANTES de otra acción pasada: I had already finished when you arrived.",
+   "Es imprescindible para el estilo indirecto (reported speech): She said she had restarted the server."
+  ],
+  "examples": [
+   {
+    "en": "I had already finished when you arrived.",
+    "es": "Ya había terminado cuando llegaste."
+   },
+   {
+    "en": "He said he had lost his password.",
+    "es": "Dijo que había perdido su contraseña."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "gap",
+    "q": "I ___ already finished when you arrived. (have)",
+    "a": [
+     "had"
+    ],
+    "why": "had + participio"
+   },
+   {
+    "t": "choice",
+    "q": "When the technician arrived, the user ___ the PC.",
+    "options": [
+     "had restarted",
+     "has restarted",
+     "restarting"
+    ],
+    "a": 0,
+    "why": "Primero reinició; después llegó el técnico → had restarted"
+   },
+   {
+    "t": "choice",
+    "q": "She said she ___ the file.",
+    "options": [
+     "had deleted",
+     "has deleted",
+     "deletes"
+    ],
+    "a": 0,
+    "why": "Estilo indirecto → had + participio"
+   },
+   {
+    "t": "gap",
+    "q": "They had already ___ the cables. (replace)",
+    "a": [
+     "replaced"
+    ],
+    "why": "had + participio regular -ed"
+   },
+   {
+    "t": "choice",
+    "q": "Which is correct?",
+    "options": [
+     "He had gone home before I called.",
+     "He has gone home before I called.",
+     "He had went home before I called."
+    ],
+    "a": 0,
+    "why": "had + gone (participio de go)"
+   }
+  ],
+  "source": "programacion+errores-examen"
+ },
+ {
+  "id": "gr-0022",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "title": "Imperativos (órdenes y peticiones educadas)",
+  "rule": [
+   "IMPERATIVO = verbo base sin sujeto: Restart the computer. Plug in the cable.",
+   "Negativo: Don't + verbo base: Don't unplug it. Don't touch the screen.",
+   "Más educado: Please + imperativo, o Could you / Would you / Can you + verbo base? Could you restart your computer, please?",
+   "Con un cliente es mejor ser educado: Please wait a moment. Could you tell me your name, please?"
+  ],
+  "examples": [
+   {
+    "en": "Please restart your computer.",
+    "es": "Por favor, reinicie su ordenador."
+   },
+   {
+    "en": "Don't unplug the cable.",
+    "es": "No desenchufes el cable."
+   }
+  ],
+  "exercises": [
+   {
+    "t": "choice",
+    "q": "___ the power cable before you open the case.",
+    "options": [
+     "Unplug",
+     "Unplugs",
+     "Unplugging"
+    ],
+    "a": 0,
+    "why": "Imperativo = verbo base."
+   },
+   {
+    "t": "choice",
+    "q": "___ touch the screen with wet hands.",
+    "options": [
+     "Don't",
+     "Not",
+     "No"
+    ],
+    "a": 0,
+    "why": "Negativo: Don't + verbo base."
+   },
+   {
+    "t": "choice",
+    "q": "Which one is more polite?",
+    "options": [
+     "Restart it.",
+     "Could you restart it, please?",
+     "You restart it."
+    ],
+    "a": 1,
+    "why": "Could you...? es la forma más educada."
+   },
+   {
+    "t": "gap",
+    "q": "___ wait a moment. (por favor, formal)",
+    "a": [
+     "please",
+     "Please"
+    ],
+    "why": "Please + imperativo."
+   },
+   {
+    "t": "order",
+    "words": [
+     "Could",
+     "you",
+     "tell",
+     "me",
+     "your",
+     "name",
+     "please",
+     "?"
+    ],
+    "a": "Could you tell me your name please?",
+    "why": "Could you + verbo base + ... please?"
+   },
+   {
+    "t": "choice",
+    "q": "Cuando hablas con un cliente enfadado dices:",
+    "options": [
+     "Calm down!",
+     "Please wait a moment. I will help you.",
+     "Be quiet."
+    ],
+    "a": 1,
+    "why": "Con clientes: educado y claro."
+   }
+  ],
+  "source": "programacion+errores-examen"
+ }
+]

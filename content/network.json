@@ -1,0 +1,362 @@
+[
+ {
+  "id": "nw-0001",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "router",
+  "es": "router (enrutador)",
+  "pos": "noun",
+  "def_en": "A device that connects your network to the Internet and sends data to the right place.",
+  "example_en": "The router is in the server room.",
+  "example_es": "El router está en la sala de servidores.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0002",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "switch",
+  "es": "conmutador (switch)",
+  "pos": "noun",
+  "def_en": "A device that connects several computers in a local network.",
+  "example_en": "Plug each cable into the switch.",
+  "example_es": "Conecta cada cable al conmutador.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0003",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "modem",
+  "es": "módem",
+  "pos": "noun",
+  "def_en": "A device that connects you to the Internet through a phone or cable line.",
+  "example_en": "Restart the modem and wait one minute.",
+  "example_es": "Reinicia el módem y espera un minuto.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0004",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "access point",
+  "es": "punto de acceso",
+  "pos": "noun",
+  "def_en": "A device that gives Wi-Fi to the computers near it.",
+  "example_en": "We installed a new access point on the ceiling.",
+  "example_es": "Instalamos un punto de acceso nuevo en el techo.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0005",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "network card",
+  "es": "tarjeta de red",
+  "pos": "noun",
+  "def_en": "A card that lets a computer connect to a network.",
+  "example_en": "The network card is damaged.",
+  "example_es": "La tarjeta de red está estropeada.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0006",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "Ethernet cable",
+  "es": "cable Ethernet",
+  "pos": "noun",
+  "def_en": "A cable with RJ45 connectors used for wired networks.",
+  "example_en": "An Ethernet cable is more stable than Wi-Fi.",
+  "example_es": "Un cable Ethernet es más estable que el wifi.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0007",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "RJ45 connector",
+  "es": "conector RJ45",
+  "pos": "noun",
+  "def_en": "The plastic plug at the end of an Ethernet cable.",
+  "example_en": "Crimp the RJ45 connector onto the cable.",
+  "example_es": "Crimpa el conector RJ45 en el cable.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0008",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "Wi-Fi",
+  "es": "wifi",
+  "pos": "noun",
+  "def_en": "A technology that connects devices to a network without cables.",
+  "example_en": "The Wi-Fi is slow in this room.",
+  "example_es": "El wifi va lento en esta sala.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0009",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "local area network (LAN)",
+  "es": "red de área local (LAN)",
+  "pos": "noun",
+  "def_en": "A network that connects computers in a small area, such as an office.",
+  "example_en": "The LAN connects all the computers in the building.",
+  "example_es": "La red local conecta todos los ordenadores del edificio.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0010",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "wide area network (WAN)",
+  "es": "red de área extensa (WAN)",
+  "pos": "noun",
+  "def_en": "A network that covers a large area, such as a country.",
+  "example_en": "The Internet is the biggest WAN in the world.",
+  "example_es": "Internet es la WAN más grande del mundo.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0011",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "IP address",
+  "es": "dirección IP",
+  "pos": "noun",
+  "def_en": "A number that identifies a device in a network.",
+  "example_en": "Every computer in the network has a different IP address.",
+  "example_es": "Cada ordenador de la red tiene una dirección IP distinta.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0012",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "bandwidth",
+  "es": "ancho de banda",
+  "pos": "noun",
+  "def_en": "The amount of data that a connection can carry at the same time.",
+  "example_en": "Video calls need a lot of bandwidth.",
+  "example_es": "Las videollamadas necesitan mucho ancho de banda.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0013",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "protocol",
+  "es": "protocolo",
+  "pos": "noun",
+  "def_en": "A set of rules that computers follow to communicate.",
+  "example_en": "HTTP is a protocol used by web browsers.",
+  "example_es": "HTTP es un protocolo que usan los navegadores web.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0014",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "firewall",
+  "es": "cortafuegos (firewall)",
+  "pos": "noun",
+  "def_en": "A security system that blocks dangerous traffic from the network.",
+  "example_en": "The firewall blocks unknown connections.",
+  "example_es": "El cortafuegos bloquea las conexiones desconocidas.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0015",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "network administrator",
+  "es": "administrador de redes",
+  "pos": "noun",
+  "def_en": "A person who manages and protects a company network.",
+  "example_en": "The network administrator creates new user accounts.",
+  "example_es": "El administrador de redes crea cuentas de usuario nuevas.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0016",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "shared folder",
+  "es": "carpeta compartida",
+  "pos": "noun",
+  "def_en": "A folder that several users can open over the network.",
+  "example_en": "Save the report in the shared folder.",
+  "example_es": "Guarda el informe en la carpeta compartida.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0017",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "file server",
+  "es": "servidor de archivos",
+  "pos": "noun",
+  "def_en": "A server that stores files for all the users.",
+  "example_en": "The file server is full.",
+  "example_es": "El servidor de archivos está lleno.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0018",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "web server",
+  "es": "servidor web",
+  "pos": "noun",
+  "def_en": "A server that stores websites and sends them to browsers.",
+  "example_en": "The web server is down.",
+  "example_es": "El servidor web está caído.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0019",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "mail server",
+  "es": "servidor de correo",
+  "pos": "noun",
+  "def_en": "A server that sends and receives emails.",
+  "example_en": "The mail server needs more space.",
+  "example_es": "El servidor de correo necesita más espacio.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0020",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "network failure",
+  "es": "fallo de red",
+  "pos": "noun",
+  "def_en": "A problem that stops the network from working.",
+  "example_en": "A network failure stopped the office for two hours.",
+  "example_es": "Un fallo de red paralizó la oficina durante dos horas.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0021",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "slow connection",
+  "es": "conexión lenta",
+  "pos": "noun",
+  "def_en": "An Internet or network connection that has low speed.",
+  "example_en": "A slow connection makes video calls difficult.",
+  "example_es": "Una conexión lenta hace difíciles las videollamadas.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0022",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "user account",
+  "es": "cuenta de usuario",
+  "pos": "noun",
+  "def_en": "Your personal access to a computer or system, with a name and password.",
+  "example_en": "I created a user account for the new employee.",
+  "example_es": "He creado una cuenta de usuario para el nuevo empleado.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0023",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "data transfer",
+  "es": "transferencia de datos",
+  "pos": "noun",
+  "def_en": "The movement of information from one device to another.",
+  "example_en": "Data transfer is faster with a cable.",
+  "example_es": "La transferencia de datos es más rápida con cable.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "nw-0024",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "network",
+  "en": "remote access",
+  "es": "acceso remoto",
+  "pos": "noun",
+  "def_en": "Using a computer from another place through the network.",
+  "example_en": "Remote access lets me work from home.",
+  "example_es": "El acceso remoto me permite trabajar desde casa.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ }
+]

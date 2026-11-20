@@ -1,0 +1,332 @@
+[
+ {
+  "id": "di-0001",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "My name is ...",
+  "es": "Me llamo ...",
+  "pos": "phrase",
+  "example_en": "My name is Nour. I am 20 years old.",
+  "example_es": "Me llamo Nour. Tengo 20 años.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0002",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I am 20 years old.",
+  "es": "Tengo 20 años. (¡con 'am', no 'have'!)",
+  "pos": "phrase",
+  "example_en": "I am 20 years old. I am not 21.",
+  "example_es": "Tengo 20 años. No tengo 21.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0003",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I am from Morocco.",
+  "es": "Soy de Marruecos.",
+  "pos": "phrase",
+  "example_en": "I am from Morocco, but I live in Madrid.",
+  "example_es": "Soy de Marruecos, pero vivo en Madrid.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0004",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I live in Madrid.",
+  "es": "Vivo en Madrid.",
+  "pos": "phrase",
+  "example_en": "I live in Madrid with my family.",
+  "example_es": "Vivo en Madrid con mi familia.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0005",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I speak French and Spanish.",
+  "es": "Hablo francés y español.",
+  "pos": "phrase",
+  "example_en": "I speak French and Spanish, and I am learning English.",
+  "example_es": "Hablo francés y español, y estoy aprendiendo inglés.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0006",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I study at a vocational school.",
+  "es": "Estudio en un centro de formación profesional.",
+  "pos": "phrase",
+  "example_en": "I study at a vocational school in Madrid.",
+  "example_es": "Estudio en un centro de formación profesional en Madrid.",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0007",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I study Microcomputer Systems and Networks.",
+  "es": "Estudio Sistemas Microinformáticos y Redes.",
+  "pos": "phrase",
+  "example_en": "I study Microcomputer Systems and Networks.",
+  "example_es": "Estudio Sistemas Microinformáticos y Redes.",
+  "difficulty": 3,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0008",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I like Network Operating Systems because I learn a lot.",
+  "es": "Me gustan los Sistemas operativos en red porque aprendo mucho.",
+  "pos": "phrase",
+  "example_en": "I like Network Operating Systems because I learn a lot.",
+  "example_es": "Me gustan los Sistemas operativos en red porque aprendo mucho.",
+  "difficulty": 3,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0009",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I don't like ... very much.",
+  "es": "No me gusta ... mucho.",
+  "pos": "phrase",
+  "example_en": "I don't like Web Applications very much because it is difficult.",
+  "example_es": "No me gustan mucho las Aplicaciones web porque son difíciles.",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0010",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "I want to work as a network technician.",
+  "es": "Quiero trabajar de técnico de redes.",
+  "pos": "phrase",
+  "example_en": "I want to work as a network technician in a big company.",
+  "example_es": "Quiero trabajar de técnico de redes en una empresa grande.",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0011",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "He works as a technician.",
+  "es": "Él trabaja de técnico.",
+  "pos": "phrase",
+  "example_en": "He works as a technician. He fixes computers.",
+  "example_es": "Trabaja de técnico. Arregla ordenadores.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0012",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "She has a laptop.",
+  "es": "Ella tiene un portátil.",
+  "pos": "phrase",
+  "example_en": "She has a laptop with 16 GB of RAM.",
+  "example_es": "Ella tiene un portátil con 16 GB de RAM.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0013",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "My laptop has 16 GB of RAM and a 256 GB SSD.",
+  "es": "Mi portátil tiene 16 GB de RAM y un SSD de 256 GB.",
+  "pos": "phrase",
+  "example_en": "My laptop has 16 GB of RAM and a 256 GB SSD. It is very fast.",
+  "example_es": "Mi portátil tiene 16 GB de RAM y un SSD de 256 GB. Es muy rápido.",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0014",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "What is your name?",
+  "es": "¿Cómo te llamas?",
+  "pos": "phrase",
+  "example_en": "Hello. What is your name, please?",
+  "example_es": "Hola. ¿Cómo se llama, por favor?",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0015",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "How old are you?",
+  "es": "¿Cuántos años tienes?",
+  "pos": "phrase",
+  "example_en": "How old are you? I am twenty.",
+  "example_es": "¿Cuántos años tienes? Tengo veinte.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0016",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "Where are you from?",
+  "es": "¿De dónde eres?",
+  "pos": "phrase",
+  "example_en": "Where are you from? I am from Spain.",
+  "example_es": "¿De dónde eres? Soy de España.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0017",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "Could you spell your surname, please?",
+  "es": "¿Podría deletrear su apellido, por favor?",
+  "pos": "phrase",
+  "example_en": "Could you spell your surname, please?",
+  "example_es": "¿Podría deletrear su apellido, por favor?",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0018",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "Could you tell me your full name?",
+  "es": "¿Podría decirme su nombre completo?",
+  "pos": "phrase",
+  "example_en": "Good morning. Could you tell me your full name?",
+  "example_es": "Buenos días. ¿Podría decirme su nombre completo?",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0019",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "What is your phone number?",
+  "es": "¿Cuál es su número de teléfono?",
+  "pos": "phrase",
+  "example_en": "What is your phone number and email address?",
+  "example_es": "¿Cuál es su número de teléfono y su correo electrónico?",
+  "difficulty": 2,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0020",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "Which modules did you study?",
+  "es": "¿Qué módulos estudió?",
+  "pos": "phrase",
+  "example_en": "Which modules did you study at school?",
+  "example_es": "¿Qué módulos estudió en el centro?",
+  "difficulty": 3,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0021",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "Nice to meet you.",
+  "es": "Encantado de conocerle.",
+  "pos": "phrase",
+  "example_en": "Nice to meet you. I am the new technician.",
+  "example_es": "Encantado de conocerle. Soy el técnico nuevo.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ },
+ {
+  "id": "di-0022",
+  "ra": [
+   "RA3",
+   "RA4"
+  ],
+  "topic": "daily-intro",
+  "en": "Pleased to meet you.",
+  "es": "Mucho gusto.",
+  "pos": "phrase",
+  "example_en": "Pleased to meet you, Mr Smith.",
+  "example_es": "Mucho gusto, señor Smith.",
+  "difficulty": 1,
+  "source": "programacion+examenes"
+ }
+]

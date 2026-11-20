@@ -1,0 +1,833 @@
+[
+ {
+  "id": "rd-0001",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Setting Up a Secure Network Office",
+  "level": "B1",
+  "module": "Local Networks · Hardware & Maintenance · Security & Applications",
+  "paragraphs": [
+   "David is a network administrator at a modern tech firm. His daily duties focus on Local Networks, Computer Safety, and managing Web Applications. Every morning, he verifies that all workstation hardware—including desktop computers, flat panel monitors, scanners, and projectors—is running smoothly. To prevent hardware failure, he regularly inspects network cables, power sockets, and server docking stations.",
+   "David ensures that all office staff use ergonomic keyboards and optical mice to maintain comfort during long working hours. When employees experience connection issues, he uses diagnostic tools to test wireless signals and replace faulty cables. David finds his job rewarding because building a fast, secure network environment helps the entire company work efficiently."
+  ],
+  "tf": [
+   {
+    "q": "David's primary work involves managing local networks and computer safety.",
+    "a": "T",
+    "why": "His daily duties focus on Local Networks, Computer Safety, and Web Applications."
+   },
+   {
+    "q": "David uses outdated CRT monitors in the company workstations.",
+    "a": "F",
+    "why": "The text talks about modern flat panel monitors, not outdated CRT monitors."
+   },
+   {
+    "q": "He inspects network cables and power sockets to prevent system failure.",
+    "a": "T",
+    "why": "\"To prevent hardware failure, he regularly inspects network cables, power sockets...\""
+   },
+   {
+    "q": "David thinks his job is boring and unrewarding.",
+    "a": "F",
+    "why": "\"David finds his job rewarding.\""
+   }
+  ],
+  "open": [
+   {
+    "q": "What main tasks and subjects does David handle in his daily routine?",
+    "model": "David manages local networks, computer safety and web applications, and every morning he checks the workstation hardware."
+   },
+   {
+    "q": "Which hardware does David check every morning?",
+    "model": "He checks desktop computers, flat panel monitors, scanners and projectors."
+   },
+   {
+    "q": "Why does David find his job rewarding?",
+    "model": "Because building a fast, secure network helps the whole company work efficiently."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "To check something carefully (it is used with 'hardware')",
+    "answer": "verifies"
+   },
+   {
+    "def": "Sees if something is broken, looking carefully",
+    "answer": "inspects"
+   },
+   {
+    "def": "Not working correctly, with a problem",
+    "answer": "faulty"
+   },
+   {
+    "def": "Giving a feeling of satisfaction",
+    "answer": "rewarding"
+   }
+  ],
+  "source": "tu-examen",
+  "note": "Texto de tu examen del 22/10 (Model 2). Las preguntas 2 y 3 abiertas son añadidas para practicar."
+ },
+ {
+  "id": "rd-0002",
+  "ra": [
+   "RA2"
+  ],
+  "title": "A New Technician at TechFix",
+  "level": "A2-B1",
+  "module": "Assembly and Maintenance · Local Networks",
+  "paragraphs": [
+   "Ana is 21 years old and she works as a computer systems technician at TechFix, a small company in Madrid. She studied Microcomputer Systems and Networks, and her favourite modules were Local Networks and Computer Safety. Every morning, she checks the server and the network cables. Her workstation has a flat panel monitor and an ergonomic keyboard. She thinks the new SSD is faster than the old hard disk drive. At lunchtime she eats in the kitchenette with her colleagues."
+  ],
+  "tf": [
+   {
+    "q": "Ana is 22 years old.",
+    "a": "F",
+    "why": "Ana is 21 years old."
+   },
+   {
+    "q": "Ana works in a small company.",
+    "a": "T",
+    "why": "TechFix is a small company in Madrid."
+   },
+   {
+    "q": "Her favourite modules were Local Networks and Computer Safety.",
+    "a": "T",
+    "why": "It is in the text, second sentence."
+   },
+   {
+    "q": "She uses an optical mouse at work.",
+    "a": "NM",
+    "why": "The text does not mention a mouse."
+   },
+   {
+    "q": "She eats lunch in the open-plan office.",
+    "a": "F",
+    "why": "She eats in the kitchenette."
+   },
+   {
+    "q": "She thinks the SSD is slower than the hard disk drive.",
+    "a": "F",
+    "why": "She thinks the SSD is faster."
+   }
+  ],
+  "open": [
+   {
+    "q": "What is Ana's job and where does she work?",
+    "model": "She is a computer systems technician at TechFix, a small company in Madrid."
+   },
+   {
+    "q": "What does she check every morning?",
+    "model": "She checks the server and the network cables every morning."
+   },
+   {
+    "q": "Why does she like the new SSD?",
+    "model": "Because it is faster than the old hard disk drive."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "People who work with you in the same company",
+    "answer": "colleagues"
+   },
+   {
+    "def": "Looks at something to make sure it is OK",
+    "answer": "checks"
+   },
+   {
+    "def": "More quick",
+    "answer": "faster"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "rd-0003",
+  "ra": [
+   "RA2"
+  ],
+  "title": "A Slow Computer",
+  "level": "A2-B1",
+  "module": "Network Services · Customer service",
+  "paragraphs": [
+   "On Tuesday morning, Mr Lopez calls the help desk because his computer is very slow. The technician, Maria, asks for his name and his phone number. She asks him to restart the computer, but the problem continues. Then she opens a remote connection and finds a virus. She removes it with the antivirus and installs an important update. After twenty minutes, the computer is faster. Mr Lopez is happy and thanks her. Maria reminds him that he should never open emails from strangers and that he must back up his files every week."
+  ],
+  "tf": [
+   {
+    "q": "Mr Lopez calls the help desk on Monday.",
+    "a": "F",
+    "why": "He calls on Tuesday morning."
+   },
+   {
+    "q": "Maria asks for Mr Lopez's name and phone number.",
+    "a": "T",
+    "why": "She asks for his name and his phone number."
+   },
+   {
+    "q": "Restarting the computer solves the problem.",
+    "a": "F",
+    "why": "The problem continues after the restart."
+   },
+   {
+    "q": "Maria finds a virus on the computer.",
+    "a": "T",
+    "why": "She opens a remote connection and finds a virus."
+   },
+   {
+    "q": "The computer is faster after about twenty minutes.",
+    "a": "T",
+    "why": "\"After twenty minutes, the computer is faster.\""
+   },
+   {
+    "q": "Maria offers to sell Mr Lopez a new computer.",
+    "a": "NM",
+    "why": "The text does not say this."
+   }
+  ],
+  "open": [
+   {
+    "q": "Why does Mr Lopez call the help desk?",
+    "model": "Because his computer is very slow."
+   },
+   {
+    "q": "What does Maria find on the computer?",
+    "model": "She finds a virus."
+   },
+   {
+    "q": "What advice does Maria give him?",
+    "model": "He should never open emails from strangers and he must back up his files every week."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Takes something away",
+    "answer": "removes"
+   },
+   {
+    "def": "People you do not know",
+    "answer": "strangers"
+   },
+   {
+    "def": "Makes someone remember something",
+    "answer": "reminds"
+   },
+   {
+    "def": "Not fast",
+    "answer": "slow"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "rd-0004",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Building a New PC",
+  "level": "B1",
+  "module": "Assembly and Maintenance of Computers",
+  "paragraphs": [
+   "First, Tom shuts down the old computer and unplugs all the cables. Then he unscrews the side panel and slides it off. He lifts out the old motherboard and aligns the new one with the screw holes. Next, he inserts the processor and the memory modules until they snap into place. After that, he slides the power supply into its slot and screws it to the case. Finally, he double checks all the cables, closes the case and powers on the computer. The new PC is quieter and more powerful than the old one."
+  ],
+  "tf": [
+   {
+    "q": "Tom shuts down the old computer at the beginning.",
+    "a": "T",
+    "why": "\"First, Tom shuts down the old computer...\""
+   },
+   {
+    "q": "He slides the side panel off before he lifts out the motherboard.",
+    "a": "T",
+    "why": "He slides the panel off, then lifts out the old motherboard."
+   },
+   {
+    "q": "The memory modules snap into place.",
+    "a": "T",
+    "why": "He inserts them until they snap into place."
+   },
+   {
+    "q": "Tom installs a new graphics card.",
+    "a": "NM",
+    "why": "No graphics card is mentioned."
+   },
+   {
+    "q": "He checks the cables before he powers on the computer.",
+    "a": "T",
+    "why": "He double checks all the cables, then powers on."
+   },
+   {
+    "q": "The new PC is louder than the old one.",
+    "a": "F",
+    "why": "It is quieter and more powerful."
+   }
+  ],
+  "open": [
+   {
+    "q": "What does Tom do first?",
+    "model": "He shuts down the old computer and unplugs all the cables."
+   },
+   {
+    "q": "How does he place the new motherboard?",
+    "model": "He aligns it with the screw holes."
+   },
+   {
+    "q": "What does he do at the end?",
+    "model": "He double checks all the cables, closes the case and powers on the computer."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Turns off the computer in the correct way",
+    "answer": "shuts down"
+   },
+   {
+    "def": "Checks again to be sure",
+    "answer": "double checks"
+   },
+   {
+    "def": "Starts the computer",
+    "answer": "powers on"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "rd-0005",
+  "ra": [
+   "RA2"
+  ],
+  "title": "Computer Safety at Nova Office",
+  "level": "B1",
+  "module": "Computer Safety",
+  "paragraphs": [
+   "At Nova Office, safety is very important. Every employee has a user account and a strong password. The company changes the passwords every three months. The IT manager, Laura, installs the updates every Friday and makes a backup every night. Employees must not open emails from unknown people, and they should not use USB drives from home. Last month, the antivirus stopped a dangerous phishing email. Laura says that a safe network is cheaper than a data loss."
+  ],
+  "tf": [
+   {
+    "q": "Every employee has a user account.",
+    "a": "T",
+    "why": "\"Every employee has a user account and a strong password.\""
+   },
+   {
+    "q": "The company changes the passwords every month.",
+    "a": "F",
+    "why": "They change them every three months."
+   },
+   {
+    "q": "Laura makes a backup every night.",
+    "a": "T",
+    "why": "\"...makes a backup every night.\""
+   },
+   {
+    "q": "Employees can use their USB drives from home.",
+    "a": "F",
+    "why": "They should not use USB drives from home."
+   },
+   {
+    "q": "The antivirus stopped a phishing email last month.",
+    "a": "T",
+    "why": "\"Last month, the antivirus stopped a dangerous phishing email.\""
+   },
+   {
+    "q": "The company has fifty employees.",
+    "a": "NM",
+    "why": "The number of employees is not mentioned."
+   }
+  ],
+  "open": [
+   {
+    "q": "How often does the company change the passwords?",
+    "model": "It changes them every three months."
+   },
+   {
+    "q": "What does Laura do every Friday?",
+    "model": "She installs the updates."
+   },
+   {
+    "q": "What must employees not do?",
+    "model": "They must not open emails from unknown people, and they should not use USB drives from home."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Not known",
+    "answer": "unknown"
+   },
+   {
+    "def": "People who work for a company",
+    "answer": "employees"
+   },
+   {
+    "def": "Costs less money",
+    "answer": "cheaper"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "rd-0006",
+  "ra": [
+   "RA2"
+  ],
+  "title": "The Network at ByteNet",
+  "level": "B1",
+  "module": "Local Networks",
+  "paragraphs": [
+   "Carlos is a network administrator at ByteNet. He is responsible for the local network of the company. He thinks Ethernet cables are more reliable than Wi-Fi, but Wi-Fi is the most convenient way to connect mobile devices. This week, a switch fails and twelve computers lose their connection. Carlos replaces the switch in thirty minutes. Later, he configures a new access point in the lobby, so visitors can use the Internet. He loves his job because it is rewarding and every day is different."
+  ],
+  "tf": [
+   {
+    "q": "Carlos is responsible for the local network.",
+    "a": "T",
+    "why": "\"He is responsible for the local network of the company.\""
+   },
+   {
+    "q": "He thinks Wi-Fi is more reliable than Ethernet.",
+    "a": "F",
+    "why": "He thinks Ethernet cables are more reliable."
+   },
+   {
+    "q": "A router fails this week.",
+    "a": "F",
+    "why": "A switch fails, not a router."
+   },
+   {
+    "q": "Twelve computers lose their connection.",
+    "a": "T",
+    "why": "\"...twelve computers lose their connection.\""
+   },
+   {
+    "q": "Carlos replaces the switch in two hours.",
+    "a": "F",
+    "why": "He replaces it in thirty minutes."
+   },
+   {
+    "q": "Visitors have to pay for the Wi-Fi.",
+    "a": "NM",
+    "why": "Payment is not mentioned."
+   }
+  ],
+  "open": [
+   {
+    "q": "What is Carlos's job?",
+    "model": "He is a network administrator at ByteNet."
+   },
+   {
+    "q": "What happens this week?",
+    "model": "A switch fails and twelve computers lose their connection."
+   },
+   {
+    "q": "Why does he like his job?",
+    "model": "Because it is rewarding and every day is different."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "That you can trust; it works well every time",
+    "answer": "reliable"
+   },
+   {
+    "def": "Stops working",
+    "answer": "fails"
+   },
+   {
+    "def": "Giving satisfaction",
+    "answer": "rewarding"
+   },
+   {
+    "def": "People who come to a place for a short time",
+    "answer": "visitors"
+   }
+  ],
+  "source": "original"
+ },
+ {
+  "id": "rd-0007",
+  "ra": [
+   "RA2",
+   "RA3"
+  ],
+  "title": "A Busy First Monday at Global Admin Solutions (Modelo A)",
+  "level": "B1",
+  "module": "Oficina · Hora · Direcciones",
+  "paragraphs": [
+   "Welcome to Global Admin Solutions Ltd. Today is Monday, and it is 8:45 AM. Sarah Jenkins is starting her new job as a Financial Administrative in the Accounts Department. She graduated last June after completing several demanding modules, including Accounting and Taxation, Financial Management, and Office Automation and Information Processing.",
+   "When Sarah arrives at the Main Entrance, she goes straight to the Reception on the Ground Floor. The Receptionist, Mark, greets her warmly and checks her personal details. He asks for her full name, home address, and emergency phone number before giving her a security badge.",
+   "Mark explains the layout of the building so Sarah doesn't get lost: \"Right now, we are in the lobby. To get to your workstation, walk down the Main Corridor and take the lift on your left up to the First Floor. Once you exit the stairs or lift, turn right into the Break Area. Walk straight ahead past the HR Department, and you will find the IT Office on your right, right next to the restrooms.\"",
+   "However, Sarah's first meeting is at 9:15 AM with the Chief Financial Officer (CFO) and the Executive Assistant in the Boardroom on the Ground Floor. Mark tells her to go down the corridor, turn right, and enter the room opposite the Open-Plan Office. Sarah checks her watch: it is ten to nine. She has twenty-five minutes to grab a quick coffee in the Kitchenette before her meeting begins."
+  ],
+  "tf": [
+   {
+    "q": "Sarah studied Human Resource Management as part of her diploma.",
+    "a": "F",
+    "why": "She completed Accounting and Taxation, Financial Management, and Office Automation and Information Processing."
+   },
+   {
+    "q": "Sarah arrives at the company fifteen minutes before nine o'clock.",
+    "a": "T",
+    "why": "Today is Monday and it is 8:45 AM (fifteen minutes before 9:00)."
+   },
+   {
+    "q": "The Receptionist gives Sarah a personal tour of the First Floor.",
+    "a": "F",
+    "why": "Mark explains the layout from Reception; he does not go upstairs with her."
+   },
+   {
+    "q": "To reach the IT Office from the First Floor lift, you have to turn right.",
+    "a": "T",
+    "why": "\"Once you exit the stairs or lift, turn right into the Break Area... the IT Office on your right.\""
+   },
+   {
+    "q": "Sarah's first meeting is with the Head of Purchasing.",
+    "a": "F",
+    "why": "Her meeting is with the Chief Financial Officer (CFO) and the Executive Assistant."
+   },
+   {
+    "q": "Sarah has previously worked as an Accounting Clerk in another firm.",
+    "a": "NM",
+    "why": "The text does not mention any previous work experience."
+   }
+  ],
+  "open": [
+   {
+    "q": "What specific job position is Sarah starting today, and which department will she work in?",
+    "model": "She is starting as a Financial Administrative in the Accounts Department."
+   },
+   {
+    "q": "What personal details does Mark ask Sarah for at the front desk?",
+    "model": "He asks for her full name, home address, and emergency phone number."
+   },
+   {
+    "q": "How can Sarah get from the Reception to the First Floor?",
+    "model": "She has to walk down the Main Corridor and take the lift on her left up to the First Floor."
+   },
+   {
+    "q": "Where is the Boardroom located according to Mark's instructions?",
+    "model": "It is on the Ground Floor, down the corridor, turning right, opposite the Open-Plan Office."
+   },
+   {
+    "q": "What time does Sarah look at her watch, and what does she decide to do before her meeting?",
+    "model": "She checks her watch at ten to nine (8:50 AM) and decides to grab a quick coffee in the Kitchenette."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Difficult / challenging",
+    "answer": "demanding"
+   },
+   {
+    "def": "Design / structure of a building",
+    "answer": "layout"
+   },
+   {
+    "def": "Elevator",
+    "answer": "lift"
+   },
+   {
+    "def": "Toilets",
+    "answer": "restrooms"
+   },
+   {
+    "def": "In front of / facing",
+    "answer": "opposite"
+   }
+  ],
+  "source": "profesora-modelo-A"
+ },
+ {
+  "id": "rd-0008",
+  "ra": [
+   "RA2",
+   "RA3"
+  ],
+  "title": "Organizing Suppliers and Logistics at EuroTrade Corp. (Modelo B)",
+  "level": "B1",
+  "module": "Oficina · Hora · Direcciones",
+  "paragraphs": [
+   "David Miller works as a Logistics Administrative in the Purchasing Department at EuroTrade Corp. Before getting this permanent contract, he studied a vocational degree in Administration and Finance, where his favourite subjects were Logistics and Commercial Management, Business Simulation, and Integral Process of Business.",
+   "Every Wednesday morning, David meets external suppliers. Today, a vendor arrives at the Main Entrance at 10:20 AM. After parking his van in the Parking Lot, the visitor walks into the Lobby and speaks to Elena, the Receptionist. Elena politely asks for his full name, company name, and ID card number to register him in the system.",
+   "Next, Elena gives him clear directions to the Conference Room on the First Floor: \"Walk straight along the Main Corridor on this floor and take the stairs on your left up to the First Floor. When you get upstairs, turn right and walk all the way down the Break Area. The Conference Room is at the far end of the corridor on your left, right above the Toilets.\"",
+   "When the supplier reaches the First Floor, he notices it is twenty-five past ten. He has five minutes before his 10:30 AM appointment with the Procurement Manager and the Vendor Management specialist. Later, at 12:00 PM, they will visit the Warehouse together to check new stock deliveries."
+  ],
+  "tf": [
+   {
+    "q": "David Miller currently has a temporary internship at EuroTrade Corp.",
+    "a": "F",
+    "why": "He has a permanent contract."
+   },
+   {
+    "q": "One of David's favourite modules during his studies was Business Simulation.",
+    "a": "T",
+    "why": "His favourites were Logistics and Commercial Management, Business Simulation, and Integral Process of Business."
+   },
+   {
+    "q": "The supplier leaves his vehicle in the Parking Lot before entering the building.",
+    "a": "T",
+    "why": "\"After parking his van in the Parking Lot...\""
+   },
+   {
+    "q": "Elena asks the visitor for his home address and date of birth.",
+    "a": "F",
+    "why": "She asks for his full name, company name, and ID card number."
+   },
+   {
+    "q": "To reach the Conference Room upstairs, the visitor must turn left after leaving the stairs.",
+    "a": "F",
+    "why": "He must turn right when he gets upstairs."
+   },
+   {
+    "q": "The supplier arrives at the First Floor five minutes early for his meeting.",
+    "a": "T",
+    "why": "He arrives at twenty-five past ten and the meeting is at 10:30."
+   }
+  ],
+  "open": [
+   {
+    "q": "What is David Miller's job title, and which department does he belong to?",
+    "model": "He is a Logistics Administrative in the Purchasing Department."
+   },
+   {
+    "q": "What three modules did David enjoy most during his vocational degree?",
+    "model": "He enjoyed Logistics and Commercial Management, Business Simulation, and Integral Process of Business."
+   },
+   {
+    "q": "What personal and professional details does Elena request at Reception?",
+    "model": "She requests his full name, company name, and ID card number."
+   },
+   {
+    "q": "Where is the Conference Room situated on the First Floor?",
+    "model": "It is at the far end of the First Floor corridor on the left, right above the Toilets."
+   },
+   {
+    "q": "Who is the supplier meeting at 10:30 AM, and what will they do at midday?",
+    "model": "He is meeting the Procurement Manager and the Vendor Management specialist; at 12:00 PM they will visit the Warehouse."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Suppliers / providers",
+    "answer": "vendors"
+   },
+   {
+    "def": "Car park",
+    "answer": "Parking Lot"
+   },
+   {
+    "def": "Reception area",
+    "answer": "Lobby"
+   },
+   {
+    "def": "Directly over",
+    "answer": "right above"
+   },
+   {
+    "def": "Sees / observes",
+    "answer": "notices"
+   }
+  ],
+  "source": "profesora-modelo-B"
+ },
+ {
+  "id": "rd-0009",
+  "ra": [
+   "RA2",
+   "RA3"
+  ],
+  "title": "Customer Service and Tax Consulting at LexFiscal Partners (Modelo C)",
+  "level": "B1",
+  "module": "Oficina · Hora · Direcciones",
+  "paragraphs": [
+   "Laura Gómez is responsible for customer service at LexFiscal Partners, an administrative and fiscal consultancy firm. She holds a Higher Technician diploma in Administration and Finance, having excelled in modules such as Accounting and Taxation, Human Resources and Corporate Social Responsibility, and English.",
+   "At 11:40 AM on Thursday, a client enters the Main Entrance looking for legal and tax advice. He walks up to the Front Desk, where Laura greets him professionally. Before calling the tax advisor, Laura asks the client for his full name, tax identification number, and email address so she can open his digital file.",
+   "After registering his details, Laura guides him to the meeting area: \"Please walk down the Main Corridor and take the elevator on your left to the First Floor. Once you get off the elevator, turn right into the Lounge. Walk straight past the Archive Room, and enter the Meeting Room on your left, right between the Director's Office and the Conference Room.\"",
+   "The client thanks her and checks the clock on the wall: it is a quarter to twelve. His consultation with the Accountant and the Legal Advisor is scheduled for 12:15 PM, so he decides to wait comfortably in the Client Lounge while reviewing his tax documents."
+  ],
+  "tf": [
+   {
+    "q": "Laura Gómez works in the Maintenance Department at LexFiscal Partners.",
+    "a": "F",
+    "why": "She is responsible for customer service."
+   },
+   {
+    "q": "Laura studied English and Accounting and Taxation during her diploma.",
+    "a": "T",
+    "why": "She excelled in Accounting and Taxation, Human Resources and CSR, and English."
+   },
+   {
+    "q": "The client arrives at the office twenty minutes before twelve o'clock.",
+    "a": "T",
+    "why": "He enters at 11:40 AM (twenty minutes before 12:00)."
+   },
+   {
+    "q": "Laura asks the client for his bank account number and home phone.",
+    "a": "F",
+    "why": "She asks for his full name, tax identification number, and email address."
+   },
+   {
+    "q": "The Meeting Room is located between the Director's Office and the Conference Room.",
+    "a": "T",
+    "why": "\"...the Meeting Room on your left, right between the Director's Office and the Conference Room.\""
+   },
+   {
+    "q": "The client has to wait forty-five minutes for his consultation to start.",
+    "a": "F",
+    "why": "He checks the clock at 11:45 and his consultation is at 12:15 (thirty minutes)."
+   }
+  ],
+  "open": [
+   {
+    "q": "What is Laura's role at LexFiscal Partners, and what type of company is it?",
+    "model": "She is responsible for customer service at an administrative and fiscal consultancy firm."
+   },
+   {
+    "q": "What three modules did Laura stand out in during her studies?",
+    "model": "She excelled in Accounting and Taxation, Human Resources and Corporate Social Responsibility, and English."
+   },
+   {
+    "q": "Why does Laura ask the client for his personal details at the Front Desk?",
+    "model": "She asks for them so she can open his digital file before calling the tax advisor."
+   },
+   {
+    "q": "How does Laura instruct the client to get from the Ground Floor to the Meeting Room?",
+    "model": "Walk down the Main Corridor, take the elevator on the left to the First Floor, turn right into the Lounge, walk past the Archive Room, and enter the Meeting Room on the left."
+   },
+   {
+    "q": "Who will the client meet at 12:15 PM, and where does he wait until then?",
+    "model": "He will meet the Accountant and the Legal Advisor, and he waits in the Client Lounge."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Performed very well / stood out",
+    "answer": "excelled"
+   },
+   {
+    "def": "Reception",
+    "answer": "Front Desk"
+   },
+   {
+    "def": "Lift",
+    "answer": "elevator"
+   },
+   {
+    "def": "Planned / arranged",
+    "answer": "scheduled"
+   },
+   {
+    "def": "Checking / examining",
+    "answer": "reviewing"
+   }
+  ],
+  "source": "profesora-modelo-C"
+ },
+ {
+  "id": "rd-0010",
+  "ra": [
+   "RA2",
+   "RA4"
+  ],
+  "title": "Behind the Headset: Life on the IT Frontline (C1)",
+  "level": "C1",
+  "module": "Helpdesk · Nivel avanzado (opcional)",
+  "paragraphs": [
+   "My workday begins the moment I put on my headset and log into the support queue, prepared for whatever digital chaos the morning brings. As an IT helpdesk technician, I act as the bridge between complex technology and everyday users, troubleshooting everything from minor software glitches to major network failures.",
+   "While routine queries like password resets are easily resolved, the real test lies in managing high-pressure situations. When a main server goes down, panic spreads quickly, and the phone lines are instantly overwhelmed. Handling these moments requires more than just technical knowledge; it demands great emotional resilience.",
+   "Undoubtedly, the most demanding aspect of the job is dealing with furious clients. When deadlines are tight and technology fails, frustration often turns into hostility. My role is to calm the situation down, listen actively, and translate complicated technical jargon into plain English. It is a fast-paced and demanding environment, yet the satisfaction of solving a user's crisis makes the daily routine genuinely worthwhile."
+  ],
+  "tf": [
+   {
+    "q": "The writer works as an IT helpdesk technician.",
+    "a": "T",
+    "why": "\"As an IT helpdesk technician, I act as the bridge...\""
+   },
+   {
+    "q": "Password resets are the most difficult part of the job.",
+    "a": "F",
+    "why": "Routine queries like password resets are easily resolved."
+   },
+   {
+    "q": "The writer finds dealing with furious clients the most demanding aspect.",
+    "a": "T",
+    "why": "\"...the most demanding aspect of the job is dealing with furious clients.\""
+   },
+   {
+    "q": "The writer works for a bank.",
+    "a": "NM",
+    "why": "The type of company is not mentioned."
+   }
+  ],
+  "open": [
+   {
+    "q": "What does the writer do to calm angry clients?",
+    "model": "The writer calms the situation down, listens actively, and translates technical jargon into plain English."
+   },
+   {
+    "q": "Why is the job worthwhile for the writer?",
+    "model": "Because the satisfaction of solving a user's crisis makes the daily routine worthwhile."
+   }
+  ],
+  "synonyms": [
+   {
+    "def": "Small, temporary technical problems (Paragraph 1)",
+    "answer": "glitches"
+   },
+   {
+    "def": "Flooded / completely full of work or calls (Paragraph 2)",
+    "answer": "overwhelmed"
+   },
+   {
+    "def": "The ability to recover quickly from difficulties (Paragraph 2)",
+    "answer": "resilience"
+   },
+   {
+    "def": "Extremely angry (Paragraph 3)",
+    "answer": "furious"
+   },
+   {
+    "def": "Simple language that anyone can understand (Paragraph 3)",
+    "answer": "plain English"
+   }
+  ],
+  "source": "aula-virtual",
+  "rephrase": [
+   {
+    "orig": "The phone lines are instantly overwhelmed when a main server goes down. (SOONER)",
+    "start": "No",
+    "gap": "sooner does a main server go down than the phone lines are overwhelmed.",
+    "answers": [
+     "sooner does a main server go down than the phone lines are overwhelmed"
+    ],
+    "hint": "No sooner + auxiliar + sujeto + verbo base + than ..."
+   },
+   {
+    "orig": "Handling these moments requires more than just technical knowledge. (ONLY)",
+    "start": "Not",
+    "gap": "only does handling these moments require technical knowledge, but it also demands great emotional resilience.",
+    "answers": [
+     "only does handling these moments require"
+    ],
+    "hint": "Not only + auxiliar + sujeto + verbo base (inversión)"
+   },
+   {
+    "orig": "Dealing with furious clients is undoubtedly the most demanding aspect of the job. (DOUBT)",
+    "start": "There",
+    "gap": "is no doubt (that) dealing with furious clients is the most demanding aspect of the job.",
+    "answers": [
+     "is no doubt that",
+     "is no doubt"
+    ],
+    "hint": "There is no doubt (that) ..."
+   },
+   {
+    "orig": "The satisfaction of solving a user's crisis makes the daily routine worthwhile. (WORTHWHILE)",
+    "start": "The daily routine",
+    "gap": "is made worthwhile by the satisfaction of solving a user's crisis.",
+    "answers": [
+     "is made worthwhile by",
+     "is worthwhile because of"
+    ],
+    "hint": "voz pasiva: is made worthwhile by ..."
+   }
+  ]
+ }
+]

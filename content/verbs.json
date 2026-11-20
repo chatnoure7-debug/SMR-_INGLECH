@@ -1,0 +1,557 @@
+[
+ {
+  "id": "vb-0001",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "disassemble",
+  "es": "desmontar",
+  "pos": "verb",
+  "def_en": "To take a computer apart, piece by piece.",
+  "example_en": "First, disassemble the computer carefully.",
+  "example_es": "Primero, desmonta el ordenador con cuidado.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0002",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "assemble",
+  "es": "montar",
+  "pos": "verb",
+  "def_en": "To put the parts of a computer together.",
+  "example_en": "Assemble the parts in the right order.",
+  "example_es": "Monta las piezas en el orden correcto.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0003",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "shut down",
+  "es": "apagar (el sistema)",
+  "pos": "verb",
+  "def_en": "To turn off the computer properly through the software before physical work.",
+  "example_en": "Shut down the computer before opening the case.",
+  "example_es": "Apaga el ordenador antes de abrir la caja.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0004",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "unplug",
+  "es": "desenchufar",
+  "pos": "verb",
+  "def_en": "To remove a cable from a port or socket.",
+  "example_en": "Unplug the power cable from the socket.",
+  "example_es": "Desenchufa el cable de alimentación de la toma.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0005",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "plug in",
+  "es": "enchufar / conectar",
+  "pos": "verb",
+  "def_en": "To insert a cable into a port or socket.",
+  "example_en": "Plug in the keyboard to the USB port.",
+  "example_es": "Conecta el teclado al puerto USB.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0006",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "unscrew",
+  "es": "desatornillar",
+  "pos": "verb",
+  "def_en": "To remove a screw with a screwdriver.",
+  "example_en": "Unscrew the four screws on the back panel.",
+  "example_es": "Desatornilla los cuatro tornillos del panel trasero.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0007",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "screw",
+  "es": "atornillar",
+  "pos": "verb",
+  "def_en": "To fix a part with a screw.",
+  "example_en": "Screw the hard drive to the case.",
+  "example_es": "Atornilla el disco duro a la caja.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0008",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "slide out",
+  "es": "sacar deslizando",
+  "pos": "verb",
+  "def_en": "To move a part smoothly out of its place.",
+  "example_en": "Slide out the side panel of the tower.",
+  "example_es": "Saca deslizando el panel lateral de la torre.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0009",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "slide into",
+  "es": "introducir deslizando",
+  "pos": "verb",
+  "def_en": "To move a part smoothly into its place.",
+  "example_en": "Slide the power supply into its slot.",
+  "example_es": "Introduce deslizando la fuente de alimentación en su ranura.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0010",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "align",
+  "es": "alinear",
+  "pos": "verb",
+  "def_en": "To line up a part with the holes or the slot.",
+  "example_en": "Align the memory module with the slot.",
+  "example_es": "Alinea el módulo de memoria con la ranura.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0011",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "lift out",
+  "es": "levantar y sacar",
+  "pos": "verb",
+  "def_en": "To carefully lift a part out of the case.",
+  "example_en": "Lift out the motherboard carefully.",
+  "example_es": "Levanta y saca la placa base con cuidado.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0012",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "pull out",
+  "es": "extraer / sacar tirando",
+  "pos": "verb",
+  "def_en": "To remove a part by pulling it.",
+  "example_en": "Pull out the old graphics card gently.",
+  "example_es": "Extrae con suavidad la tarjeta gráfica antigua.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0013",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "snap into place",
+  "es": "encajar con un clic",
+  "pos": "verb",
+  "def_en": "To lock into the correct position with a click.",
+  "example_en": "Press until the module snaps into place.",
+  "example_es": "Presiona hasta que el módulo encaje con un clic.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0014",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "double check",
+  "es": "comprobar dos veces",
+  "pos": "verb",
+  "def_en": "To verify that all parts and cables are connected correctly.",
+  "example_en": "Double check all the cables before you power on.",
+  "example_es": "Comprueba dos veces todos los cables antes de encender.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0015",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "power on",
+  "es": "encender",
+  "pos": "verb",
+  "def_en": "To turn on the computer after the assembly is complete.",
+  "example_en": "Power on the computer and wait for the logo.",
+  "example_es": "Enciende el ordenador y espera al logotipo.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0016",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "select",
+  "es": "seleccionar",
+  "pos": "verb",
+  "def_en": "To choose an option in a menu, for example in the BIOS.",
+  "example_en": "Select the USB drive in the boot menu.",
+  "example_es": "Selecciona la unidad USB en el menú de arranque.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0017",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "go back",
+  "es": "volver atrás",
+  "pos": "verb",
+  "def_en": "To return to the previous menu.",
+  "example_en": "Press Esc to go back.",
+  "example_es": "Pulsa Esc para volver atrás.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0018",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "tighten",
+  "es": "apretar",
+  "pos": "verb",
+  "def_en": "To make a screw or a cable more firm.",
+  "example_en": "Tighten the screws, but do not use too much force.",
+  "example_es": "Aprieta los tornillos, pero sin usar demasiada fuerza.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0019",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "loosen",
+  "es": "aflojar",
+  "pos": "verb",
+  "def_en": "To make a screw less tight.",
+  "example_en": "Loosen the screw and remove the cover.",
+  "example_es": "Afloja el tornillo y quita la tapa.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0020",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "insert",
+  "es": "insertar",
+  "pos": "verb",
+  "def_en": "To put a part inside another part.",
+  "example_en": "Insert the memory module into the slot.",
+  "example_es": "Inserta el módulo de memoria en la ranura.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0021",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "remove",
+  "es": "quitar / extraer",
+  "pos": "verb",
+  "def_en": "To take something away from its place.",
+  "example_en": "Remove the old battery.",
+  "example_es": "Quita la batería vieja.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0022",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "replace",
+  "es": "sustituir",
+  "pos": "verb",
+  "def_en": "To put a new part in place of an old one.",
+  "example_en": "Replace the faulty cable with a new one.",
+  "example_es": "Sustituye el cable defectuoso por uno nuevo.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0023",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "connect",
+  "es": "conectar",
+  "pos": "verb",
+  "def_en": "To join a device to another device or network.",
+  "example_en": "Connect the printer to the network.",
+  "example_es": "Conecta la impresora a la red.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0024",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "disconnect",
+  "es": "desconectar",
+  "pos": "verb",
+  "def_en": "To separate a device from another device or network.",
+  "example_en": "Disconnect the laptop from the dock.",
+  "example_es": "Desconecta el portátil de la base.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0025",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "restart",
+  "es": "reiniciar",
+  "pos": "verb",
+  "def_en": "To turn a computer off and on again.",
+  "example_en": "Please restart your computer and try again.",
+  "example_es": "Por favor, reinicia tu ordenador e inténtalo otra vez.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0026",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "install",
+  "es": "instalar",
+  "pos": "verb",
+  "def_en": "To put a program on a computer so that it works.",
+  "example_en": "Install the update on all the computers.",
+  "example_es": "Instala la actualización en todos los ordenadores.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0027",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "uninstall",
+  "es": "desinstalar",
+  "pos": "verb",
+  "def_en": "To remove a program from a computer.",
+  "example_en": "Uninstall the old antivirus first.",
+  "example_es": "Desinstala primero el antivirus antiguo.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0028",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "configure",
+  "es": "configurar",
+  "pos": "verb",
+  "def_en": "To set up a device or a program so that it works correctly.",
+  "example_en": "Configure the router before you connect the computers.",
+  "example_es": "Configura el router antes de conectar los ordenadores.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0029",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "troubleshoot",
+  "es": "diagnosticar y resolver problemas",
+  "pos": "verb",
+  "def_en": "To look for the cause of a problem and fix it.",
+  "example_en": "I troubleshoot network problems every day.",
+  "example_es": "Diagnostico y resuelvo problemas de red cada día.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0030",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "fix",
+  "es": "arreglar",
+  "pos": "verb",
+  "def_en": "To repair something that is broken.",
+  "example_en": "He fixes computers for a living.",
+  "example_es": "Arregla ordenadores para ganarse la vida.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0031",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "upgrade",
+  "es": "mejorar / actualizar el equipo",
+  "pos": "verb",
+  "def_en": "To replace something with a better or newer version.",
+  "example_en": "We upgrade the RAM to make the computer faster.",
+  "example_es": "Ampliamos la RAM para que el ordenador sea más rápido.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0032",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "format",
+  "es": "formatear",
+  "pos": "verb",
+  "def_en": "To erase a disk and prepare it for new data.",
+  "example_en": "Format the disk and install the system again.",
+  "example_es": "Formatea el disco e instala el sistema otra vez.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0033",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "scan",
+  "es": "analizar / escanear",
+  "pos": "verb",
+  "def_en": "To check a computer or a document for problems or viruses.",
+  "example_en": "Scan the laptop for viruses.",
+  "example_es": "Analiza el portátil en busca de virus.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0034",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "test",
+  "es": "probar",
+  "pos": "verb",
+  "def_en": "To check whether something works correctly.",
+  "example_en": "Test the cable with the diagnostic tool.",
+  "example_es": "Prueba el cable con la herramienta de diagnóstico.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0035",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "log in",
+  "es": "iniciar sesión",
+  "pos": "verb",
+  "def_en": "To enter your account with a username and password.",
+  "example_en": "Log in with your username and password.",
+  "example_es": "Inicia sesión con tu nombre de usuario y contraseña.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0036",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "log out",
+  "es": "cerrar sesión",
+  "pos": "verb",
+  "def_en": "To leave your account.",
+  "example_en": "Always log out when you leave your desk.",
+  "example_es": "Cierra siempre la sesión cuando te vayas de tu mesa.",
+  "difficulty": 1,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "vb-0037",
+  "ra": [
+   "RA2"
+  ],
+  "topic": "assembly-verbs",
+  "en": "back up",
+  "es": "hacer una copia de seguridad",
+  "pos": "verb",
+  "def_en": "To make a copy of your files in case you lose them.",
+  "example_en": "Back up your files every week.",
+  "example_es": "Haz una copia de tus archivos cada semana.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ }
+]

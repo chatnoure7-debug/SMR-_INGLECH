@@ -1,0 +1,354 @@
+[
+ {
+  "id": "md-0001",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Assembly and Maintenance of Computers",
+  "es": "Montaje y mantenimiento de equipos",
+  "pos": "noun",
+  "def_en": "The module where you learn to build and repair computers.",
+  "example_en": "He studies Assembly and Maintenance of Computers.",
+  "example_es": "Estudia Montaje y mantenimiento de equipos.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0002",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Single-user Operating Systems",
+  "es": "Sistemas operativos monopuesto",
+  "pos": "noun",
+  "def_en": "The module about operating systems for one user, such as Windows.",
+  "example_en": "Single-user Operating Systems teaches how to install Windows.",
+  "example_es": "Sistemas operativos monopuesto enseña a instalar Windows.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0003",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Office Automation Applications",
+  "es": "Aplicaciones ofimáticas",
+  "pos": "noun",
+  "def_en": "The module about office programs, such as word processors and spreadsheets.",
+  "example_en": "In Office Automation Applications, she learns to use spreadsheets.",
+  "example_es": "En Aplicaciones ofimáticas aprende a usar hojas de cálculo.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0004",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Network Operating Systems",
+  "es": "Sistemas operativos en red",
+  "pos": "noun",
+  "def_en": "The module about operating systems that manage users and resources in a network.",
+  "example_en": "She likes Network Operating Systems because she learns a lot.",
+  "example_es": "Le gustan los Sistemas operativos en red porque aprende mucho.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0005",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Local Networks",
+  "es": "Redes locales",
+  "pos": "noun",
+  "def_en": "The module about how to build and manage networks in a building.",
+  "example_en": "Local Networks is about cables, switches and routers.",
+  "example_es": "Redes locales trata de cables, conmutadores y routers.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0006",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Computer Safety",
+  "es": "Seguridad informática",
+  "pos": "noun",
+  "def_en": "The module about protecting computers and data.",
+  "example_en": "In Computer Safety, he learns to protect the system.",
+  "example_es": "En Seguridad informática aprende a proteger el sistema.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0007",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Network Services",
+  "es": "Servicios en red",
+  "pos": "noun",
+  "def_en": "The module about email, web and file servers.",
+  "example_en": "Network Services is a module about email, web and file servers.",
+  "example_es": "Servicios en red es un módulo sobre correo, web y servidores de archivos.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0008",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Web Applications",
+  "es": "Aplicaciones web",
+  "pos": "noun",
+  "def_en": "The module about creating and managing web applications.",
+  "example_en": "He prefers Web Applications because it is creative.",
+  "example_es": "Prefiere Aplicaciones web porque es creativa.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0009",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "Professional Training and Guidance",
+  "es": "Formación y orientación laboral",
+  "pos": "noun",
+  "def_en": "The module that helps students prepare their CV and job interviews.",
+  "example_en": "Professional Training and Guidance helps students prepare for job interviews.",
+  "example_es": "Formación y orientación laboral ayuda a los alumnos a preparar entrevistas de trabajo.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0010",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "technician in computer system installation-repair",
+  "es": "técnico/a de instalación y reparación de sistemas informáticos",
+  "pos": "noun",
+  "def_en": "A person who installs and repairs computer systems.",
+  "example_en": "A technician in computer system installation-repair visits customers' offices.",
+  "example_es": "Un técnico de instalación y reparación de sistemas informáticos visita las oficinas de los clientes.",
+  "difficulty": 4,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0011",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "computer systems technician",
+  "es": "técnico/a de sistemas informáticos",
+  "pos": "noun",
+  "def_en": "A person who looks after the computers of a company.",
+  "example_en": "The computer systems technician updates all the workstations.",
+  "example_es": "El técnico de sistemas informáticos actualiza todos los puestos de trabajo.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0012",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "data networks technician",
+  "es": "técnico/a de redes de datos",
+  "pos": "noun",
+  "def_en": "A person who installs and repairs network cables and devices.",
+  "example_en": "A data networks technician installs and repairs network cables.",
+  "example_es": "Un técnico de redes de datos instala y repara cables de red.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0013",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "repairer of microcomputer systems peripherals",
+  "es": "reparador/a de periféricos de sistemas microinformáticos",
+  "pos": "noun",
+  "def_en": "A person who repairs printers, keyboards, and other devices.",
+  "example_en": "A repairer of microcomputer systems peripherals fixes printers and scanners.",
+  "example_es": "Un reparador de periféricos arregla impresoras y escáneres.",
+  "difficulty": 5,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0014",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "microcomputer sales representative",
+  "es": "comercial de microinformática",
+  "pos": "noun",
+  "def_en": "A person who sells computers and explains their prices and features.",
+  "example_en": "The sales representative explains the price of each laptop.",
+  "example_es": "El comercial explica el precio de cada portátil.",
+  "difficulty": 4,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0015",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "teleassistance operator",
+  "es": "operador/a de teleasistencia",
+  "pos": "noun",
+  "def_en": "A person who helps customers by phone or online.",
+  "example_en": "A teleassistance operator helps customers by phone.",
+  "example_es": "Un operador de teleasistencia ayuda a los clientes por teléfono.",
+  "difficulty": 4,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0016",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "systems operator",
+  "es": "operador/a de sistemas",
+  "pos": "noun",
+  "def_en": "A person who controls and monitors computer systems.",
+  "example_en": "The systems operator checks the servers every morning.",
+  "example_es": "El operador de sistemas revisa los servidores cada mañana.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0017",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "helpdesk technician",
+  "es": "técnico/a de soporte (helpdesk)",
+  "pos": "noun",
+  "def_en": "A person who solves the computer problems of users.",
+  "example_en": "The helpdesk technician resets passwords.",
+  "example_es": "El técnico de soporte restablece contraseñas.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0018",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "system administrator",
+  "es": "administrador/a de sistemas",
+  "pos": "noun",
+  "def_en": "A person who manages the servers and users of a company.",
+  "example_en": "The system administrator installs the updates at night.",
+  "example_es": "El administrador de sistemas instala las actualizaciones por la noche.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0019",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "web developer",
+  "es": "desarrollador/a web",
+  "pos": "noun",
+  "def_en": "A person who creates websites and web applications.",
+  "example_en": "The web developer is designing a new online shop.",
+  "example_es": "El desarrollador web está diseñando una tienda en línea nueva.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0020",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "security analyst",
+  "es": "analista de seguridad",
+  "pos": "noun",
+  "def_en": "A person who looks for risks and protects the systems of a company.",
+  "example_en": "The security analyst found a virus on the server.",
+  "example_es": "El analista de seguridad encontró un virus en el servidor.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0021",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "field technician",
+  "es": "técnico/a de campo (a domicilio)",
+  "pos": "noun",
+  "def_en": "A technician who travels to the customer's place to repair equipment.",
+  "example_en": "A field technician drives to the customer's office.",
+  "example_es": "Un técnico de campo conduce hasta la oficina del cliente.",
+  "difficulty": 3,
+  "source": "aula-virtual"
+ },
+ {
+  "id": "md-0022",
+  "ra": [
+   "RA2",
+   "RA5"
+  ],
+  "topic": "modules-jobs",
+  "en": "IT manager",
+  "es": "responsable de informática",
+  "pos": "noun",
+  "def_en": "The person in charge of the IT department.",
+  "example_en": "The IT manager decides which computers to buy.",
+  "example_es": "El responsable de informática decide qué ordenadores comprar.",
+  "difficulty": 2,
+  "source": "aula-virtual"
+ }
+]
